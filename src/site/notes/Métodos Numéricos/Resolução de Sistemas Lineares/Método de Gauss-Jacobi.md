@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Jacobi/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-22T10:36:57.260-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Jacobi/","dgPassFrontmatter":true,"created":"2025-04-22T10:36:57.260-03:00"}
 ---
 
 

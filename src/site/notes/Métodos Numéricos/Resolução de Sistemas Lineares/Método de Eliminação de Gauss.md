@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Eliminação de Gauss/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-12T18:56:11.071-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Eliminação de Gauss/","dgPassFrontmatter":true,"created":"2025-05-12T18:56:11.071-03:00"}
 ---
 
 

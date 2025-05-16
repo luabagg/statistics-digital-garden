@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método de Newton-Raphson/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-25T11:09:15.992-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método de Newton-Raphson/","dgPassFrontmatter":true,"created":"2025-03-25T11:09:15.992-03:00"}
 ---
 
 

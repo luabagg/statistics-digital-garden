@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Probabilidade/Distribuições/Distribuições/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-04-22T08:43:45.356-03:00"}
+---
+
+
+- **[[Probabilidade/Distribuições/Distribuições\|Distribuições]]**
+	- [[Probabilidade/Distribuições/Binômio de Newton\|Binômio de Newton]]
+	- [[Probabilidade/Distribuições/Distribuição Binomial Negativa\|Distribuição Binomial Negativa]]
+	- [[Probabilidade/Distribuições/Distribuição Binomial\|Distribuição Binomial]]
+	- [[Probabilidade/Distribuições/Distribuição de Bernoulli\|Distribuição de Bernoulli]]
+	- [[Probabilidade/Distribuições/Distribuição Geométrica\|Distribuição Geométrica]]
+	- [[Probabilidade/Distribuições/Distribuição Hipergeométrica\|Distribuição Hipergeométrica]]
+	- [[Probabilidade/Distribuições/Distribuição Poisson\|Distribuição Poisson]]
+	- [[Probabilidade/Distribuições/Distribuição Uniforme\|Distribuição Uniforme]]
+	- [[Probabilidade/Distribuições/Esperança a Partir da Função Geradora de Momentos\|Esperança a Partir da Função Geradora de Momentos]]
+
+

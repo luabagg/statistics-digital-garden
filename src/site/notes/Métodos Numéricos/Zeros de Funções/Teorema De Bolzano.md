@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Teorema De Bolzano/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-22T17:02:11.166-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Teorema De Bolzano/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.166-03:00"}
 ---
 
 

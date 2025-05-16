@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Resolução de Sistemas Lineares/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-01T10:43:09.237-03:00"}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Resolução de Sistemas Lineares/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-04-01T10:43:09.237-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método das Secantes/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-25T11:09:32.120-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método das Secantes/","dgPassFrontmatter":true,"created":"2025-03-25T11:09:32.120-03:00"}
 ---
 
 

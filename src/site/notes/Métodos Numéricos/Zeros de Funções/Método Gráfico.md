@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método Gráfico/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-01T10:39:11.468-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método Gráfico/","dgPassFrontmatter":true,"created":"2025-04-01T10:39:11.468-03:00"}
 ---
 
 

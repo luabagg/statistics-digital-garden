@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método da Falsa Posição/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-25T11:08:58.090-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método da Falsa Posição/","dgPassFrontmatter":true,"created":"2025-03-25T11:08:58.090-03:00"}
 ---
 
 

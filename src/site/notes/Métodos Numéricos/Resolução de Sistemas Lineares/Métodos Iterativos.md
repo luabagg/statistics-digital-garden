@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Métodos Iterativos/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-11T11:26:07.567-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Métodos Iterativos/","dgPassFrontmatter":true,"created":"2025-04-11T11:26:07.567-03:00"}
 ---
 
 

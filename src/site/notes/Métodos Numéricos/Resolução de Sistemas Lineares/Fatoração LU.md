@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-11T10:37:01.883-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU/","dgPassFrontmatter":true,"created":"2025-04-11T10:37:01.883-03:00"}
 ---
 
 

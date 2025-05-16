@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Métodos Numéricos/Métodos Numéricos/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-12T18:56:11.071-03:00"}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Métodos Numéricos/Métodos Numéricos/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-12T18:56:11.071-03:00"}
 ---
 
 
