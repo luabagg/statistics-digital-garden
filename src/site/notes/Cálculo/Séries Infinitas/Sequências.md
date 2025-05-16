@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Sequências/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.163-03:00"}
 ---
 
+
 ## Introdução Às Sequências no Cálculo
 
 As sequências são estruturas fundamentais na matemática e desempenham um papel crucial no campo do cálculo. Uma sequência é definida como uma lista ordenada de números, onde cada número é chamado de termo da sequência. Matematicamente, podemos representar uma sequência como $\{a_n\}_{n=1}^{\infty}$, onde $a_n$ denota o $n$-ésimo termo da sequência.

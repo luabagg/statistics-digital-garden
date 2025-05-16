@@ -3,6 +3,8 @@
 ---
 
 
+
+
 - **[[Probabilidade/Distribuições/Distribuições\|Distribuições]]**
 	- [[Probabilidade/Distribuições/Binômio de Newton\|Binômio de Newton]]
 	- [[Probabilidade/Distribuições/Distribuição Binomial Negativa\|Distribuição Binomial Negativa]]

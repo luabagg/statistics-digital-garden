@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Distribuição Binomial/","dgPassFrontmatter":true,"created":"2025-04-22T08:44:06.067-03:00"}
 ---
 
+
 A **distribuição binomial** é um conceito fundamental na teoria das probabilidades, utilizado para modelar experimentos aleatórios com duas possíveis saídas: sucesso ou fracasso. Este modelo é amplamente aplicado em diversas áreas, como estatística, ciências sociais e engenharia.
 
 ## Definição Formal
@@ -54,19 +55,25 @@ Portanto, a probabilidade de obter exatamente 3 caras em 5 lançamentos é $0.31
 
 - **Esperança (E(X))**: A esperança da variável binomial $X$ é dada por:
 
-  $$ E(X) = np $$
+  $$
+ E(X) = np
+$$
 
   Isso significa que, no longo prazo, a média dos resultados de $n$ tentativas será aproximadamente igual a $np$.
 
 - **Variância (Var(x))**: A variância da variável binomial $X$ é dada por:
 
-  $$ Var(X) = np(1-p) $$
+  $$
+ Var(X) = np(1-p)
+$$
 
   Isso indica que a dispersão dos resultados em torno da média diminui à medida que $n$ aumenta, mas o efeito de $p$ (probabilidade de sucesso) também deve ser considerado.
 
 - **Momento Gerador (Mx(t))**: A função geradora de momentos da variável binomial $X$ é dada por:
 
-  $$ M_X(t) = (1-p + pe^t)^n $$
+  $$
+ M_X(t) = (1-p + pe^t)^n
+$$
 
   Esta função pode ser usada para calcular outros momentos estatísticos, como a esperança e a variância.
 

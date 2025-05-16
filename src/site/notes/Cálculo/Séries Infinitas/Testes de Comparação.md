@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Testes de Comparação/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.165-03:00"}
 ---
 
+
 Testes de comparação são ferramentas úteis na análise da convergência de séries infinitas. Esses testes permitem comparar a série em questão com uma série conhecida, cuja convergência ou divergência já seja estabelecida.
 
 ## Teste Direto De Comparação

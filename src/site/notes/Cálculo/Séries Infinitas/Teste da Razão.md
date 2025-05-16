@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Razão/","dgPassFrontmatter":true,"created":"2025-04-07T08:58:50.653-03:00"}
 ---
 
+
 O **Critério da Razão** (ou Teste da Razão) é um método útil para determinar a convergência absoluta de uma série infinita. Este critério é particularmente eficaz quando os termos da série são expressos em função de números positivos e crescentes.
 
 ## Formulação Do Critério
@@ -33,7 +34,7 @@ $$
 
 Como $L < 1$, a série converge absolutamente.
 
-### Exemplo 2: Série de Fatorial
+### Exemplo 2: Série De Fatorial
 
 Considere a série $\sum_{n=1}^{\infty} \frac{n!}{(2n)!}$.
 
@@ -52,7 +53,7 @@ $$
 
 Como $L < 1$, a série converge absolutamente.
 
-### Exemplo 3: Série de Potências
+### Exemplo 3: Série De Potências
 
 Considere a série $\sum_{n=1}^{\infty} \left(\frac{x^n}{n}\right)$, onde $x$ é um número real.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Espaço de Probabilidade Produzido por Variável Aleatória/","dgPassFrontmatter":true,"created":"2025-03-18T08:39:55.821-03:00"}
 ---
 
+
 ## Introdução
 
 Seja $(\Omega, \mathcal{F}, \mathcal{P})$ um modelo de probabilidade e considere $X: \Omega \to \mathbb{R}$ uma variável aleatória definida em $(\Omega, \mathcal{F})$. A medida de probabilidade induzida por $X$, denotada por $\mu_X$, é definida como:

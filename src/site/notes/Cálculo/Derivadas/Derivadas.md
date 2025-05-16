@@ -3,6 +3,8 @@
 ---
 
 
+
+
 - **[[Cálculo/Derivadas/Derivadas\|Derivadas]]**
 	- **[[Cálculo/Derivadas/Derivada Direcional/Derivada Direcional\|Derivada Direcional]]**
 	- [[Cálculo/Derivadas/Derivada Implícita\|Derivada Implícita]]

@@ -2,32 +2,40 @@
 {"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivadas de Ordem Superior/","dgPassFrontmatter":true,"created":"2025-04-28T09:04:33.228-03:00"}
 ---
 
+
 Derivadas de ordem superior são conceitos fundamentais na teoria dos cálculos diferenciais, representando a generalização das derivadas primárias. A derivada primeira de uma função $f(x)$ é denotada por $f'(x)$ ou $\frac{df}{dx}$ e representa o ritmo de mudança da função em relação à variável independente.
 
 A derivada segunda, que é a derivada de ordem superior mais comumente utilizada, é obtida pela diferenciação da primeira derivada. Matematicamente, pode ser expressa como:
+
 $$
 f''(x) = \frac{d^2f}{dx^2} = \frac{d}{dx}\left(\frac{df}{dx}\right)
 $$
 
 Exemplo: Considere a função $f(x) = x^3$. A derivada primeira é:
+
 $$
 f'(x) = 3x^2
 $$
+
 A derivada segunda, então, é:
+
 $$
 f''(x) = \frac{d}{dx}(3x^2) = 6x
 $$
 
 Derivadas de ordem superior podem ser generalizadas para qualquer número inteiro $n > 1$. A derivada de ordem $n$ de uma função $f(x)$ é denotada por:
+
 - $f^{(n)}(x)$, ou
 - $\frac{d^n f}{dx^n}$
 
 Exemplo: Para a função $g(x) = e^x$, todas as suas derivadas são iguais à própria função. Portanto, para qualquer $n$:
+
 $$
 g^{(n)}(x) = \frac{d^n}{dx^n}e^x = e^x
 $$
 
 Notação de Leibniz é particularmente útil para derivadas de ordem superior, pois permite uma visualização clara do processo de diferenciação repetida. A notação de Leibniz para a derivada segunda de $f(x)$ seria:
+
 $$
 \frac{d^2 f}{dx^2}
 $$

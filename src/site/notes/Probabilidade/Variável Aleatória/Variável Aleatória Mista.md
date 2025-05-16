@@ -35,11 +35,13 @@ $$
 
    Neste caso:
 
-   - $$X_d = \begin{cases} 
+   - $$
+X_d = \begin{cases}
       5 & \text{com probabilidade } \frac{1}{3}, \\
       \infty & \text{com probabilidade } \frac{2}{3}.
 
-   \end{cases}$$
+   \end{cases}
+$$
 
    - $X_c$ segue uma distribuição normal com média 10 e desvio padrão 2.
 
@@ -52,11 +54,13 @@ $$
 
    Aqui:
 
-   - $$Y_d = \begin{cases} 
+   - $$
+Y_d = \begin{cases} 
       5 & \text{com probabilidade } \frac{1}{4}, \\
       \infty & \text{com probabilidade } \frac{3}{4}.
 
-   \end{cases}$$
+   \end{cases}
+$$
 
    - $Y_c$ segue uma distribuição normal com média 6 e desvio padrão 0.5.
 
@@ -83,11 +87,13 @@ Considere uma variável aleatória $X$ que representa o tempo de espera em um si
 
 Neste caso:
 
-- $$X_d = \begin{cases}
+- $$
+X_d = \begin{cases}
    5 & \text{com probabilidade } \frac{1}{3}, \\
    \infty & \text{com probabilidade } \frac{2}{3}.
 
-\end{cases}$$
+\end{cases}
+$$
 
 A variável aleatória contínua $X_c$ segue uma distribuição normal com média $\mu = 10$ e desvio padrão $\sigma = 2$. A f.d.p. de $X_c$ é:
 
@@ -105,9 +111,7 @@ Primeiro, calculemos a integral para a variável aleatória contínua $X_c$:
 
 $$
 
-
 \int_{-\infty}^{\infty} x_c f_X(x_c) \, dx_c = \int_{-\infty}^{\infty} x_c \cdot \frac{1}{2\sqrt{2\pi}} e^{-\frac{(x_c - 10)^2}{8}} \, dx_c.
-
 
 $$
 
@@ -115,9 +119,7 @@ Usando a propriedade da distribuição normal, sabemos que:
 
 $$
 
-
 \int_{-\infty}^{\infty} x_c f_X(x_c) \, dx_c = \mu = 10.
-
 
 $$
 
@@ -125,9 +127,7 @@ Portanto,
 
 $$
 
-
 E[X] = 5 \cdot \frac{1}{3} + 10 \cdot \frac{2}{3} = \frac{5}{3} + \frac{20}{3} = \frac{25}{3} \approx 8.33.
-
 
 $$
 
@@ -140,11 +140,13 @@ Considere a variável aleatória $Y$ que representa o tamanho de um determinado 
 
 Neste caso:
 
-- $$Y_d = \begin{cases}
+- $$
+Y_d = \begin{cases}
    5 & \text{com probabilidade } \frac{1}{4}, \\
    \infty & \text{com probabilidade } \frac{3}{4}.
 
-\end{cases}$$
+\end{cases}
+$$
 
 A variável aleatória contínua $Y_c$ segue uma distribuição normal com média $\mu = 6$ e desvio padrão $\sigma = 0.5$. A f.d.p. de $Y_c$ é:
 

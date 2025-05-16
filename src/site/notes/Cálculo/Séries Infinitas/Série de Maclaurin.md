@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série de Maclaurin/","dgPassFrontmatter":true,"created":"2025-04-07T08:45:29.005-03:00"}
 ---
 
+
 ## Introdução à Série De Maclaurin
 
 A **Série de Maclaurin** é um caso especial da [[Cálculo/Séries Infinitas/Série de Taylor\|Série de Taylor]], que permite aproximar uma função matemática usando um polinômio infinito. Essa série é particularmente útil para calcular valores aproximados de funções complexas, especialmente quando a função pode ser expressa em termos de sua derivada no ponto zero.

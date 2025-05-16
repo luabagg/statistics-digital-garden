@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferencial de Uma Função/","dgPassFrontmatter":true,"created":"2025-04-30T08:48:24.029-03:00"}
 ---
 
+
 ## Diferencial De Uma Função Para Uma Variável
 
 O diferencial de uma função $f(x)$ de uma variável é uma medida aproximada da mudança na função quando a variável independente sofre uma pequena variação. Matematicamente, o diferencial de $f$ em relação a $x$ é denotado por $df$ e está dado por:

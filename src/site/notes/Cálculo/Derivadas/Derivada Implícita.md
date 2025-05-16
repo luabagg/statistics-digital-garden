@@ -2,39 +2,54 @@
 {"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivada Implícita/","dgPassFrontmatter":true,"created":"2025-04-28T08:38:11.926-03:00"}
 ---
 
+
 Derivada implícita é um conceito fundamental em cálculo que permite encontrar a derivada de uma função definida implicitamente, ou seja, quando a relação entre as variáveis não pode ser expressa explicitamente. Este método é particularmente útil em situações onde a função $y$ depende de $x$ de maneira não-linear e complexa.
 
 Consideremos um exemplo simples: a equação do círculo
 
-$$ x^2 + y^2 = 100. $$
+$$
+ x^2 + y^2 = 100. 
+$$
 
 Neste caso, $y$ não pode ser expresso diretamente em termos de $x$. No entanto, podemos encontrar $\frac{dy}{dx}$ usando derivadas implícitas.
 
 Para aplicar o método das derivadas implícitas, devemos diferenciar ambos os lados da equação com relação a $x$, lembrando que $y$ é uma função de $x$. Portanto, quando derivamos termos envolvendo $y$, devemos usar a regra da cadeia:
 
-$$ \frac{d}{dx}(x^2) + \frac{d}{dx}(y^2) = \frac{d}{dx}(100). $$
+$$
+ \frac{d}{dx}(x^2) + \frac{d}{dx}(y^2) = \frac{d}{dx}(100). 
+$$
 
 A derivada de $x^2$ com relação a $x$ é simplesmente $2x$. Para o termo $y^2$, aplicamos a regra da cadeia:
 
-$$ 2x + 2y\frac{dy}{dx} = 0. $$
+$$
+ 2x + 2y\frac{dy}{dx} = 0. 
+$$
 
 Isolando $\frac{dy}{dx}$, obtemos
 
-$$ \frac{dy}{dx} = -\frac{x}{y}. $$
+$$
+ \frac{dy}{dx} = -\frac{x}{y}. 
+$$
 
 Este resultado nos dá a derivada implícita da função definida implicitamente pelo círculo.
 
 Outro exemplo interessante é a equação exponencial $e^{xy} + x^2 - y^2 = 5$. Aqui, também aplicamos as regras de derivação:
 
-$$ \frac{d}{dx}(e^{xy}) + \frac{d}{dx}(x^2) - \frac{d}{dx}(y^2) = \frac{d}{dx}(5). $$
+$$
+ \frac{d}{dx}(e^{xy}) + \frac{d}{dx}(x^2) - \frac{d}{dx}(y^2) = \frac{d}{dx}(5). 
+$$
 
 Usando a regra da cadeia para $e^{xy}$ e a regra do produto, temos:
 
-$$ e^{xy} (y + x\frac{dy}{dx}) + 2x - 2y\frac{dy}{dx} = 0. $$
+$$
+ e^{xy} (y + x\frac{dy}{dx}) + 2x - 2y\frac{dy}{dx} = 0. 
+$$
 
 Isolando $\frac{dy}{dx}$, obtemos
 
-$$ \frac{dy}{dx} = \frac{-e^{xy}(y + x) - 2x}{-2y}. $$
+$$
+ \frac{dy}{dx} = \frac{-e^{xy}(y + x) - 2x}{-2y}. 
+$$
 
 ## Exemplo
 

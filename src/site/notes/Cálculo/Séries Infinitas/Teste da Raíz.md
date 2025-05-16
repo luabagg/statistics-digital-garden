@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Raíz/","dgPassFrontmatter":true,"created":"2025-04-15T21:06:09.580-03:00"}
 ---
 
+
 O **Teste da Raiz** é um método utilizado para determinar a convergência de séries infinitas, especialmente aquelas com termos do tipo $a_n = n^k$ ou $a_n = \frac{1}{n^k}$, onde $k$ é uma constante. Este teste é particularmente útil quando os termos da série envolvem potências de $n$.
 
 ## Formulando O Teste

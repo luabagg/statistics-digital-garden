@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Esperança a Partir da Função Geradora de Momentos/","dgPassFrontmatter":true,"created":"2025-04-22T09:05:36.110-03:00"}
 ---
 
+
 Para calcular a esperança (ou valor esperado) de uma variável aleatória $X$ a partir da função geradora de momentos, denotada por $M_X(t)$, podemos seguir os passos abaixo:
 
 1. **Definição da Função Geradora de Momentos**:

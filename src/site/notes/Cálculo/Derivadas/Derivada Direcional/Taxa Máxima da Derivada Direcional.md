@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivada Direcional/Taxa Máxima da Derivada Direcional/","dgPassFrontmatter":true,"created":"2025-05-09T09:42:57.066-03:00"}
 ---
 
+
 A **taxa máxima da derivada direcional** é a maior taxa de mudança que a função pode ter em qualquer direção no ponto considerado. Esta taxa é dada pelo módulo do gradiente $\nabla f(\mathbf{a})$.
 
 ## Definição Formal
@@ -32,9 +33,11 @@ Continuando com a função $f(x, y) = x^2 + y^2$ e o ponto $\mathbf{a} = (1, 1)$
 
 1. **Gradiente de $f$:**
 
-   $$ 
-   \nabla f(x, y) = (2x, 2y)
    $$
+ 
+   \nabla f(x, y) = (2x, 2y)
+   
+$$
 
    Em $\mathbf{a} = (1, 1)$:
 

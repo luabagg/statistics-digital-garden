@@ -2,11 +2,14 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Séries Alternadas/","dgPassFrontmatter":true,"created":"2025-03-24T09:01:25.930-03:00"}
 ---
 
+
 ## Introdução Às Séries Alternadas
 
 Uma série alternada é um tipo especial de série numérica onde os termos são alternadamente positivos e negativos. Essas séries têm a forma geral:
 
-$$\sum_{n=1}^{\infty} (-1)^{n+1} b_n \quad \text{ou} \quad \sum_{n=1}^{\infty} (-1)^n b_n,$$
+$$
+\sum_{n=1}^{\infty} (-1)^{n+1} b_n \quad \text{ou} \quad \sum_{n=1}^{\infty} (-1)^n b_n,
+$$
 
 onde $b_n$ é uma sequência de números reais não-negativos.
 
@@ -14,7 +17,9 @@ onde $b_n$ é uma sequência de números reais não-negativos.
 
 Considere a série alternada:
 
-$$\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots.$$
+$$
+\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots.
+$$
 
 Esta série é conhecida como a **Série Harmônica Alternada**. Ela converge para $\ln(2)$, conforme demonstrado pelo Teorema de Leibniz.
 
@@ -31,7 +36,9 @@ Se ambas as condições forem satisfeitas, a série alternada converge.
 
 Considere a série:
 
-$$\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{2^n} = 1 - \frac{1}{2} + \frac{1}{4} - \frac{1}{8} + \cdots.$$
+$$
+\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{2^n} = 1 - \frac{1}{2} + \frac{1}{4} - \frac{1}{8} + \cdots.
+$$
 
 Aqui, $b_n = \frac{1}{2^n}$.
 
@@ -44,7 +51,9 @@ Portanto, pela condição do Teorema de Leibniz, a série converge.
 
 O **Teste da Série Alternada** é um método utilizado para determinar a convergência condicional de séries infinitas do tipo alternado. Uma série alternada tem a forma geral:
 
-$$\sum_{n=1}^{\infty} (-1)^{n-1} b_n \quad \text{ou} \quad \sum_{n=1}^{\infty} (-1)^n b_n,$$
+$$
+\sum_{n=1}^{\infty} (-1)^{n-1} b_n \quad \text{ou} \quad \sum_{n=1}^{\infty} (-1)^n b_n,
+$$
 
 onde $b_n$ é uma sequência de números reais não-negativos.
 
@@ -63,7 +72,9 @@ Então a série alternada converge.
 
 Considere a série:
 
-$$\sum_{n=1}^{\infty} (-1)^{n-1} \frac{1}{n}.$$
+$$
+\sum_{n=1}^{\infty} (-1)^{n-1} \frac{1}{n}.
+$$
 
 Aqui, $b_n = \frac{1}{n}$.
 
@@ -76,7 +87,9 @@ Portanto, a série converge pelo teste da série alternada.
 
 Considere a série:
 
-$$\sum_{n=1}^{\infty} (-1)^n \frac{n+1}{n^2 + 1}.$$
+$$
+\sum_{n=1}^{\infty} (-1)^n \frac{n+1}{n^2 + 1}.
+$$
 
 Aqui, $b_n = \frac{n+1}{n^2 + 1}$.
 
@@ -104,7 +117,9 @@ Para uma série alternada que satisfaz as condições do Teorema de Leibniz (mon
 
 Considere uma série alternada $\sum_{n=1}^{\infty} (-1)^{n+1} b_n$. Se $S$ é a soma exata da série e $S_N = \sum_{n=1}^{N} (-1)^{n+1} b_n$ é a soma parcial até o termo $b_N$, então:
 
-$$|S - S_N| < b_{N+1}.$$
+$$
+|S - S_N| < b_{N+1}.
+$$
 
 Isso significa que a diferença entre a soma exata e a soma parcial $S_N$ é menor que o próximo termo da sequência, $b_{N+1}$.
 
@@ -112,11 +127,15 @@ Isso significa que a diferença entre a soma exata e a soma parcial $S_N$ é men
 
 Considere novamente a **Série Harmônica Alternada**:
 
-$$\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots.$$
+$$
+\sum_{n=1}^{\infty} \frac{(-1)^{n+1}}{n} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots.
+$$
 
 Se quisermos estimar a soma da série até o termo $b_{N}$, podemos usar:
 
-$$S_N = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots + (-1)^{N+1} \frac{1}{N},$$
+$$
+S_N = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots + (-1)^{N+1} \frac{1}{N},
+$$
 
 e o erro na estimativa é menor que $\frac{1}{N+1}$.
 
@@ -124,7 +143,10 @@ e o erro na estimativa é menor que $\frac{1}{N+1}$.
 
 Suponha que queremos estimar a soma da série até $N = 5$:
 
-$$S_5 = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5}.$$
+$$
+S_5 = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \frac{1}{5}.
+$$
 
 O erro na estimativa é menor que $\frac{1}{6}$, ou aproximadamente $0.167$. Portanto, a soma da série pode ser estimada com uma precisão de até $0.167$.
+
 ``

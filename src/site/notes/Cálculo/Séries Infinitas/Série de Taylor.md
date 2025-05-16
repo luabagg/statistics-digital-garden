@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série de Taylor/","dgPassFrontmatter":true,"created":"2025-04-07T08:45:13.636-03:00"}
 ---
 
+
 ## Definição
 
 Uma série de Taylor de uma função $f(x)$ em torno de um ponto $x = a$ é dada por:

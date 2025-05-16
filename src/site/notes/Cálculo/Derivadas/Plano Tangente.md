@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Derivadas/Plano Tangente/","dgPassFrontmatter":true,"created":"2025-04-28T09:37:47.102-03:00"}
 ---
 
+
 O **plano tangente** é uma aplicação direta do cálculo diferencial. Ele representa um plano que toca (ou seja, é tangente) a uma superfície em um ponto específico.
 
 ## Definição Matemática
@@ -90,4 +91,3 @@ O plano tangente pode então ser escrito como:
 $$
 \frac{\partial F}{\partial x}(x_0, y_0, z_0)(x - x_0) + \frac{\partial F}{\partial y}(x_0, y_0, z_0)(y - y_0) + \frac{\partial F}{\partial z}(x_0, y_0, z_0)(z - z_0) = 0
 $$
-

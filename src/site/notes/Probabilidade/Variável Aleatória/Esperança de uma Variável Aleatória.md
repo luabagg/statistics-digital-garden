@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória/","dgPassFrontmatter":true,"created":"2025-03-27T11:21:13.320-03:00"}
 ---
 
+
 Seja $X$ uma variável aleatória discreta com função de probabilidade $P_X(x)$, a esperança (ou média, ou valor esperado) de $X$ é definida como
 
 $$
@@ -258,6 +259,7 @@ As propriedades importantes da esperança para variáveis aleatórias contínuas
 
 
    E(aX + b) = aE(X) + b \quad \text{para constantes } a \text{ e } b.
+
 
 $$
 

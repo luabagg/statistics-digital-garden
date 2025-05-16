@@ -19,17 +19,23 @@ Considere a função $f(x) = x^3 - 2x + 1$.
 
 - Avaliamos $f(-1)$:
 
-  $$ f(-1) = (-1)^3 - 2 \cdot (-1) + 1 = -1 + 2 + 1 = 2 $$
+  $$
+ f(-1) = (-1)^3 - 2 \cdot (-1) + 1 = -1 + 2 + 1 = 2
+$$
 
 - Avaliamos $f(0)$:
 
-  $$ f(0) = 1 $$
+  $$
+ f(0) = 1
+$$
 
 Aqui, $f(-1) = 2$ e $f(0) = 1$, então $f(x)$ não muda de sinal nesse intervalo. Agora consideramos:
 
 - Avaliamos $f(-2)$:
 
-  $$ f(-2) = (-2)^3 - 2 \cdot (-2) + 1 = -8 + 4 + 1 = -3 $$
+  $$
+ f(-2) = (-2)^3 - 2 \cdot (-2) + 1 = -8 + 4 + 1 = -3
+$$
 
 Agora, temos:
 
@@ -71,7 +77,7 @@ Considere a função $f(x) = x^3 - 4x + 1$. Queremos verificar se há pelo menos
 1. **Verificação pelo Teorema de Bolzano**:
 
 $$
- f(0) = 0^3 - 4(0) + 1 = 1, \quad f(2) = 2^3 - 4(2) + 1 = -3. 
+ f(0) = 0^3 - 4(0) + 1 = 1, \quad f(2) = 2^3 - 4(2) + 1 = -3.
 $$
 
 Como $f(0) \cdot f(2) < 0$, existe pelo menos uma raiz em $(0,2)$.
@@ -81,13 +87,13 @@ Como $f(0) \cdot f(2) < 0$, existe pelo menos uma raiz em $(0,2)$.
 Derivamos $f(x)$:
 
 $$
- f’(x) = 3x^2 - 4. 
+ f’(x) = 3x^2 - 4.
 $$
 
 Igualando a zero, encontramos os pontos críticos:
 
 $$
- 3x^2 - 4 = 0 \Rightarrow x = \pm \frac{2}{\sqrt{3}} \approx \pm 1.15. 
+ 3x^2 - 4 = 0 \Rightarrow x = \pm \frac{2}{\sqrt{3}} \approx \pm 1.15.
 $$
 
 Como $x = 1.15$ está dentro de $(0,2)$, podemos verificar que a função tem uma mudança no crescimento e pode haver apenas um zero nesse intervalo.

@@ -74,20 +74,26 @@ O método de Gauss-Jacobi é uma técnica iterativa utilizada para resolver sist
 
 1. **Erro Absoluto**:
 
-   $$\epsilon = \max_{i} |x_i^{(k+1)} - x_i^{(k)}| < \varepsilon$$
+   $$
+\epsilon = \max_{i} |x_i^{(k+1)} - x_i^{(k)}| < \varepsilon
+$$
 
    Aqui, $x_i^{(k+1)}$ e $x_i^{(k)}$ representam os valores das variáveis no $(k+1)$-ésimo e $k$-ésimo iterações, respectivamente. $\varepsilon$ é um valor pequeno definido pelo usuário que serve como a tolerância de erro.
 
 2. **Erro Relativo**:
 
-   $$\epsilon = \frac{\max_{i} |x_i^{(k+1)} - x_i^{(k)}|}{\max_{i} |x_i^{(k+1)}|} < \varepsilon$$
+   $$
+\epsilon = \frac{\max_{i} |x_i^{(k+1)} - x_i^{(k)}|}{\max_{i} |x_i^{(k+1)}|} < \varepsilon
+$$
 
    Este critério é útil quando as soluções são de ordens de grandeza diferentes.
 
 3. **Número Máximo de Iterações**:
    O método pode ser interrompido após um número máximo de iterações, $K_{\text{max}}$, seja atingido.
 
-   $$k \geq K_{\text{max}}$$
+   $$
+k \geq K_{\text{max}}
+$$
 
 4. **Convergência Garantida**:
    Para garantir a convergência do método de Gauss-Jacobi, é necessário que o sistema linear seja diagonalmente dominante ou que as matrizes associadas sejam simétricas e definidas positivas.
@@ -98,11 +104,15 @@ Considere um sistema linear $Ax = b$ com matriz $A$ diagonalmente dominante. Sup
 
 - **Erro Absoluto**:
 
-  $$|x_i^{(k+1)} - x_i^{(k)}| < 10^{-6}$$
+  $$
+|x_i^{(k+1)} - x_i^{(k)}| < 10^{-6}
+$$
 
 - **Erro Relativo**:
 
-  $$\frac{|x_i^{(k+1)} - x_i^{(k)}|}{|x_i^{(k+1)}|} < 10^{-6}$$
+  $$
+\frac{|x_i^{(k+1)} - x_i^{(k)}|}{|x_i^{(k+1)}|} < 10^{-6}
+$$
 
 ### Observações Importantes
 

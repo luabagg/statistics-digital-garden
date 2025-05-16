@@ -52,9 +52,11 @@ Considere a função $f(x, y) = x^2 + y^2$ e o ponto $\mathbf{a} = (1, 1)$.
 
 1. **Gradiente de $f$:**
 
-   $$ 
-   \nabla f(x, y) = \left( \frac{\partial}{\partial x}(x^2 + y^2), \frac{\partial}{\partial y}(x^2 + y^2) \right) = (2x, 2y)
    $$
+ 
+   \nabla f(x, y) = \left( \frac{\partial}{\partial x}(x^2 + y^2), \frac{\partial}{\partial y}(x^2 + y^2) \right) = (2x, 2y)
+   
+$$
 
    Em $\mathbf{a} = (1, 1)$:
 

@@ -29,7 +29,9 @@ onde:
 3. **Convergência:**
    - A iteração continua até que a diferença entre os valores consecutivos seja menor do que um critério de parada $\epsilon$:
 
-     $$ |x_{n+1} - x_n| < \epsilon $$
+     $$
+ |x_{n+1} - x_n| < \epsilon
+$$
 
 4. **Exemplo:**
    Considere a função $f(x) = x^3 - 2x - 5$. Sejam os pontos iniciais $x_0 = 2$ e $x_1 = 2.5$.
@@ -42,7 +44,7 @@ onde:
 
 
 $$
- 
+
     $$
 
      f(2.5) = (2.5)^3 - 2\cdot2.5 - 5 = 4.875

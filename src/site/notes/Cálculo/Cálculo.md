@@ -3,6 +3,8 @@
 ---
 
 
+
+
 - **[[Cálculo/Cálculo\|Cálculo]]**
 	- **[[Cálculo/Derivadas/Derivadas\|Derivadas]]**
 	- **Funções de Mais de uma Variável**

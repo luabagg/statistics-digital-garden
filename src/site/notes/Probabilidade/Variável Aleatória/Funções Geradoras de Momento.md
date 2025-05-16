@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Funções Geradoras de Momento/","dgPassFrontmatter":true,"created":"2025-04-10T11:53:56.243-03:00"}
 ---
 
+
 ## Definição E Introdução
 
 As funções geradoras de momento (FGM) são ferramentas poderosas em teoria das probabilidades e estatística. Elas permitem a obtenção de informações sobre a distribuição de uma variável aleatória através da análise de suas momentos, que são valores esperados de potências da variável.

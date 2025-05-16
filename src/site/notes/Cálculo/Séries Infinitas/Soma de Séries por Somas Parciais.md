@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Soma de Séries por Somas Parciais/","dgPassFrontmatter":true,"created":"2025-03-18T02:17:13.061-03:00"}
 ---
 
+
 Para entender melhor como uma série converge para sua soma, podemos analisar suas somas parciais. Uma soma parcial é a soma dos n primeiros termos de uma série.
 
 ## Definição De Soma Parcial

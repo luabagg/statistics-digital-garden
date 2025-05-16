@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Leis de Morgan/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.166-03:00"}
 ---
 
+
 ## Introdução Às Leis De Morgan E Suas Propriedades
 
 As leis de Morgan são fundamentais na lógica booleana, teoria da computação e matemática discreta. Elas descrevem como os operadores lógicos "não" (¬) podem ser usados para transformar expressões que contêm operações lógicas "ou" (∨) e "e" (∧). Essas leis foram propostas pelo matemático e logista Charles Sanders Peirce, mas são mais conhecidas por Augustus De Morgan.
@@ -40,7 +41,7 @@ $$
 
 Em um circuito lógico, se temos uma porta OR seguida por uma porta NOT, podemos simplificar o circuito usando a lei de Morgan. Por exemplo:
 
-- Se \(A\) e \(B\) são entradas de uma porta OR, e essa saída é conectada à entrada de uma porta NOT, a expressão lógica seria:
+- Se $A$ e $B$ são entradas de uma porta OR, e essa saída é conectada à entrada de uma porta NOT, a expressão lógica seria:
 
 $$
 \neg (A \lor B)

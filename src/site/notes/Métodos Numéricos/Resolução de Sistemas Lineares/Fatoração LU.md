@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU/","dgPassFrontmatter":true,"created":"2025-04-11T10:37:01.883-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU/","dgPassFrontmatter":true,"created":"2025-05-16T13:48:01.908-03:00"}
 ---
 
 
@@ -88,7 +88,9 @@ $$
 
 #### **Resultado Final**
 
-- $$L = \begin{pmatrix}
+- $$
+
+L = \begin{pmatrix}
 
 1 & 0 & 0 \\
 
@@ -96,9 +98,12 @@ $$
 
 3 & 9 & 1
 
-\end{pmatrix}$$
+\end{pmatrix}
 
-- $$U = \begin{pmatrix}
+$$
+
+- $$
+U = \begin{pmatrix}
 
 2 & 3 & 1 \\
 
@@ -106,7 +111,8 @@ $$
 
 0 & 0 & 2
 
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 
 ## Pivoteamento Parcial Na Fatoração Lu
 

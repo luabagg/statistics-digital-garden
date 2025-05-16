@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Convergência Absoluta/","dgPassFrontmatter":true,"created":"2025-04-16T05:23:16.137-03:00"}
 ---
 
+
 Convergência absoluta é um conceito fundamental na teoria das séries numéricas, especialmente em análise matemática e cálculo avançado. Uma série numérica $\sum_{n=1}^{\infty} a_n$ converge absolutamente se a série formada pelos valores absolutos dos termos da série original, $\sum_{n=1}^{\infty} |a_n|$, convergir.
 
 ## Exemplos De Convergência Absoluta

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Estimativa para a Soma de uma Série/","dgPassFrontmatter":true,"created":"2025-03-19T09:00:56.315-03:00"}
 ---
 
+
 A estimativa da soma de uma série é um método usado em matemática para aproximar a soma total de termos infinitos ou finitos. Este processo é especialmente útil quando a soma exata é difícil de calcular.
 
 ## Exemplo 1: Série Geométrica

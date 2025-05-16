@@ -11,7 +11,7 @@ $$
 
 Onde 'a' é o primeiro termo e 'r' é a razão da série. A convergência de uma série geométrica depende diretamente do valor absoluto da razão |r|.
 
-### Convergência De Séries Geométricas
+## Convergência De Séries Geométricas
 
 Uma série geométrica pode convergir ou divergir dependendo do valor da razão r:
 
@@ -35,7 +35,7 @@ $$
  \frac{2}{1-\frac{1}{2}} = \frac{2}{\frac{1}{2}} = 4 
 $$
 
-#### Casos Especiais
+### Casos Especiais
 
 - **r = 1:** A série diverge para +∞ (se a > 0)
 - **r = -1:** A série oscila e diverge

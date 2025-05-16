@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferenciabilidade de uma  Função/","dgPassFrontmatter":true,"created":"2025-04-30T08:19:10.233-03:00"}
 ---
 
+
 A **diferenciabilidade** de uma função real de uma variável em um ponto $x_0$ é definida pela existência de um número real $L$ tal que:
 
 $$
@@ -15,7 +16,6 @@ Esse limite expressa que a função $f$ pode ser bem aproximada, em uma vizinhan
 A função é **diferenciável** em um intervalo se for diferenciável em todos os seus pontos. Vale destacar que:
 
 - Se $f$ é diferenciável em $x_0$, então $f$ é contínua em $x_0$.
-
 - O recíproco não é verdadeiro: uma função pode ser contínua em $x_0$ e não ser diferenciável nesse ponto.
 
     _Exemplo clássico_: $f(x) = |x|$ é contínua em todo $\mathbb{R}$, mas não é diferenciável em $x = 0$.

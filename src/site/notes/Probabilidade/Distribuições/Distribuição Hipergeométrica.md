@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Distribuição Hipergeométrica/","dgPassFrontmatter":true,"created":"2025-04-24T11:45:13.493-03:00"}
 ---
 
+
 A distribuição hipergeométrica é uma distribuição de probabilidade discreta que descreve o número de sucessos em um conjunto finito de experimentos sem reposição. É frequentemente usada quando se tem um total fixo de itens e se deseja saber a probabilidade de obter um certo número desses itens.
 
 ## Definição

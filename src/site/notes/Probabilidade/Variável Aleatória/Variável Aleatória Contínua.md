@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Contínua/","dgPassFrontmatter":true,"created":"2025-03-20T11:27:57.950-03:00"}
 ---
 
+
 Seja $X$ uma variável aleatória com função de distribuição acumulada (FDA) $F_X(x)$ absolutamente contínua. Dizemos que $X$ é uma variável aleatória contínua.  
 
 ## Definição
