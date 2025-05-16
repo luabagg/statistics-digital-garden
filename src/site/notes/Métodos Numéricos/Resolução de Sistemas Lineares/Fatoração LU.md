@@ -88,7 +88,7 @@ $$
 
 #### **Resultado Final**
 
-- $$
+$$
 
 L = \begin{pmatrix}
 
@@ -102,7 +102,7 @@ L = \begin{pmatrix}
 
 $$
 
-- $$
+$$
 U = \begin{pmatrix}
 
 2 & 3 & 1 \\
