@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Exemplos Latex (MathJax)/","dgPassFrontmatter":true,"created":"2025-03-19T08:58:49.061-03:00"}
+{"dg-publish":true,"permalink":"/Exemplos Latex (MathJax)/","dgPassFrontmatter":true,"created":"2025-05-16T18:22:14.328-03:00"}
 ---
 
 1. **Exemplo de Cálculo Diferencial:**  
