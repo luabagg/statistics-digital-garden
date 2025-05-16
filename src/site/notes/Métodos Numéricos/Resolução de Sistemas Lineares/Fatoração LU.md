@@ -134,11 +134,9 @@ Dado $A \in \mathbb{R}^{n \times n}$, o algoritmo com pivoteamento parcial segue
 
    - Encontre o índice da linha com o maior valor absoluto na coluna $i$, a partir da linha $i$:
 
-     $$
-
-     p = \arg\max_{k \geq i} |U[k, i]|
-
-     $$
+	$$
+	p = \arg\max_{k \geq i} |U[k, i]|
+	$$
 
 1. **Troque as linhas $i$ e $p$ de $U$ e $P$:**
 
@@ -190,20 +188,20 @@ def lu_decomposition_pivot(A):
     P = np.eye(n)
 
     for i in range(n):
-        # Find the index of the row with the largest absolute value in column i
+# Find the Index of the Row with the Largest Absolute Value in Column I
         pivot = np.argmax(np.abs(U[i:, i])) + i
         if U[pivot, i] == 0:
             raise ValueError("Singular matrix.")
         
-        # Swap rows in U
+# Swap Rows in U
         U[[i, pivot]] = U[[pivot, i]]
-        # Swap rows in P
+# Swap Rows in P
         P[[i, pivot]] = P[[pivot, i]]
-        # Swap rows in L (only for previously computed columns)
+# Swap Rows in L (only for Previously Computed columns)
         if i > 0:
             L[[i, pivot], :i] = L[[pivot, i], :i]
 
-        # Elimination process
+# Elimination Process
         for j in range(i+1, n):
             m = U[j, i] / U[i, i]
             L[j, i] = m
@@ -211,7 +209,7 @@ def lu_decomposition_pivot(A):
 
     return P, L, U
 
-# Example usage
+# Example Usage
 A = np.array([
     [0, 3, 1],
     [4, 7, 7],
