@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/README/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-18T22:05:14.121-03:00"}
+{"dg-publish":true,"dg-home":true,"dg-show-local-graph":true,"permalink":"/README/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-18T22:05:14.121-03:00"}
 ---
 
 
