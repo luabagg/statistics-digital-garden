@@ -40,7 +40,6 @@ For more info check [[Exemplos Latex (MathJax)\|Exemplos Latex (MathJax)]]
    - **Title:** Clear and concise.
    - **Description:** Explain your changes and link relevant issues.
    - **Branch:** Choose the target branch (usually `main` or `develop`).
-
 4. Review the comparison and click **"Create pull request."**  
 
 ### Best Practices

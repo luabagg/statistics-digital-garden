@@ -3,18 +3,16 @@
 ---
 
 1. **Exemplo de Cálculo Diferencial:**  
+	- Encontrando a derivada de uma função:  
 
-   - Encontrando a derivada de uma função:  
+$$
 
-     $$
+\frac{d}{dx} (x^3 + 2x) = 3x^2 + 2
 
-     \frac{d}{dx} (x^3 + 2x) = 3x^2 + 2
-
-     $$
+$$
 
 1. **Exemplo de Probabilidade:**  
-
-   - Calculando a probabilidade de um evento:  
+	- Calculando a probabilidade de um evento:  
 
 $$
 
@@ -24,8 +22,7 @@ $$
   
 
 1. **Exemplo de Integração:**  
-
-   - Avaliando uma integral definida:  
+	- Avaliando uma integral definida:  
 
      
 $$
@@ -35,8 +32,7 @@ $$
      $$
 
 1. **Exemplo de Série:**  
-
-   - Somando uma série infinita:  
+	- Somando uma série infinita:  
 
 $$
 
@@ -46,8 +42,7 @@ $$
   
 
 1. **Exemplo de Matrizes:**  
-
-   - Multiplicação de duas matrizes:  
+	- Multiplicação de duas matrizes:  
 
      
 $$
@@ -81,8 +76,7 @@ $$
      $$
 
 1. **Exemplo de Equação Diferencial:**  
-
-   - Resolvendo uma equação diferencial:  
+	- Resolvendo uma equação diferencial:  
 
 $$
 
@@ -92,8 +86,7 @@ $$
   
 
 1. **Exemplo de Teoria dos Conjuntos:**  
-
-   - União e interseção de conjuntos:  
+	- União e interseção de conjuntos:  
 
      
 $$
@@ -103,8 +96,7 @@ $$
      $$
 
 1. **Exemplo de Estatística:**  
-
-   - Calculando a média de um conjunto de dados:  
+	- Calculando a média de um conjunto de dados:  
 
 $$
 
@@ -114,8 +106,7 @@ $$
   
 
 1. **Exemplo de Cálculo Vetorial:**  
-
-   - Gradiente de uma função:  
+	- Gradiente de uma função:  
 
      
 $$
@@ -124,9 +115,8 @@ $$
 
      $$
 
-1. **Exemplo de Números Complexos:**  
-
-    - Multiplicação de números complexos:  
+1. **Exemplo de Números Complexos:**
+	- Multiplicação de números complexos:  
 
 $$
 
