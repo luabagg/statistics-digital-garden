@@ -110,8 +110,8 @@ $$
      Substituindo $y$ e $z$ na primeira equação:
 $$
 2x + 3(-2) - \left(-\frac{9}{4}\right) = 1 \implies 2x - 6 + \frac{9}{4} = 1 \implies 2x - \frac{24}{4} + \frac{9}{4} = 1 \implies 2x - \frac{15}{4} = 1
-$$$$
-
+$$
+$$
 2x = 1 + \frac{15}{4} \implies 2x = \frac{4}{4} + \frac{15}{4} \implies 2x = \frac{19}{4} \implies x = \frac{19}{8}
 $$
 	Portanto, a solução do sistema é:
@@ -148,9 +148,9 @@ def gauss_elimination_verbose(a, b):
     print("Initial augmented matrix:")
     print_matrix(a, b)
 
-# Forward Elimination
+	# Forward Elimination
     for i in range(n):
-# Partial Pivoting: Find The Row With The Largest Value In Column I
+	# Partial Pivoting: Find The Row With The Largest Value In Column I
         max_row = i + max(range(n - i), key=lambda k: abs(a[i + k][i]))
         if abs(a[max_row][i]) < 1e-12:
             raise ValueError("Matrix is singular or nearly singular")
