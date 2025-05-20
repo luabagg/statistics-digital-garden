@@ -53,7 +53,7 @@ Se $|T|_\infty < 1$, o método converge. Isso é uma **condição suficiente**, 
 $$
 \rho(T) = \max_i |\lambda_i(T)| < 1
 $$
-onde $\lambda_i(T)$ são os autovalores da matriz $T$.
+onde $\lambda_i(T)$ são os autovalores da matriz $T$.****
 
 ## Exemplo 1
 
@@ -116,13 +116,9 @@ $$
 Neste caso:
 $$
 A = \begin{pmatrix}
-
 2 & -1 & 0 \
-
 -1 & 3 & -1 \
-
 0 & -2 & 4
-
 \end{pmatrix}, \quad
 
 \mathbf{b} = \begin{pmatrix}
@@ -139,7 +135,7 @@ As matrizes $D$, $L$ e $U$ são:
 $$
 D = \begin{pmatrix}
 
-2 & 0 & 0 \
+2 & 0 & 0 \********
 
 0 & 3 & 0 \
 
@@ -183,3 +179,4 @@ $$
 |\mathbf{b} - A\mathbf{x}^{(k)}| < \varepsilon
 $$
 onde $\varepsilon$ é uma tolerância previamente estabelecida.
+
