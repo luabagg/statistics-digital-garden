@@ -10,15 +10,11 @@ As leis de Morgan são fundamentais na lógica booleana, teoria da computação 
 ### 1. Definição Das Leis De Morgan
 
 As leis de Morgan podem ser expressas da seguinte forma:
-
 $$
 - \text{Lei de Morgan para "ou":} \neg (A \lor B) = \neg A \land \neg B
-$$
-
-$$
+$$$$
 - \text{Lei de Morgan para "e":} \neg (A \land B) = \neg A \lor \neg B
 $$
-
 Essas leis permitem que expressões lógicas complexas sejam simplificadas ou reescritas, facilitando o processo de análise e resolução de problemas em sistemas digitais e circuitos elétricos.
 
 ### 2. Exemplos De Aplicação
@@ -26,33 +22,25 @@ Essas leis permitem que expressões lógicas complexas sejam simplificadas ou re
 **Exemplo 1: Simplificação de Expressão Lógica**
 
 Considere a expressão lógica :
-
 $$
 \neg (P \lor Q)
 $$
-
 Usando a lei de Morgan para "ou", podemos reescrever essa expressão como:
-
 $$
 \neg (P \lor Q) = \neg P \land \neg Q
 $$
-
 **Exemplo 2: Simplificação em Circuitos Lógicos**
 
 Em um circuito lógico, se temos uma porta OR seguida por uma porta NOT, podemos simplificar o circuito usando a lei de Morgan. Por exemplo:
 
 - Se $A$ e $B$ são entradas de uma porta OR, e essa saída é conectada à entrada de uma porta NOT, a expressão lógica seria:
-
 $$
 \neg (A \lor B)
 $$
-
 Usando a lei de Morgan, isso pode ser simplificado para:
-
 $$
 \neg A \land \neg B
 $$
-
 ### 3. Propriedades Das Leis De Morgan
 
 As leis de Morgan possuem algumas propriedades importantes:

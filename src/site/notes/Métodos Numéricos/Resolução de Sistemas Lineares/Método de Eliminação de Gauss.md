@@ -27,201 +27,104 @@ O Método de Eliminação de Gauss é uma técnica fundamental utilizada para re
 ### Exemplo De Aplicação Do Método De Eliminação De Gauss
 
 Considere o seguinte sistema linear de equações:
-
 $$
-
-
 \begin{cases}
-
 2x + 3y - z = 1 \\
-
 4x - y + 2z = 7 \\
-
 -2x + 2y + 5z = 0
-
 \end{cases}
-
-
 $$
-
 #### Passos Básicos Do Método
 
 1. **Forma Triangular Superior:**
 
    Primeiro, transformamos o sistema em uma matriz aumentada:
-
-   $$
-
-
-   \left[\begin{array}{ccc|c}
-
-   2 & 3 & -1 & 1 \\
-
-   4 & -1 & 2 & 7 \\
-
-   -2 & 2 & 5 & 0
-
-   \end{array}\right]
-
-
 $$
-
-
+\left[\begin{array}{ccc|c}
+2 & 3 & -1 & 1 \\
+4 & -1 & 2 & 7 \\
+-2 & 2 & 5 & 0
+\end{array}\right]
+$$
    **Etapa de Eliminação:**
 
    - **Eliminando $x$ na segunda linha:**
      Multiplicamos a primeira linha por 2 e subtraímos da segunda linha:
-
-     $$
-
-
-     R_2 = R_2 - 2R_1
-
-     
 $$
-
-     Resultado:
-
-     $$
-
-
-     \left[\begin{array}{ccc|c}
-
-     2 & 3 & -1 & 1 \\
-
-     0 & -7 & 4 & 5 \\
-
-     -2 & 2 & 5 & 0
-
-     \end{array}\right]
-
-     
-
+R_2 = R_2 - 2R_1
 $$
-
+    Resultado:
+$$
+\left[\begin{array}{ccc|c}
+2 & 3 & -1 & 1 \\
+0 & -7 & 4 & 5 \\
+-2 & 2 & 5 & 0
+\end{array}\right]
+$$
    - **Eliminando $x$ na terceira linha:**
      Multiplicamos a primeira linha por 1 e somamos à terceira linha:
-
-     $$
-
-
-     R_3 = R_3 + R_1
-
-     
 $$
-
-     Resultado:
-
-     $$
-
-
-     \left[\begin{array}{ccc|c}
-
-     2 & 3 & -1 & 1 \\
-
-     0 & -7 & 4 & 5 \\
-
-     0 & 5 & 4 & 1
-
-     \end{array}\right]
-
-     
-
+R_3 = R_3 + R_1
 $$
-
+    Resultado:
+$$
+\left[\begin{array}{ccc|c}
+2 & 3 & -1 & 1 \\
+0 & -7 & 4 & 5 \\
+0 & 5 & 4 & 1
+\end{array}\right]
+$$
    - **Eliminando $y$ na terceira linha:**
      Multiplicamos a segunda linha por $\frac{5}{7}$ e subtraímos da terceira linha:
-
-     $$
-
-
-     R_3 = R_3 - \frac{5}{7}R_2
-
-     
 $$
-
-     Resultado:
-
-     $$
-
-
-     \left[\begin{array}{ccc|c}
-
-     2 & 3 & -1 & 1 \\
-
-     0 & -7 & 4 & 5 \\
-
-     0 & 0 & \frac{8}{7} & -\frac{18}{7}
-
-     \end{array}\right]
-
-     
-
+R_3 = R_3 - \frac{5}{7}R_2
 $$
-
+    Resultado:
+$$
+\left[\begin{array}{ccc|c}
+2 & 3 & -1 & 1 \\
+0 & -7 & 4 & 5 \\
+0 & 0 & \frac{8}{7} & -\frac{18}{7}
+\end{array}\right]
+$$
    Agora, temos a matriz triangular superior:
-
-   $$
-
-   \left[\begin{array}{ccc|c}
-
-   2 & 3 & -1 & 1 \\
-
-   0 & -7 & 4 & 5 \\
-
-   0 & 0 & \frac{8}{7} & -\frac{18}{7}
-
-   \end{array}\right]
-
 $$
-
+\left[\begin{array}{ccc|c}
+2 & 3 & -1 & 1 \\
+0 & -7 & 4 & 5 \\
+0 & 0 & \frac{8}{7} & -\frac{18}{7}
+\end{array}\right]
+$$
 2. **Etapa de Substituição Retroativa:**
 
    - **Resolvendo a última equação:**
-     $$
-
-     \frac{8}{7}z = -\frac{18}{7} \implies z = -\frac{18}{7} \cdot \frac{7}{8} = -\frac{9}{4}
-     
 $$
-
+\frac{8}{7}z = -\frac{18}{7} \implies z = -\frac{18}{7} \cdot \frac{7}{8} = -\frac{9}{4}
+$$
    - **Resolvendo a segunda equação:**
      Substituindo $z$ na segunda equação:
-
-     $$
-
-     -7y + 4\left(-\frac{9}{4}\right) = 5 \implies -7y - 9 = 5 \implies -7y = 14 \implies y = -2
-
-
 $$
-
-
+-7y + 4\left(-\frac{9}{4}\right) = 5 \implies -7y - 9 = 5 \implies -7y = 14 \implies y = -2
+$$
    - **Resolvendo a primeira equação:**
      Substituindo $y$ e $z$ na primeira equação:
-     $$
-
-     2x + 3(-2) - \left(-\frac{9}{4}\right) = 1 \implies 2x - 6 + \frac{9}{4} = 1 \implies 2x - \frac{24}{4} + \frac{9}{4} = 1 \implies 2x - \frac{15}{4} = 1
-     
 $$
+2x + 3(-2) - \left(-\frac{9}{4}\right) = 1 \implies 2x - 6 + \frac{9}{4} = 1 \implies 2x - \frac{24}{4} + \frac{9}{4} = 1 \implies 2x - \frac{15}{4} = 1
+$$$$
 
-     $$
-
-     2x = 1 + \frac{15}{4} \implies 2x = \frac{4}{4} + \frac{15}{4} \implies 2x = \frac{19}{4} \implies x = \frac{19}{8}
-     
-
+2x = 1 + \frac{15}{4} \implies 2x = \frac{4}{4} + \frac{15}{4} \implies 2x = \frac{19}{4} \implies x = \frac{19}{8}
 $$
-
-   Portanto, a solução do sistema é:
-
-   $$
-
-   x = \frac{19}{8}, \quad y = -2, \quad z = -\frac{9}{4}
-
+	Portanto, a solução do sistema é:
 $$
-
-## Algoritmo Em Python
+x = \frac{19}{8}, \quad y = -2, \quad z = -\frac{9}{4}
+$$
+## Código Em Python
 
 ```python
 def print_matrix(a, b):
+    """
+    Print the augmented matrix [A|b] in a readable format.
+    """
     n = len(b)
     for i in range(n):
         row = "  ".join(f"{a[i][j]:8.4f}" for j in range(n))
@@ -229,17 +132,29 @@ def print_matrix(a, b):
     print()
 
 def gauss_elimination_verbose(a, b):
+    """
+    Solve the linear system Ax = b using Gaussian elimination with partial pivoting.
+    Prints each step of the elimination and back substitution process.
+
+    Parameters:
+    a -- Coefficient matrix (list of lists, will be modified in-place)
+    b -- Right-hand side vector (list, will be modified in-place)
+
+    Returns:
+    x -- Solution vector (list)
+    """
     n = len(b)
 
     print("Initial augmented matrix:")
     print_matrix(a, b)
 
-#### Forward Elimination
+# Forward Elimination
     for i in range(n):
+# Partial Pivoting: Find the Row with the Largest Value in Column I
         max_row = i + max(range(n - i), key=lambda k: abs(a[i + k][i]))
         if abs(a[max_row][i]) < 1e-12:
             raise ValueError("Matrix is singular or nearly singular")
-            
+
 # Swap Rows if Needed
         if max_row != i:
             a[i], a[max_row] = a[max_row], a[i]
@@ -264,17 +179,20 @@ def gauss_elimination_verbose(a, b):
         x[i] = (b[i] - s) / a[i][i]
         print(f"x[{i}] = {x[i]:.4f}")
 
+    print("\nFinal solution:", x)
     return x
 
-A = [
-    [2.0, 1.0, -1.0],
-    [-3.0, -1.0, 2.0],
-    [-2.0, 1.0, 2.0]
-]
-B = [8.0, -11.0, -3.0]
+if __name__ == "__main__":
+    A = [
+        [1, 2, 1, 1, 2],
+        [0, 1, 2, 2, 3],
+        [1, 0, 2, 3, 2],
+        [1, 1, 1, 2, 1],
+        [2, 1, 0, 1, 1]
+    ]
+    B = [31, 31, 27, 23, 22]
 
-solution = gauss_elimination_verbose([row[:] for row in A], B[:])
-print("Final solution:", solution)
+    solution = gauss_elimination_verbose([row[:] for row in A], B[:])
 ```
 
 ## Extra

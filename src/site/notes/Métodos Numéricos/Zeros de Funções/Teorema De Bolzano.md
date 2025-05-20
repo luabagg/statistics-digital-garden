@@ -6,11 +6,9 @@
 O **Teorema de Bolzano** fornece um critério rigoroso para a existência de pelo menos um zero de uma função contínua em um intervalo. Ele afirma que:
 
 Se uma função $f(x)$ é contínua em um intervalo fechado $[a, b]$ e os valores da função nos extremos do intervalo possuem sinais opostos, ou seja,
-
 $$
- f(a) \cdot f(b) < 0, 
+f(a) \cdot f(b) < 0, 
 $$
-
 então existe pelo menos um número $c \in (a, b)$ tal que $f(c) = 0$.
 
 ## Exemplo
@@ -18,25 +16,19 @@ então existe pelo menos um número $c \in (a, b)$ tal que $f(c) = 0$.
 Considere a função $f(x) = x^3 - 2x + 1$.
 
 - Avaliamos $f(-1)$:
-
-  $$
- f(-1) = (-1)^3 - 2 \cdot (-1) + 1 = -1 + 2 + 1 = 2
 $$
-
+f(-1) = (-1)^3 - 2 \cdot (-1) + 1 = -1 + 2 + 1 = 2
+$$
 - Avaliamos $f(0)$:
-
-  $$
- f(0) = 1
 $$
-
+f(0) = 1
+$$
 Aqui, $f(-1) = 2$ e $f(0) = 1$, então $f(x)$ não muda de sinal nesse intervalo. Agora consideramos:
 
 - Avaliamos $f(-2)$:
-
-  $$
- f(-2) = (-2)^3 - 2 \cdot (-2) + 1 = -8 + 4 + 1 = -3
 $$
-
+f(-2) = (-2)^3 - 2 \cdot (-2) + 1 = -8 + 4 + 1 = -3
+$$
 Agora, temos:
 
 - $f(-2) = -3$
@@ -75,27 +67,21 @@ Podemos usar técnicas como o **método da bisseção**, que combina o Teorema d
 Considere a função $f(x) = x^3 - 4x + 1$. Queremos verificar se há pelo menos um zero no intervalo $[0,2]$.
 
 1. **Verificação pelo Teorema de Bolzano**:
-
 $$
- f(0) = 0^3 - 4(0) + 1 = 1, \quad f(2) = 2^3 - 4(2) + 1 = -3.
+f(0) = 0^3 - 4(0) + 1 = 1, \quad f(2) = 2^3 - 4(2) + 1 = -3.
 $$
-
 Como $f(0) \cdot f(2) < 0$, existe pelo menos uma raiz em $(0,2)$.
 
 1. **Uso da Derivada para Análise Adicional**:
 
 Derivamos $f(x)$:
-
 $$
- f’(x) = 3x^2 - 4.
+f’(x) = 3x^2 - 4.
 $$
-
 Igualando a zero, encontramos os pontos críticos:
-
 $$
- 3x^2 - 4 = 0 \Rightarrow x = \pm \frac{2}{\sqrt{3}} \approx \pm 1.15.
+3x^2 - 4 = 0 \Rightarrow x = \pm \frac{2}{\sqrt{3}} \approx \pm 1.15.
 $$
-
 Como $x = 1.15$ está dentro de $(0,2)$, podemos verificar que a função tem uma mudança no crescimento e pode haver apenas um zero nesse intervalo.
 
 1. **Uso de Zeros de Funções para Cálculo de Erro em Redes Neurais**

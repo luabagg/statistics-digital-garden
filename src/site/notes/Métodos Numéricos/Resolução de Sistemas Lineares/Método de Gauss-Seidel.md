@@ -8,17 +8,14 @@ O método iterativo de Gauss-Seidel é uma técnica utilizada para resolver sist
 ## Formulando O Método
 
 Considere um sistema linear $Ax = b$. A matriz $A$ pode ser decomposta em sua forma triangular superior $U$ e inferior $L$, onde $A = L + D + U^T$, com $D$ sendo a diagonal de $A$. O método Gauss-Seidel é baseado na seguinte iteração:
-
 $$
 x^{(k+1)}_i = \frac{1}{a_{ii}} \left(b_i - \sum_{j=1}^{i-1} a_{ij} x_j^{(k+1)} - \sum_{j=i+1}^n a_{ij} x_j^{(k)}\right)
 $$
-
 Aqui, $x^{(k)}$ representa o vetor de soluções no $k$-ésimo passo. A iteração é realizada até que as diferenças entre os valores das soluções em duas iterações consecutivas sejam menores do que um valor tolerância pré-definido.
 
 ### Exemplo
 
 Considere o sistema linear:
-
 $$
 \begin{cases}
 2x_1 + x_2 - x_3 = 8 \\
@@ -26,9 +23,7 @@ $$
 x_1 - 2x_2 + 4x_3 = 7
 \end{cases}
 $$
-
 A matriz $A$ e o vetor $b$ são:
-
 $$
 A = \begin{pmatrix}
 2 & 1 & -1 \\
@@ -36,9 +31,7 @@ A = \begin{pmatrix}
 1 & -2 & 4
 \end{pmatrix}, \quad b = \begin{pmatrix} 8 \\ -1 \\ 7 \end{pmatrix}
 $$
-
 A decomposição de $A$ em $L$, $D$, e $U^T$ é:
-
 $$
 L = \begin{pmatrix}
 0 & 0 & 0 \\
@@ -54,7 +47,6 @@ L = \begin{pmatrix}
 -1 & 2 & 4
 \end{pmatrix}
 $$
-
 A iteração inicial pode ser $x^{(0)} = (0, 0, 0)^T$. A iteração Gauss-Seidel é então realizada até convergência.
 
 ## Convergência E Aplicações

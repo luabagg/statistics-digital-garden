@@ -27,7 +27,7 @@ For more info check [[Exemplos Latex (MathJax)\|Exemplos Latex (MathJax)]]
 
 ### Fork the Repository
 
-1. Go to the [GitHub](https://github.com/luabagg/statistics-digital-garden) repository.  
+1. Go to the [GitHub](https://github.com/luabagg/obsidian-statistics-vault) repository.  
 2. Click **"Fork"** in the top-right corner.  
 3. If prompted, verify your email.  
 4. GitHub creates a copy under your account with a new URL.  

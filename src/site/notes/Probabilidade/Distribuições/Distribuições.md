@@ -15,5 +15,6 @@
 	- [[Probabilidade/Distribuições/Distribuição Poisson\|Distribuição Poisson]]
 	- [[Probabilidade/Distribuições/Distribuição Uniforme\|Distribuição Uniforme]]
 	- [[Probabilidade/Distribuições/Esperança a Partir da Função Geradora de Momentos\|Esperança a Partir da Função Geradora de Momentos]]
+	- [[Probabilidade/Distribuições/Função Gama\|Função Gama]]
 
 

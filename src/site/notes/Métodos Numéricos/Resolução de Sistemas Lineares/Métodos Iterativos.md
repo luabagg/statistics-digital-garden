@@ -35,42 +35,30 @@ A convergência dos métodos iterativos depende das seguintes condições:
 ## Exemplo
 
 Considere um sistema linear simples:
-
 $$
  A = \begin{pmatrix} 4 & -1 \\ -1 & 3 \end{pmatrix}, \quad b = \begin{pmatrix} 2 \\ 5 \end{pmatrix} 
 $$
-
 O Método de Gauss-Seidel pode ser expresso como:
-
 $$
  x^{(k+1)}_1 = \frac{1}{4}(2 + x^{(k)}_2) 
+$$$$
+ x^{(k+1)}_2 = \frac{1}{3}(5 + x^{(k)}_1)
 $$
-
-$$
- x^{(k+1)}_2 = \frac{1}{3}(5 + x^{(k)}_1) 
-$$
-
 Em forma matricial, isso pode ser escrito como:
-
 $$
- x^{(k+1)} = Cx^{(k)} + g 
+ x^{(k+1)} = Cx^{(k)} + g
 $$
-
 onde
-
 $$
- C = \begin{pmatrix} 0 & \frac{1}{4} \\ \frac{1}{3} & 0 \end{pmatrix}, \quad g = \begin{pmatrix} \frac{1}{2} \\ \frac{5}{3} \end{pmatrix} 
+ C = \begin{pmatrix} 0 & \frac{1}{4} \\ \frac{1}{3} & 0 \end{pmatrix}, \quad g = \begin{pmatrix} \frac{1}{2} \\ \frac{5}{3} \end{pmatrix}
 $$
-
 ### Exemplos De Métodos Iterativos
 
 1. **Método da Relaxação Sazonal (SOR - Successive Over-Relaxation)**:
    O SOR é uma extensão do método de Gauss-Seidel, onde um fator de relaxação $\omega$ é introduzido para acelerar a convergência. A fórmula geral é dada por:
-
-   $$
+$$
    x^{(k+1)}_i = (1 - \omega) x^{(k)}_i + \frac{\omega}{a_{ii}} \left(b_i - \sum_{j=1}^{i-1} a_{ij}x^{(k+1)}_j - \sum_{j=i+1}^n a_{ij}x^{(k)}_j\right)
-   $$
-
+$$
    onde $x^{(k)}$ é o vetor solução na iteração $k$, e $\omega$ é um parâmetro de relaxação.
 
 2. **Método de Conjugados Gradientes (CG - Conjugate Gradient)**:
@@ -78,7 +66,6 @@ $$
 
 3. **Método de Precondicionamento**:
    O precondicionamento envolve a introdução de um operador $M$ para acelerar a convergência do método iterativo. A solução é obtida resolvendo o sistema modificado:
-
-   $$
+$$
    M^{-1}Ax = M^{-1}b
-   $$
+$$

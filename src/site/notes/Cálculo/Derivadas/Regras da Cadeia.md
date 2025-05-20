@@ -17,13 +17,9 @@ Suponha que você tenha:
 Você quer saber: **“Se eu mudar um pouquinho o valor de $y$, o que acontece com $z$?”**
 
 A resposta é dada pela regra da cadeia:
-
 $$
-
 \frac{\partial z}{\partial y} = \frac{\partial z}{\partial x} \cdot \frac{\partial x}{\partial y}
-
 $$
-
 Esse cálculo diz que você precisa ver:
 
 1. **Quanto $z$ muda em relação a $x$** ($\frac{\partial z}{\partial x}$), e
@@ -36,13 +32,9 @@ Multiplicando essas duas coisas, você obtém **quanto $z$ muda em relação a $
 ## Fórmula Específica
 
 A fórmula:
-
 $$
-
 \frac{\partial z}{\partial y} = -\frac{f_x}{f_y}
-
 $$
-
 parece diferente, mas ela aparece em **casos bem específicos**. Ela sugere que a relação entre $x$ e $y$ é tal que a mudança em um “anula” a do outro, mantendo $z$ constante — por isso o sinal de menos.
 
 Isso acontece, por exemplo, em situações onde você tem uma **equação implícita** (tipo $f(x, y) = c$, com $c$ constante). Nesses casos, $z$ não está explicitamente definido como função de $x$ e $y$, mas mesmo assim é possível deduzir como uma variável afeta a outra.

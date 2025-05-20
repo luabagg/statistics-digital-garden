@@ -8,11 +8,9 @@ O **Critério da Razão** (ou Teste da Razão) é um método útil para determin
 ## Formulação Do Critério
 
 Considere uma série infinita $\sum_{n=1}^{\infty} a_n$, onde $a_n > 0$ para todo $n$. O critério da razão é aplicado ao calcular o limite:
-
 $$
 L = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right|
 $$
-
 - Se $L < 1$, a série converge absolutamente.
 - Se $L > 1$, a série diverge.
 - Se $L = 1$, o critério não fornece informações sobre a convergência.
@@ -27,11 +25,9 @@ Considere a série geométrica $\sum_{n=0}^{\infty} \left(\frac{1}{2}\right)^n$.
 - Razão entre termos consecutivos: $\frac{a_{n+1}}{a_n} = \frac{\left(\frac{1}{2}\right)^{n+1}}{\left(\frac{1}{2}\right)^n} = \frac{1}{2}$
 
 Calculando o limite:
-
 $$
 L = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| = \frac{1}{2}
 $$
-
 Como $L < 1$, a série converge absolutamente.
 
 ### Exemplo 2: Série De Fatorial
@@ -40,17 +36,13 @@ Considere a série $\sum_{n=1}^{\infty} \frac{n!}{(2n)!}$.
 
 - Termos da série: $a_n = \frac{n!}{(2n)!}$
 - Razão entre termos consecutivos:
-
 $$
 \frac{a_{n+1}}{a_n} = \frac{(n+1)!(2n)!}{(2(n+1))!n!} = \frac{(n+1)(2n)!}{(2n+2)(2n+1)(2n)!} = \frac{n+1}{(2n+2)(2n+1)}
 $$
-
 Calculando o limite:
-
 $$
 L = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| = \lim_{n \to \infty} \frac{n+1}{(2n+2)(2n+1)} = \lim_{n \to \infty} \frac{\frac{n+1}{n^2}}{\left(\frac{2n+2}{n}\right)\left(\frac{2n+1}{n}\right)} = \lim_{n \to \infty} \frac{\frac{1}{n} + \frac{1}{n^2}}{4 + \frac{2}{n} + \frac{1}{n^2}} = 0
 $$
-
 Como $L < 1$, a série converge absolutamente.
 
 ### Exemplo 3: Série De Potências
@@ -59,17 +51,13 @@ Considere a série $\sum_{n=1}^{\infty} \left(\frac{x^n}{n}\right)$, onde $x$ é
 
 - Termos da série: $a_n = \frac{x^n}{n}$
 - Razão entre termos consecutivos:
-
 $$
 \frac{a_{n+1}}{a_n} = \frac{\frac{x^{n+1}}{n+1}}{\frac{x^n}{n}} = \frac{n x^{n+1}}{(n+1) x^n} = \frac{n x}{n+1}
 $$
-
 Calculando o limite:
-
 $$
 L = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| = \lim_{n \to \infty} \left| \frac{n x}{n+1} \right| = |x|
 $$
-
 - Se $|x| < 1$, a série converge absolutamente.
 - Se $|x| > 1$, a série diverge.
 - Se $|x| = 1$, o critério não fornece informações sobre a convergência.

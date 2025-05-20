@@ -24,11 +24,9 @@ Seja $X = \{a, b, c\}$. A maior sigma álgebra possível é $\mathcal{P}(X) = \{
 ### Teoria Da Medida
 
 As sigma álgebras são essenciais na definição de medidas. Uma medida $\mu$ é uma função que associa a cada conjunto em uma sigma álgebra um valor não negativo ou infinito, representado por:
-
 $$
 \mu: \mathcal{F} \to [0, +\infty]
 $$
-
 ### Probabilidade
 
 Em probabilidade, as sigma álgebras são usadas para definir eventos e suas probabilidades. Se $\Omega$ é o espaço amostral de um experimento aleatório, uma sigma álgebra sobre $\Omega$ define os eventos que podem ocorrer.

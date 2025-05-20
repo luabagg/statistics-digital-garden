@@ -10,11 +10,9 @@ A **sigma álgebra de Borel** é um conceito fundamental na teoria da medida e n
 ### Definição
 
 A **sigma álgebra de Borel** em $\mathbb{R}$ é a menor sigma álgebra que contém todos os conjuntos abertos. Matematicamente, podemos escrever:
-
 $$
 \mathcal{B} = \sigma(\{\text{conjuntos abertos em } \mathbb{R}\})
 $$
-
 ### Exemplos De Conjuntos Borel
 
 1. **Conjuntos Abertos**: Qualquer conjunto que pode ser escrito como uma união contável de intervalos abertos é um exemplo básico de conjuntos borel.

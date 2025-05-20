@@ -7,6 +7,7 @@
 
 - **[[Métodos Numéricos/Resolução de Sistemas Lineares/Resolução de Sistemas Lineares\|Resolução de Sistemas Lineares]]**
 	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU\|Fatoração LU]]
+	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Interpolação Polinimial\|Interpolação Polinimial]]
 	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Método de Eliminação de Gauss\|Método de Eliminação de Gauss]]
 	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Jacobi\|Método de Gauss-Jacobi]]
 	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Seidel\|Método de Gauss-Seidel]]
@@ -21,29 +22,17 @@
 Uma função $f$ é dita linear se satisfaz as seguintes propriedades:
 
 1. **Aditividade**: Para quaisquer valores $x$ e $y$, temos que
-
-	$$
-	
+$$
 	   f(x + y) = f(x) + f(y).
-	
-	$$
-
+$$
 2. **Homogeneidade de grau 1**: Para qualquer escalar $c$ e valor $x$, temos que
-
-   $$
-	
+$$
 	   f(cx) = cf(x).
-	
-	$$
-
+$$
 A combinação dessas duas propriedades resulta na forma geral de uma função linear, que pode ser expressa como:
-
-	$$
-	
+$$
 	f(x) = ax + b,
-	
-	$$
-
+$$
 onde $a$ e $b$ são constantes. Aqui, $b$ é o intercepto y (o valor da função quando $x=0$), enquanto $a$ é a inclinação da reta.
 
 ### Exemplos De Funções Lineares

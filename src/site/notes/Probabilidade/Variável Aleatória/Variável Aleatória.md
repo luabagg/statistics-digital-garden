@@ -34,9 +34,7 @@ Uma variável aleatória é uma função que associa um valor numérico a cada r
 ### Tipos De Variáveis Aleatórias
 
 - **Discretas**: Têm um número contável de valores possíveis. Por exemplo, o número de carros vendidos em um dia.
-
-  $$
-
+$$
 X(\omega) = \begin{cases}
 
   0 & \text{se não vendeu nenhum carro} \\
@@ -48,29 +46,20 @@ X(\omega) = \begin{cases}
   \vdots
 
   \end{cases}
-
 $$
 - **Contínuas**: Podem assumir qualquer valor numérico dentro de um intervalo. Por exemplo, a altura de uma pessoa.
-
-  
 $$
-
 Y(\omega) = \text{altura da pessoa em metros}
-
 $$
 ### Função De Distribuição Acumulada (FDA)
 
 A função de distribuição acumulada $F_X(x)$ de uma variável aleatória discreta $X$ é definida como:
 $$
-
 F_X(x) = P(X \leq x)
-
 $$
 Para a variável aleatória contínua $Y$, a FDA é dada por:
 $$
-
 F_Y(y) = P(Y \leq y)
-
 $$
 Essa função descreve a probabilidade de que o valor da variável aleatória seja menor ou igual a um certo ponto.
 
@@ -78,32 +67,18 @@ Essa função descreve a probabilidade de que o valor da variável aleatória se
 
 - **Esperança**: É a média esperada dos valores que uma variável aleatória pode assumir. Para uma variável discreta $X$, é dada por:
 $$
-
 E[X] = \sum_{x} x \cdot P(X = x)
-
 $$
   Para uma variável contínua $Y$, é dada por:
-
-  
 $$
-
 E[Y] = \int_{-\infty}^{\infty} y \cdot f_Y(y) \, dy
-
 $$
 - **Variância**: Mede a dispersão dos valores em torno da média. É definida como o quadrado da desvio padrão e para uma variável discreta $X$ é:
-
-  
 $$
-
 \text{Var}(X) = E[(X - E[X])^2] = \sum_{x} (x - E[X])^2 \cdot P(X = x)
-
 $$
   Para uma variável contínua $Y$, a variância é:
-
-  
 $$
-
 \text{Var}(Y) = E[(Y - E[Y])^2] = \int_{-\infty}^{\infty} (y - E[Y])^2 \cdot f_Y(y) \, dy
-
 $$
 Essas medidas são essenciais para entender e quantificar a tendência central e a dispersão dos dados associados às variáveis aleatórias.
