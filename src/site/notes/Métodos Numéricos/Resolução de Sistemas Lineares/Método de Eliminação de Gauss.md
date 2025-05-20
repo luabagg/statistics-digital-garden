@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Eliminação de Gauss/","created":"2025-05-20T13:30:13.842-03:00"}
+{"dg-publish":true,"dg-permalink":"metodos-numericos/resolucao-de-sistemas-lineares/metodo-de-eliminacao-de-gauss","permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/metodo-de-eliminacao-de-gauss/","created":"2025-05-20T13:30:13.842-03:00"}
 ---
 
 
@@ -111,6 +111,7 @@ $$
 $$
 2x + 3(-2) - \left(-\frac{9}{4}\right) = 1 \implies 2x - 6 + \frac{9}{4} = 1 \implies 2x - \frac{24}{4} + \frac{9}{4} = 1 \implies 2x - \frac{15}{4} = 1
 $$$$
+
 2x = 1 + \frac{15}{4} \implies 2x = \frac{4}{4} + \frac{15}{4} \implies 2x = \frac{19}{4} \implies x = \frac{19}{8}
 $$
 	Portanto, a solução do sistema é:
