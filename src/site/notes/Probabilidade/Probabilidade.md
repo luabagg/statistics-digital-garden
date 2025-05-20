@@ -7,7 +7,7 @@
 - **[[Probabilidade/Probabilidade\|Probabilidade]]**
 	- **[[Probabilidade/Distribuições/Distribuições\|Distribuições]]**
 	- [[Probabilidade/Leis de Morgan\|Leis de Morgan]]
-	- [[Probabilidade/Sigma-Álgebra De Borel\|Sigma-Álgebra De Borel]]
+	- [[Probabilidade/Sigma-Álgebra de Borel\|Sigma-Álgebra de Borel]]
 	- [[Probabilidade/Sigma-Álgebra\|Sigma-Álgebra]]
 	- **[[Probabilidade/Variável Aleatória/Variável Aleatória\|Variável Aleatória]]**
 
