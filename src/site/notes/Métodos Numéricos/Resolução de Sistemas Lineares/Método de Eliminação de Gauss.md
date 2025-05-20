@@ -155,14 +155,14 @@ def gauss_elimination_verbose(a, b):
         if abs(a[max_row][i]) < 1e-12:
             raise ValueError("Matrix is singular or nearly singular")
 
-# Swap Rows If Needed
+		# Swap Rows If Needed
         if max_row != i:
             a[i], a[max_row] = a[max_row], a[i]
             b[i], b[max_row] = b[max_row], b[i]
             print(f"Swapped row {i} with row {max_row}")
             print_matrix(a, b)
 
-# Eliminate Entries Below The Pivot
+		# Eliminate Entries Below The Pivot
         for j in range(i + 1, n):
             factor = a[j][i] / a[i][i]
             for k in range(i, n):
@@ -171,7 +171,7 @@ def gauss_elimination_verbose(a, b):
             print(f"Eliminated row {j} using row {i} with factor {factor:.4f}")
             print_matrix(a, b)
 
-# Back Substitution
+	# Back Substitution
     x = [0 for _ in range(n)]
     print("Back substitution:")
     for i in reversed(range(n)):
