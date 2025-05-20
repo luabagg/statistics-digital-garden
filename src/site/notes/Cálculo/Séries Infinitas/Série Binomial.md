@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série Binomial/","dgPassFrontmatter":true,"created":"2025-04-07T09:48:38.491-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série Binomial/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.833-03:00"}
 ---
 
 
 A **série binomial** é um importante conceito na teoria dos números e em cálculo, que permite expandir expressões do tipo $(1 + x)^n$ para qualquer número real ou complexo $n$. Esta série é uma generalização da fórmula do binômio de Newton.
 
-## Definição Da Série Binomial
+## Definição da Série Binomial
 
 A **série binomial** pode ser definida como:
 $$
@@ -15,7 +15,7 @@ onde $\binom{n}{k}$ é o coeficiente binomial, dado por:
 $$
 \binom{n}{k} = \frac{n!}{k!(n-k)!}.
 $$
-## Exemplos De Série Binomial
+## Exemplos de Série Binomial
 
 1. **Para $n=0$**:
 $$
@@ -47,11 +47,11 @@ $$
 $$
 onde $\binom{n}{k}$ é o coeficiente binomial e pode ser interpretado como a $k$-ésima derivada de $(1+x)^n$ avaliada em $x=0$, dividido por $k!$. Isso mostra claramente a relação entre a série binomial e a série de Maclaurin.
 
-## Intervalo De Convergência
+## Intervalo de Convergência
 
 O **intervalo de convergência** da série binomial refere-se ao conjunto de valores de $x$ para os quais a série converge. Para a série binomial $(1 + x)^n$, o intervalo de convergência depende do valor de $n$. Em geral, a série converge se $|x| < 1$.
 
-### Exemplos De Intervalos De Convergência
+### Exemplos de Intervalos de Convergência
 
 1. **Para $n=0$**:
 
@@ -89,7 +89,7 @@ $$
 $$
    A série converge para $|x| < 1$.
 
-### Exemplo De Aplicação
+### Exemplo de Aplicação
 
 Considere o caso onde $n = -\frac{1}{2}$:
 $$

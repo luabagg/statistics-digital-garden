@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferenciabilidade de uma  Função/","dgPassFrontmatter":true,"created":"2025-04-30T08:19:10.233-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferenciabilidade de uma  Função/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.827-03:00"}
 ---
 
 
@@ -34,7 +34,7 @@ Ou seja, a função $f$ é diferenciável em $(x_0, y_0)$ se ela pode ser bem ap
 
 ---
 
-## **Teorema Da Diferenciabilidade (Funções De Duas variáveis)**
+## **Teorema Da Diferenciabilidade (Funções de Duas variáveis)**
 
 Se $f: \mathbb{R}^2 \to \mathbb{R}$ possui as derivadas parciais $\frac{\partial f}{\partial x}$ e $\frac{\partial f}{\partial y}$ em uma vizinhança de $(x_0, y_0)$, **e essas derivadas parciais são contínuas em $(x_0, y_0)$**, então $f$ é diferenciável em $(x_0, y_0)$.
 

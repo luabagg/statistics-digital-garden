@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Jacobi/","dgPassFrontmatter":true,"created":"2025-04-22T10:36:57.260-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Jacobi/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.843-03:00"}
 ---
 
 
 O Método de Gauss-Jacobi é um algoritmo iterativo utilizado para resolver sistemas lineares de equações do tipo $Ax = b$, onde $A$ é uma matriz quadrada, $x$ e $b$ são vetores. Este método é particularmente útil quando a matriz $A$ possui certas propriedades que facilitam sua aplicação.
 
-## Formulando O Problema
+## Formulando o Problema
 
 Considere um sistema linear de equações representado por:
 $$
@@ -56,7 +56,7 @@ $$
 x_1^{(k+1)} = \frac{1}{2}(8 - x_2^{(k)}) \\
 x_2^{(k+1)} = \frac{1}{3}(10 - x_1^{(k)})
 $$
-### Criterio De Parada Do Método De Gauss-jacobi
+### Criterio de Parada Do Método de Gauss-jacobi
 
 O método de Gauss-Jacobi é uma técnica iterativa utilizada para resolver sistemas lineares. O critério de parada desse método é fundamental para determinar quando a solução atinge um nível aceitável de precisão. Este critério pode ser estabelecido considerando as seguintes condições:
 
@@ -97,7 +97,7 @@ $$
 - O critério de parada baseado no erro relativo é mais robusto, pois considera a escala dos valores das variáveis.
 - A escolha do critério de parada deve levar em conta o problema específico e as características do sistema linear.
 
-## Código Em Python
+## Código em Python
 
 ```python
 import numpy as np

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":null,"permalink":"/Cálculo/Integrais/Integrais/","dgPassFrontmatter":true,"created":"2025-03-22T17:21:00.763-03:00"}
+{"dg-publish":true,"dg-show-local-graph":null,"permalink":"/Cálculo/Integrais/Integrais/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.830-03:00"}
 ---
 
 
@@ -37,7 +37,7 @@ Calcule a área sob a curva $f(x) = x^2$ entre $x=0$ e $x=1$.
 $$
  \int_{0}^{1} x^2 \, dx = \left[ \frac{x^3}{3} \right]_0^1 = \frac{1}{3} - 0 = \frac{1}{3} 
 $$
-## Regras De Integração
+## Regras de Integração
 
 Existem várias regras e métodos para calcular integrais. Algumas delas incluem:
 

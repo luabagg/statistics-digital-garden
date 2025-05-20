@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Discreta/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.167-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Discreta/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.855-03:00"}
 ---
 
 
@@ -7,13 +7,13 @@ Seja $X: \Omega \to \mathbb{R}$ uma variável aleatória definida em um espaço 
 
 Dizemos que $X$ é uma variável aleatória discreta se sua função de distribuição acumulada $F_X(x)$ satisfaz as seguintes propriedades:
 
-## 1. Definição Da Fda Para Va Discreta
+## 1. Definição da Fda para Va Discreta
 $$
 F_X(x) = P(X \leq x)
 $$
 Esta expressão representa a probabilidade de que o valor da variável aleatória $X$ seja menor ou igual a um determinado ponto $x$.
 
-## 2. Característica Principal De Va Discretas
+## 2. Característica Principal de Va Discretas
 
 A FDA de uma variável aleatória discreta é uma função constante por partes, o que significa que ela salta em certos pontos específicos correspondentes aos valores possíveis da variável aleatória.
 

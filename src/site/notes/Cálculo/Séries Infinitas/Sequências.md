@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Sequências/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.163-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Sequências/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.832-03:00"}
 ---
 
 
-## Introdução Às Sequências no Cálculo
+## Introdução às Sequências no Cálculo
 
 As sequências são estruturas fundamentais na matemática e desempenham um papel crucial no campo do cálculo. Uma sequência é definida como uma lista ordenada de números, onde cada número é chamado de termo da sequência. Matematicamente, podemos representar uma sequência como $\{a_n\}_{n=1}^{\infty}$, onde $a_n$ denota o $n$-ésimo termo da sequência.
 
-### Tipos De Sequências
+### Tipos de Sequências
 
 Existem vários tipos de sequências com propriedades e comportamentos distintos:
 
@@ -15,14 +15,14 @@ Existem vários tipos de sequências com propriedades e comportamentos distintos
 - **Sequências Geométricas**: Aqui, cada termo é obtido multiplicando o termo anterior por um número constante chamado razão. Por exemplo, a sequência $2, 6, 18, 54, \ldots$ é geométrica, com uma razão de 3.
 - **Sequências Recursivas**: Essas sequências são definidas em termos dos próprios termos anteriores. Por exemplo, a sequência de Fibonacci $0, 1, 1, 2, 3, 5, \ldots$ é definida por $F_n = F_{n-1} + F_{n-2}$ para $n > 1$, com $F_0 = 0$ e $F_1 = 1$.
 
-### Aplicações Das Sequências
+### Aplicações das Sequências
 
 Sequências têm inúmeras aplicações no cálculo e em outras áreas da matemática:
 
 - **Séries Infinitas**: As séries infinitas são somas de termos de uma sequência. Por exemplo, a série geométrica $\sum_{n=0}^{\infty} x^n$ converge para $\frac{1}{1-x}$ quando $|x| < 1$.
 - **Convergência e Divergência**: Determinar se uma sequência converge ou diverge é crucial. Uma sequência convergente tem um limite finito, enquanto uma divergente não tem esse limite.
 
-### Exemplos De Sequências
+### Exemplos de Sequências
 
 - **Sequência Aritmética**: $a_n = 2n - 1$ (exemplo: 1, 3, 5, 7, …)
 - **Sequência Geométrica**: $b_n = 3^n$ (exemplo: 3, 9, 27, 81, …)
@@ -30,7 +30,7 @@ Sequências têm inúmeras aplicações no cálculo e em outras áreas da matem�
 
 Estas sequências ilustram a diversidade e importância das sequências no cálculo.
 
-## Convergência E Limites
+## Convergência e Limites
 
 Um conceito fundamental no cálculo é o limite de uma sequência. Um limite de uma sequência $\{a_n\}_{n=1}^{\infty}$ é um número real $L$ tal que os termos da sequência se aproximam arbitrariamente próximo a $L$ à medida que $n$ aumenta indefinidamente.
 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Função Gama/","dgPassFrontmatter":true,"created":"2025-05-20T09:27:27.975-03:00"}
 ---
 
+
 A distribuição Gama é um método estatístico utilizado para descrever e analisar dados, especialmente em contextos onde se deseja entender a variabilidade dos dados. Esta distribuição é frequentemente aplicada em campos como medicina, engenharia, ciências sociais e economia.
 
 ## Características Principais
@@ -47,7 +48,7 @@ $$
 
 A distribuição Gamma é uma ferramenta estatística versátil que pode ser aplicada em diversos contextos. Vamos explorar alguns exemplos práticos e como a distribuição Gamma pode ser usada em diferentes campos.
 
-### Exemplo 1: Tempo De Recuperação Médica
+### Exemplo 1: Tempo de Recuperação Médica
 
 **Contexto**: Em um estudo médico, os pesquisadores estão interessados no tempo até a recuperação completa dos pacientes após uma cirurgia. Suponha que o tempo de recuperação segue uma distribuição Gamma com parâmetros shape $k = 3$ e scale $\theta = 2$.
 
@@ -67,7 +68,7 @@ $$
 - A média de tempo de recuperação é 6 dias.
 - O desvio padrão é aproximadamente 3.46 dias.
 
-### Exemplo 2: Vida Útil De Componentes Eletrônicos
+### Exemplo 2: Vida Útil de Componentes Eletrônicos
 
 **Contexto**: Em engenharia, a vida útil de componentes eletrônicos pode ser modelada usando a distribuição Gamma. Suponha que a vida útil dos componentes segue uma distribuição Gamma com parâmetros shape $k = 5$ e scale $\theta = 10$.
 

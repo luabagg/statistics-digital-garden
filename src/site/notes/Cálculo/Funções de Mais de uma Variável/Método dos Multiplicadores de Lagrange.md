@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Método dos Multiplicadores de Lagrange/","dgPassFrontmatter":true,"created":"2025-05-16T10:06:52.671-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Método dos Multiplicadores de Lagrange/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.829-03:00"}
 ---
 
-## Introdução Ao Método Dos Multiplicadores De Lagrange
+
+## Introdução ao Método dos Multiplicadores de Lagrange
 
 O Método dos Multiplicadores de Lagrange é uma técnica utilizada em cálculo para encontrar extremos (máximos ou mínimos) de uma função sujeita a restrições. Este método é especialmente útil quando se deseja otimizar uma função multivariável com condições restritivas.
 
-### Formulando O Problema
+### Formulando o Problema
 
 Considere uma função $f(x_1, x_2, \ldots, x_n)$ que queremos maximizar ou minimizar sujeita a uma restrição $g(x_1, x_2, \ldots, x_n) = c$. O problema pode ser formulado como:
 $$

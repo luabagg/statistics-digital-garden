@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivada Direcional/Taxa Máxima da Derivada Direcional/","dgPassFrontmatter":true,"created":"2025-05-09T09:42:57.066-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivada Direcional/Taxa Máxima da Derivada Direcional/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.824-03:00"}
 ---
 
 
@@ -17,7 +17,7 @@ Onde $\|\mathbf{u}\|=1$ implica que $\mathbf{u}$ é um vetor unitário. Esta def
 
 Geometricamente, a taxa máxima da derivada direcional representa o declive máximo da superfície definida por $f$ no ponto $\mathbf{a}$. É a maior inclinação que pode ser observada ao se mover em qualquer direção a partir desse ponto.
 
-## Cálculo Da Taxa Máxima
+## Cálculo da Taxa Máxima
 
 A taxa máxima da derivada direcional é dada pelo módulo do gradiente:
 $$

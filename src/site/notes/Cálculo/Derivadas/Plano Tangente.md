@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Plano Tangente/","dgPassFrontmatter":true,"created":"2025-04-28T09:37:47.102-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Plano Tangente/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.828-03:00"}
 ---
 
 
@@ -34,13 +34,13 @@ Simplificando, obtemos:
 $$
 z = 2x + 2y - 2
 $$
-## Equações Diferenciais E Derivadas Implícitas
+## Equações Diferenciais e Derivadas Implícitas
 
 ### Equação Diferencial Implícita
 
 Uma equação diferencial implícita é uma relação entre as variáveis $x$, $y$ e suas derivadas, que não pode ser facilmente resolvida para a função $y(x)$.
 
-### Exemplo De Derivada Implícita
+### Exemplo de Derivada Implícita
 
 Considere a equação:
 $$
@@ -58,7 +58,7 @@ Resolvendo para $\frac{dy}{dx}$, temos:
 $$
 \frac{dy}{dx} = -\frac{x}{y}
 $$
-### Aplicação Ao Plano Tangente
+### Aplicação ao Plano Tangente
 
 Para encontrar o plano tangente a uma superfície definida implicitamente, usamos as derivadas implícitas. Seja $F(x, y, z) = 0$ a equação da superfície. O gradiente de $F$, $\nabla F$, é normal ao plano tangente no ponto $(x_0, y_0, z_0)$.
 

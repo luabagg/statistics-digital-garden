@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Séries Infinitas/Séries Infinitas/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.164-03:00"}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Séries Infinitas/Séries Infinitas/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:34.654-03:00"}
 ---
-
 
 
 
 - **[[Cálculo/Séries Infinitas/Séries Infinitas\|Séries Infinitas]]**
 	- [[Cálculo/Séries Infinitas/Convergência Absoluta\|Convergência Absoluta]]
-	- [[Cálculo/Séries Infinitas/Estimativa para a Soma de uma Série\|Estimativa para a Soma de uma Série]]
+	- [[Cálculo/Séries Infinitas/Estimativa Para a Soma de uma Série\|Estimativa Para a Soma de uma Série]]
 	- [[Cálculo/Séries Infinitas/Sequências\|Sequências]]
 	- [[Cálculo/Séries Infinitas/Série Binomial\|Série Binomial]]
 	- [[Cálculo/Séries Infinitas/Série de Maclaurin\|Série de Maclaurin]]
@@ -34,7 +33,7 @@ Uma série é a soma de uma sequência infinita de números. Matematicamente, é
 $$
  \sum_{n=1}^{\infty} a_n = a_1 + a_2 + a_3 + … 
 $$
-## Tipos Principais De Séries
+## Tipos Principais de Séries
 
 - **Séries Geométricas:** São séries onde cada termo é multiplicado por uma razão constante
 - **Séries Aritméticas:** São séries onde a diferença entre termos consecutivos é constante

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Sigma-Álgebra/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.167-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Sigma-Álgebra/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.852-03:00"}
 ---
 
 
@@ -21,7 +21,7 @@ Seja $X = \{a, b, c\}$. A maior sigma álgebra possível é $\mathcal{P}(X) = \{
 
 ## Aplicações
 
-### Teoria Da Medida
+### Teoria da Medida
 
 As sigma álgebras são essenciais na definição de medidas. Uma medida $\mu$ é uma função que associa a cada conjunto em uma sigma álgebra um valor não negativo ou infinito, representado por:
 $$

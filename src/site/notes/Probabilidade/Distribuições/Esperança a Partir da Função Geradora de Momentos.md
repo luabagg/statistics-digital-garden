@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Esperança a Partir da Função Geradora de Momentos/","dgPassFrontmatter":true,"created":"2025-04-22T09:05:36.110-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Esperança a Partir da Função Geradora de Momentos/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.851-03:00"}
 ---
 
 

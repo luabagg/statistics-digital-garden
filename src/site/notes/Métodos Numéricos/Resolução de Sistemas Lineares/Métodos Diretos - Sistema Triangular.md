@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Métodos Diretos - Sistema Triangular/","dgPassFrontmatter":true,"created":"2025-04-01T11:34:54.136-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Métodos Diretos - Sistema Triangular/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.844-03:00"}
 ---
 
 
 Os métodos diretos têm por objetivo transformar a matriz A (coeficiente) numa matriz triangular (superior ou inferior), dessa forma a obtenção do vetor-solução dar-se-á de forma trivial. Esses métodos são fundamentais na resolução eficiente de sistemas lineares, pois permitem encontrar as soluções através de operações elementares que simplificam o sistema.
 
-## Triangularização Da Matriz a
+## Triangularização da Matriz a
 
 1. **Eliminação Gaussiana**: Este método consiste em transformar a matriz $A$ em uma matriz triangular superior (ou inferior) através de operações elementares linha-a-linha. As operações elementares incluem:
    - Multiplicação de uma linha por um escalar não nulo.
@@ -38,7 +38,7 @@ $$
 $$
 Agora, o sistema pode ser resolvido de forma trivial através do backward-substitution.
 
-## Resolução De Matriz Triangular Superior
+## Resolução de Matriz Triangular Superior
 
 ```python
 import numpy as np
@@ -62,7 +62,7 @@ x = backward_substitution(U, b)
 print("Solução:", x)
 ```
 
-## Resolução De Matriz Triangular Inferior
+## Resolução de Matriz Triangular Inferior
 
 ```python
 import numpy as np

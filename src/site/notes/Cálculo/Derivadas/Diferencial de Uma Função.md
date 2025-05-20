@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferencial de Uma Função/","dgPassFrontmatter":true,"created":"2025-04-30T08:48:24.029-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferencial de Uma Função/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.827-03:00"}
 ---
 
 
-## Diferencial De Uma Função Para Uma Variável
+## Diferencial de Uma Função para Uma Variável
 
 O diferencial de uma função $f(x)$ de uma variável é uma medida aproximada da mudança na função quando a variável independente sofre uma pequena variação. Matematicamente, o diferencial de $f$ em relação a $x$ é denotado por $df$ e está dado por:
 $$
@@ -25,7 +25,7 @@ Se $x = 1$ e $dx = 0.1$, então:
 $$
 df = (2(1) + 3)(0.1) = 5(0.1) = 0.5
 $$
-## Diferencial De Uma Função Para Duas Variáveis
+## Diferencial de Uma Função para Duas Variáveis
 
 Para funções com duas variáveis, o diferencial é uma generalização do conceito anterior. Considere a função $f(x, y)$ de duas variáveis. O diferencial de $f$ em relação às variáveis $x$ e $y$ é dado por:
 $$
@@ -44,7 +44,7 @@ $$
 df = (2x + 3y) \, dx + (3x - 8y) \, dy
 $$
 Se $x = 1$, $y = 2$, $dx = 0.1$, e $dy = 0.2$, então:
-
+$$
 \begin{align*}
 
 df &= (2(1) + 3(2))(0.1) + (3(1) - 8(2))(0.2) \\
@@ -58,3 +58,4 @@ df &= (2(1) + 3(2))(0.1) + (3(1) - 8(2))(0.2) \\
    &= -1.8
 
 \end{align*}
+$$

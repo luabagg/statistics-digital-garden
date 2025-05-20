@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Teorema De Bolzano/","dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.166-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Teorema De Bolzano/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.847-03:00"}
 ---
 
 
@@ -36,16 +36,16 @@ Agora, temos:
 
 Como $f(-2) \cdot f(0) < 0$, pelo Teorema de Bolzano, existe pelo menos um zero de $f(x)$ no intervalo $(-2, 0)$.
 
-## Uso De Técnicas De Cálculo no Teorema De Bolzano
+## Uso de Técnicas de Cálculo no Teorema de Bolzano
 
 O **Teorema de Bolzano** garante a existência de pelo menos um zero de uma função contínua em um intervalo $[a, b]$ se $f(a) \cdot f(b) < 0$. No entanto, o teorema não nos fornece a localização exata desse zero nem a quantidade de raízes dentro do intervalo. Para uma análise mais detalhada, utilizamos técnicas do cálculo, como a **derivada**, para entender melhor o comportamento da função.
 
-### Continuidade E Diferenciabilidade
+### Continuidade e Diferenciabilidade
 
 - O Teorema de Bolzano exige que $f(x)$ seja **contínua** no intervalo $[a, b]$.
 - Se a função for também **diferenciável** (ou seja, tiver derivada contínua em $(a, b)$), podemos usar ferramentas como o **Teorema de Rolle** e o **Teorema do Valor Médio** para obter mais informações sobre a existência e multiplicidade de raízes.
 
-### Derivadas E Mudança De Sinal
+### Derivadas e Mudança de Sinal
 
 Se a função $f(x)$ é diferenciável, sua derivada $f’(x)$ pode ser usada para analisar:
 
@@ -72,7 +72,7 @@ f(0) = 0^3 - 4(0) + 1 = 1, \quad f(2) = 2^3 - 4(2) + 1 = -3.
 $$
 Como $f(0) \cdot f(2) < 0$, existe pelo menos uma raiz em $(0,2)$.
 
-1. **Uso da Derivada para Análise Adicional**:
+2. **Uso da Derivada para Análise Adicional**:
 
 Derivamos $f(x)$:
 $$

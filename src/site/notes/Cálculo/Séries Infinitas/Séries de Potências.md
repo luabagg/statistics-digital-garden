@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Séries de Potências/","dgPassFrontmatter":true,"created":"2025-04-11T09:37:33.515-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Séries de Potências/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.837-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@ $$
 $$
 onde $a_n$ são os coeficientes, $c$ é o centro da série e $x$ é a variável.
 
-## Raio De Convergência
+## Raio de Convergência
 
 O raio de convergência, denotado por $R$, é um número não negativo que define o intervalo em torno do centro $c$ onde a série converge absolutamente. Para calcular $R$, usamos a fórmula:
 $$
@@ -17,7 +17,7 @@ $$
 $$
 Se o limite não existe, podemos usar outros métodos como o teste da razão ou o teste do radicando.
 
-## Intervalo De Convergência
+## Intervalo de Convergência
 
 O intervalo de convergência é a sequência de números $x$ para os quais a série converge. Ele é determinado pelo raio de convergência $R$ e pode ser expresso no formato:
 $$

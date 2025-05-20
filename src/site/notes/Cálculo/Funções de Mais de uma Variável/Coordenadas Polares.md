@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Coordenadas Polares/","dgPassFrontmatter":true,"created":"2025-04-25T09:00:48.528-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Coordenadas Polares/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.829-03:00"}
 ---
 
-## 1. Conversão De Coordenadas Polares Para Cartesianas
+
+## 1. Conversão de Coordenadas Polares para Cartesianas
 
 Se você tem um ponto $P$ em coordenadas polares representado por $(r, \theta)$, onde:
 
@@ -12,16 +13,19 @@ Se você tem um ponto $P$ em coordenadas polares representado por $(r, \theta)$,
 Então, para converter essas coordenadas polares em coordenadas cartesianas $(x, y)$, você pode usar as seguintes fórmulas:
 $$
 x = r \cos(\theta) 
-$$$$
+$$
+$$
 y = r \sin(\theta)
 $$
-## 2. Conversão De Coordenadas Cartesianas Para Polares
+## 2. Conversão de Coordenadas Cartesianas para Polares
 
 Se você tem um ponto $(x, y)$ em coordenadas cartesianas, as coordenadas polares $(r, \theta)$ podem ser encontradas usando:
 $$
 r = \sqrt{x^2 + y^2}
-$$$$
-\theta = \tan^{-1}\left(\frac{y}{x}\right) \quad \text{(atenção ao quadrante!)} 
+
+$
+$$$
+\theta = \tan^{-1}\left(\frac{y}{x}\right) \quad \text{(atenção ao quadrante!)}
 $$
 - O valor de $\theta$ precisa ser ajustado dependendo do quadrante onde o ponto está.
 - Em Python, por exemplo, você pode usar a função `atan2(y, x)` para já considerar corretamente o quadrante.

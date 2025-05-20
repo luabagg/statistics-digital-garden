@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Cálculo/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-03-24T10:49:32.647-03:00"}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Cálculo/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:39.089-03:00"}
 ---
-
 
 
 
@@ -17,4 +16,4 @@
 
 
 
-![[Cálculo.canvas]]
+![[Cálculo.canvas\|Cálculo.canvas]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Contínua/","dgPassFrontmatter":true,"created":"2025-03-20T11:27:57.950-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Contínua/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.855-03:00"}
 ---
 
 
@@ -13,7 +13,7 @@ F_X(x) = \int_{-\infty}^{x} f(t) dt, \quad \forall x \in \mathbb{R}
 $$
 Essa relação garante que a FDA pode ser obtida a partir da integral da densidade $f(x)$.  
 
-## Probabilidades Para Intervalos
+## Probabilidades para Intervalos
 
 Seja $X$ uma variável aleatória contínua com função de densidade $f_X(x)$. Para quaisquer $a, b \in \mathbb{R}$, com $a \leq b$, a probabilidade de $X$ assumir valores no intervalo $[a, b]$ é dada por:
 $$

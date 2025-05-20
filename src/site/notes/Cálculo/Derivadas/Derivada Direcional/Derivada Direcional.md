@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Derivadas/Derivada Direcional/Derivada Direcional/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-10T20:07:56.445-03:00"}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Derivadas/Derivada Direcional/Derivada Direcional/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.824-03:00"}
 ---
 
 
@@ -26,7 +26,7 @@ Geometricamente, a derivada direcional representa o declive da reta tangente à 
 $$
 \frac{\partial f}{\partial x}(1, 1) = 2 \cdot 1 = 2
 $$
-## Cálculo Da Derivada Direcional
+## Cálculo da Derivada Direcional
 
 Para calcular $D_{\mathbf{u}} f(\mathbf{a})$, pode-se usar a regra do produto vetorial:
 $$

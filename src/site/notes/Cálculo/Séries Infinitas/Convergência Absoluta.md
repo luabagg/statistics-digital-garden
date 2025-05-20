@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Convergência Absoluta/","dgPassFrontmatter":true,"created":"2025-04-16T05:23:16.137-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Convergência Absoluta/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.832-03:00"}
 ---
 
 
 Convergência absoluta é um conceito fundamental na teoria das séries numéricas, especialmente em análise matemática e cálculo avançado. Uma série numérica $\sum_{n=1}^{\infty} a_n$ converge absolutamente se a série formada pelos valores absolutos dos termos da série original, $\sum_{n=1}^{\infty} |a_n|$, convergir.
 
-## Exemplos De Convergência Absoluta
+## Exemplos de Convergência Absoluta
 
 1. **Série Geométrica:**
    A série geométrica $\sum_{n=0}^{\infty} \left(\frac{1}{2}\right)^n$ converge absolutamente, pois a série dos valores absolutos é $\sum_{n=0}^{\infty} \left|\left(\frac{1}{2}\right)^n\right| = \sum_{n=0}^{\infty} \left(\frac{1}{2}\right)^n$, que converge para 2.
@@ -28,7 +28,7 @@ Convergência absoluta é um conceito fundamental na teoria das séries numéric
    - Permite a troca de ordem de somatórios sem alterar o resultado.
    - Facilita a manipulação algébrica das séries, como adição, subtração e multiplicação.
 
-## Exemplos De Série Que Não Convergem Absolutamente
+## Exemplos de Série Que Não Convergem Absolutamente
 
 1. **Série Alternada:**
    A série $\sum_{n=1}^{\infty} (-1)^{n+1} \frac{1}{n}$ converge condicionalmente, mas não converge absolutamente, pois a série dos valores absolutos $\sum_{n=1}^{\infty} \left|\frac{(-1)^{n+1}}{n}\right| = \sum_{n=1}^{\infty} \frac{1}{n}$ (série harmônica) diverge.

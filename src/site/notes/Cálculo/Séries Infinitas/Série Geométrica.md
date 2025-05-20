@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série Geométrica/","dgPassFrontmatter":true,"created":"2025-04-16T05:00:12.670-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série Geométrica/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.834-03:00"}
 ---
 
 
@@ -9,7 +9,7 @@ $$
 $$
 Onde 'a' é o primeiro termo e 'r' é a razão da série. A convergência de uma série geométrica depende diretamente do valor absoluto da razão |r|.
 
-## Convergência De Séries Geométricas
+## Convergência de Séries Geométricas
 
 Uma série geométrica pode convergir ou divergir dependendo do valor da razão r:
 

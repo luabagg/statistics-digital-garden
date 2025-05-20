@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variância de uma Variável Aleatória/","dgPassFrontmatter":true,"created":"2025-04-01T09:55:32.475-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variância de uma Variável Aleatória/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.857-03:00"}
 ---
 
 
@@ -20,25 +20,25 @@ onde:
 
 A variância é sempre não negativa, e seu valor zero indica que todos os valores da variável são iguais à sua média. A unidade de medida da variância é o quadrado da unidade de medida dos dados originais.
 
-### Exemplo 1: Variância De Uma Variável Discreta
+### Exemplo 1: Variância de Uma Variável Discreta
 
 Considere a variável aleatória discreta $X$ com valores possíveis $\{x_1, x_2, \ldots, x_n\}$ e probabilidades correspondentes $\{p_1, p_2, \ldots, p_n\}$. A variância de $X$ é:
 $$
 \text{Var}(X) = \sum_{i=1}^{n} p_i (x_i - \mu)^2
 $$
-### Exemplo 2: Variância De Uma Variável Contínua
+### Exemplo 2: Variância de Uma Variável Contínua
 
 Para uma variável aleatória contínua $X$ com função densidade de probabilidade $f(x)$, a variância é:
 $$
 \text{Var}(X) = \int_{-\infty}^{\infty} (x - \mu)^2 f(x) \, dx
 $$
-## Relação Com O Desvio Padrão
+## Relação Com o Desvio Padrão
 
 O desvio padrão ($\sigma_X$) é a raiz quadrada da variância:
 $$
 \sigma_X = \sqrt{\text{Var}(X)}
 $$
-## Propriedades Da Variância
+## Propriedades da Variância
 
 1. **Propriedade Linear**: Se $a$ e $b$ sã constantes, então:
 $$

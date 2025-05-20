@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Regras da Cadeia/","dgPassFrontmatter":true,"created":"2025-05-05T08:41:45.697-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Regras da Cadeia/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.828-03:00"}
 ---
 
 

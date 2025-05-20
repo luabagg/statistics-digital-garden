@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Valores de Máximo e Mínimo/","dgPassFrontmatter":true,"created":"2025-05-14T08:19:18.781-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Valores de Máximo e Mínimo/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.830-03:00"}
 ---
 
-## Valores Máximos E Mínimos De Funções De Duas Variáveis
+
+## Valores Máximos e Mínimos de Funções de Duas Variáveis
 
 Para entender os valores extremos (máximos e mínimos) de uma função de duas variáveis, consideremos a função $f(x, y)$.
 
@@ -15,7 +16,7 @@ $$
 \dfrac{\partial f}{\partial y} = 0
 \end{cases}
 $$
-### Teste Da Segunda Derivada
+### Teste da Segunda Derivada
 
 Para determinar se um ponto crítico $(x_0, y_0)$ é um máximo, mínimo ou ponto de sela, usamos o teste da segunda derivada. Definimos a matriz Hessiana $H$ como:
 $$

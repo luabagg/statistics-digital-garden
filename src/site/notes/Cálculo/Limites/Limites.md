@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Limites/Limites/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.162-03:00"}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Limites/Limites/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.831-03:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 
 
-## Introdução Aos Limites no Cálculo
+## Introdução aos Limites no Cálculo
 
 Os **limites** são conceitos fundamentais na matemática, especialmente no cálculo. Eles desempenham um papel crucial na definição de derivadas e integrais, permitindo a análise do comportamento de funções em pontos próximos a certos valores.
 

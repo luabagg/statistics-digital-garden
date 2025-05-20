@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série de Taylor/","dgPassFrontmatter":true,"created":"2025-04-07T08:45:13.636-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série de Taylor/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.836-03:00"}
 ---
 
 
@@ -38,7 +38,7 @@ As séries de Taylor são amplamente utilizadas em cálculos numéricos, onde el
 
 A convergência das séries de Taylor depende do ponto $a$ escolhido e da função $f(x)$. Para muitas funções, a série converge para a função em um intervalo ao redor de $x = a$, conhecido como o intervalo de convergência.
 
-### Raio De Convergência
+### Raio de Convergência
 
 Para determinar o raio de convergência de uma série de Taylor, podemos usar o teste do raio de Cauchy (ou teste da razão). O raio de convergência $R$ é dado pela fórmula:
 $$
@@ -90,7 +90,7 @@ $$
 $$
 Portanto, o raio de convergência é $R = \infty$, o que significa que a série converge para toda $x$.
 
-## Desigualdade De Taylor
+## Desigualdade de Taylor
 
 A desigualdade de Taylor fornece um limite superior para o erro cometido ao aproximar uma função por sua série de Taylor. É uma ferramenta fundamental na análise de convergência e no estudo da precisão das aproximações polinomiais.
 
@@ -105,7 +105,7 @@ onde:
 - $P_n(x)$ é o polinômio de Taylor de grau $n$ de $f(x)$ em torno de $a$.
 - $M$ é uma constante tal que $| f^{(n+1)}(t) | \leq M$ para algum $t$ entre $a$ e $x$.
 
-### Aplicação Da Desigualdade
+### Aplicação da Desigualdade
 
 A desigualdade de Taylor é útil em várias situações, como:
 

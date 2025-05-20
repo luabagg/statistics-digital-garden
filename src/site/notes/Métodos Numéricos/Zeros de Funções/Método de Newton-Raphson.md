@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método de Newton-Raphson/","dgPassFrontmatter":true,"created":"2025-03-25T11:09:15.992-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método de Newton-Raphson/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.847-03:00"}
 ---
 
 
@@ -26,7 +26,7 @@ $$
 - **Convergência Local**: A convergência é rápida perto da raiz, mas pode ser lenta ou não ocorrer longe dela.
 - **Escolha Inicial**: A escolha inadequada do valor inicial pode levar à divergência.
 
-## Exemplo Em Python
+## Exemplo em Python
 
 ``` python
 from sympy import symbols, diff, lambdify

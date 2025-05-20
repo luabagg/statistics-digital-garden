@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Limites/Limites e Continuidade de Funções de 2 Variáveis/","dgPassFrontmatter":true,"created":"2025-04-23T08:06:53.099-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Limites/Limites e Continuidade de Funções de 2 Variáveis/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.830-03:00"}
 ---
 
 
-## Definição De Limite
+## Definição de Limite
 
 O limite de uma função $f(x, y)$ em um ponto $(a, b)$ é o valor que a função se aproxima quando as variáveis $x$ e $y$ se aproximam do ponto $(a, b)$. Matematicamente, dizemos que:
 $$
@@ -13,7 +13,7 @@ se para todo $\epsilon > 0$, existe um $\delta > 0$ tal que:
 $$
 0 < \sqrt{(x-a)^2 + (y-b)^2} < \delta \implies |f(x, y) - L| < \epsilon
 $$
-## Cálculo De Limites
+## Cálculo de Limites
 
 Para calcular limites de funções bidimensionais, é comum usar a substituição direta ou métodos como o uso de caminhos. Por exemplo:
 
@@ -40,9 +40,9 @@ $$
 $$
 Como os limites são diferentes para caminhos distintos, concluímos que o limite não existe.
 
-## Continuidade De Funções De Duas Variáveis
+## Continuidade de Funções de Duas Variáveis
 
-### Definição De Continuidade
+### Definição de Continuidade
 
 ma função $f(x, y)$ é contínua em um ponto $(a, b)$ se:
 $$
@@ -50,7 +50,7 @@ $$
 $$
 Isso significa que a função tem um valor definido no ponto e que esse valor é igual ao limite da função quando as variáveis $x$ e $y$ se aproximam do ponto $(a, b)$.
 
-### Exemplos De Funções Contínuas E Não-contínuas
+### Exemplos de Funções Contínuas e Não-contínuas
 
 1. **Função Contínua**:
    - Considere a função $f(x, y) = x^2 + y^2$.
@@ -83,7 +83,7 @@ $$
      - Como os limites são diferentes para caminhos distintos, concluímos que o limite não existe em $(0, 0)$.
      - Portanto, a função $f(x, y)$ é **não-continua** no ponto $(0, 0)$.
 
-### Continuidade De Funções Racionais Em Duas Variáveis
+### Continuidade de Funções Racionais em Duas Variáveis
 
 Funções racionais bidimensionais são formadas pela divisão de polinômios em duas variáveis. Elas são contínuas em todo ponto do plano cartesiano onde o denominador não é zero.
 

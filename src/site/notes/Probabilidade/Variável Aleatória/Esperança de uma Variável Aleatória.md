@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória/","dgPassFrontmatter":true,"created":"2025-03-27T11:21:13.320-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.853-03:00"}
 ---
 
 
@@ -16,14 +16,18 @@ $$
 A esperança $E(X)$ pode ser calculada como:
 $$
 E(X) = 0 \cdot P(X=0) + 1 \cdot P(X=1) + 2 \cdot P(X=2)
-$$$$
+$$
+$$
 E(X) = 0 \cdot \frac{1}{4} + 1 \cdot \frac{1}{2} + 2 \cdot \frac{1}{4}
-$$$$
+
+$
+$$
+$$
 E(X) = 0 + \frac{1}{2} + \frac{1}{2} = 1
 $$
 Portanto, a esperança da v.a. $X$ neste exemplo é 1.
 
-## Esperança De Funções De Variáveis Aleatórias Discretas
+## Esperança de Funções de Variáveis Aleatórias Discretas
 
 Agora que entendemos como calcular a esperança de uma variável aleatória discreta, vamos explorar como calcular a esperança de uma função dessa variável. Seja $g(X)$ uma função qualquer definida em $\mathrm{Im}(X)$. A esperança da função $g(X)$ é dada por:
 $$
@@ -45,6 +49,7 @@ Substituindo os valores, temos:
 $$
 E(X^2) = 0^2 \cdot \frac{1}{4} + 1^2 \cdot \frac{1}{2} + 2^2 \cdot \frac{1}{4}
 $$$$
+
 E(X^2) = 0 + \frac{1}{2} + \frac{4}{4} = \frac{1}{2} + 1 = \frac{3}{2}
 $$
 Portanto, a esperança da função quadrática $g(X) = X^2$ neste exemplo é $\frac{3}{2}$.
@@ -67,7 +72,7 @@ $$
 
 Estas propriedades são úteis para simplificar cálculos e entender melhor as relações entre diferentes funções de variáveis aleatórias.
 
-## Esperança De Variáveis Aleatórias Contínuas
+## Esperança de Variáveis Aleatórias Contínuas
 
 Agora que você já tem uma boa compreensão da esperança para variáveis aleatórias discretas, vamos explorar como calcular a esperança para variáveis aleatórias contínuas. As ideias são semelhantes, mas agora envolvem integrais em vez de somas.
 
@@ -107,7 +112,7 @@ E(X) = \left[ \frac{x^2}{2} \right]_0^1 = \frac{1^2}{2} - \frac{0^2}{2} = \frac{
 $$
 Portanto, a esperança da variável aleatória $X$ é $\frac{1}{2}$.
 
-## Esperança De Funções De Variáveis Aleatórias Contínuas
+## Esperança de Funções de Variáveis Aleatórias Contínuas
 
 Agora vamos calcular a esperança de uma função $g(X)$ de uma variável aleatória contínua $X$. Se $g(X)$ for uma função qualquer, a esperança é dada por:
 $$
@@ -165,7 +170,7 @@ Essas propriedades permitem calcular a variância de uma variável aleatória co
 
 ### Resumo
 
-- **Discreta**: 
+- **Discreta**:
 $$
   E(X) = \sum_{x} x f_X(x)
 $$
@@ -179,4 +184,3 @@ $$
 $$
   E(g(X)) = \int_{-\infty}^{\infty} g(x) f_X(x) \, dx
 $$
-Qualquer dúvida ad

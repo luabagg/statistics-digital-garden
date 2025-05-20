@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Distribuição Geométrica/","dgPassFrontmatter":true,"created":"2025-04-22T09:29:26.541-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Distribuição Geométrica/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.849-03:00"}
 ---
 
 
@@ -28,7 +28,7 @@ $$
 $$
   P(X = 2) = (1 - 0.5)^{2-1} \cdot 0.5 = 0.5^2 \cdot 0.5 = 0.25
 $$
-## Parâmetros E Propriedades
+## Parâmetros e Propriedades
 
 A distribuição geométrica é completamente determinada pelo único parâmetro $p$, que representa a probabilidade de sucesso em cada ensaio.
 
@@ -47,7 +47,7 @@ A distribuição geométrica tem diversas aplicações em problemas reais, como:
 - **Probabilidade de obter o primeiro sucesso em experimentos repetidos:** Por exemplo, a probabilidade de um jogador de basquete marcar seu primeiro arremesso no jogo.
 - **Tempo até a ocorrência do primeiro evento específico:** Como o tempo até que um cliente entre em uma loja após o início da operação.
 
-## Cálculo Da Esperança a Partir Da Função Geradora De Momentos
+## Cálculo da Esperança a Partir da Função Geradora de Momentos
 
 A **função geradora de momentos (FGM)** de uma variável aleatória discreta $X$ é definida como:
 $$

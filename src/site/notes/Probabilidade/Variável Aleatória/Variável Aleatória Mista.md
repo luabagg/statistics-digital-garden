@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Mista/","dgPassFrontmatter":true,"created":"2025-03-25T08:50:47.084-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Mista/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.856-03:00"}
 ---
 
 
@@ -52,16 +52,19 @@ $$
 
    Aqui:
 
-   - $$
-Y_d = \begin{cases} 
+   -
+$$
+Y_d = \begin{cases}
+
       5 & \text{com probabilidade } \frac{1}{4}, \\
+
       \infty & \text{com probabilidade } \frac{3}{4}.
 
    \end{cases}
 $$
    - $Y_c$ segue uma distribuição normal com média 6 e desvio padrão 0.5.
 
-## Integração De Uma Variável Aleatória Mista
+## Integração de Uma Variável Aleatória Mista
 
 Para calcular a esperança (ou valor esperado) de uma variável aleatória mista, podemos usar a fórmula:
 $$
@@ -73,7 +76,7 @@ onde:
 - $P(X = x_d)$ é a probabilidade de $X$ assumir o valor $x_d$.
 - $X_c$ é a variável aleatória contínua com função densidade de probabilidade (f.d.p.) $f_X(x_c)$.
 
-### Exemplo 1: Variável Aleatória Com Componente Discreta E Contínua
+### Exemplo 1: Variável Aleatória Com Componente Discreta e Contínua
 
 Considere uma variável aleatória $X$ que representa o tempo de espera em um sistema, onde:
 
@@ -112,7 +115,7 @@ Portanto,
 $$
 E[X] = 5 \cdot \frac{1}{3} + 10 \cdot \frac{2}{3} = \frac{5}{3} + \frac{20}{3} = \frac{25}{3} \approx 8.33.
 $$
-### Exemplo 2: Combinação De Distribuições
+### Exemplo 2: Combinação de Distribuições
 
 Considere a variável aleatória $Y$ que representa o tamanho de um determinado tipo de grão em um campo agrícola, onde:
 
@@ -120,8 +123,7 @@ Considere a variável aleatória $Y$ que representa o tamanho de um determinado 
 - Com probabilidade $\frac{3}{4}$, os tamanhos seguem uma distribuição normal com média 6mm e desvio padrão 0.5mm.
 
 Neste caso:
-
-- $$
+$$
 Y_d = \begin{cases}
    5 & \text{com probabilidade } \frac{1}{4}, \\
    \infty & \text{com probabilidade } \frac{3}{4}.

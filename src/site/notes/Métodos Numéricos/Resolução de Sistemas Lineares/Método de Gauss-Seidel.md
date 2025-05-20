@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Seidel/","dgPassFrontmatter":true,"created":"2025-04-29T10:39:56.919-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Seidel/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.844-03:00"}
 ---
 
 
 O método iterativo de Gauss-Seidel é uma técnica utilizada para resolver sistemas lineares de equações do tipo $Ax = b$, onde $A$ é uma matriz quadrada, $x$ e $b$ são vetores. Este método é especialmente útil quando a matriz $A$ é grande e esparsa.
 
-## Formulando O Método
+## Formulando o Método
 
 Considere um sistema linear $Ax = b$. A matriz $A$ pode ser decomposta em sua forma triangular superior $U$ e inferior $L$, onde $A = L + D + U^T$, com $D$ sendo a diagonal de $A$. O método Gauss-Seidel é baseado na seguinte iteração:
 $$
@@ -49,7 +49,7 @@ L = \begin{pmatrix}
 $$
 A iteração inicial pode ser $x^{(0)} = (0, 0, 0)^T$. A iteração Gauss-Seidel é então realizada até convergência.
 
-## Convergência E Aplicações
+## Convergência e Aplicações
 
 O método de Gauss-Seidel converge para a solução do sistema linear se a matriz $A$ satisfizer certas condições, como ser simétrica positiva definida ou ter uma norma spectral menor que 1. Este método é amplamente utilizado em aplicações práticas, como na resolução de problemas de equilíbrio de redes elétricas e na solução de sistemas de equações diferenciais parciais.
 

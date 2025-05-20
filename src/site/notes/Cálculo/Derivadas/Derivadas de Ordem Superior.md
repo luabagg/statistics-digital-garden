@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivadas de Ordem Superior/","dgPassFrontmatter":true,"created":"2025-04-28T09:04:33.228-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivadas de Ordem Superior/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.826-03:00"}
 ---
 
 

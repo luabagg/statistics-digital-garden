@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Raíz/","dgPassFrontmatter":true,"created":"2025-04-15T21:06:09.580-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Raíz/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.838-03:00"}
 ---
 
 
 O **Teste da Raiz** é um método utilizado para determinar a convergência de séries infinitas, especialmente aquelas com termos do tipo $a_n = n^k$ ou $a_n = \frac{1}{n^k}$, onde $k$ é uma constante. Este teste é particularmente útil quando os termos da série envolvem potências de $n$.
 
-## Formulando O Teste
+## Formulando o Teste
 
 O **Teste da Raiz** é aplicado à série $\sum_{n=1}^\infty a_n$, onde cada termo $a_n$ pode ser expresso como uma função de $n$. A ideia principal é calcular o limite superior do enésimo raiz dos termos da série:
 $$
@@ -13,7 +13,7 @@ L = \limsup_{n\to\infty} \sqrt[n]{|a_n|}
 $$
 Se $L < 1$, a série converge absolutamente. Se $L > 1$, a série diverge. Se $L = 1$, o teste é inconclusivo.
 
-## Exemplos De Aplicação
+## Exemplos de Aplicação
 
 **Exemplo 1: Série Geométrica**
 

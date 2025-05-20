@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU/","dgPassFrontmatter":true,"created":"2025-05-16T13:48:01.908-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.842-03:00"}
 ---
 
 
@@ -16,7 +16,7 @@ onde:
 
 ---
 
-### Passo a Passo Da Fatoração Lu (sem pivoteamento)
+### Passo a Passo da Fatoração Lu (sem pivoteamento)
 
 Seja $A$ uma matriz quadrada de ordem $n$.
 
@@ -25,7 +25,7 @@ Seja $A$ uma matriz quadrada de ordem $n$.
 - Crie uma matriz identidade $L$ de ordem $n$.
 - Faça uma cópia da matriz $A$ e chame-a de $U$.
 
-#### **2. Eliminação De Gauss Para Formar $U$ E Preencher $L$**
+#### **2. Eliminação de Gauss para Formar $U$ e Preencher $L$**
 
 Para cada linha $i = 0$ até $n - 1$:
 
@@ -34,11 +34,11 @@ Para cada linha $i = 0$ até $n - 1$:
 $$
 m = \frac{U[j, i]}{U[i, i]}
 $$
-  1. Subtraia $m$ vezes a linha $i$ da linha $j$ em $U$:
+  2. Subtraia $m$ vezes a linha $i$ da linha $j$ em $U$:
 $$
 U[j] \leftarrow U[j] - m \cdot U[i]
 $$
-  1. Atribua esse multiplicador à posição $L[j, i]$:
+  3. Atribua esse multiplicador à posição $L[j, i]$:
 $$
 L[j, i] = m
 $$
@@ -84,13 +84,18 @@ L = \begin{pmatrix}
 3 & 9 & 1
 \end{pmatrix}
 $$$$
+
 U = \begin{pmatrix}
+
 2 & 3 & 1 \\
+
 0 & 1 & 5 \\
+
 0 & 0 & 2
+
 \end{pmatrix}
 $$
-## Pivoteamento Parcial Na Fatoração Lu
+## Pivoteamento Parcial na Fatoração Lu
 
 O **pivoteamento parcial** é uma técnica utilizada na fatoração LU para **evitar divisões por zero** e **minimizar erros numéricos** causados por pivôs pequenos. Ele consiste em **trocar linhas da matriz** $A$ (e consequentemente de $L$ e $b$, se estiver resolvendo $Ax = b$) de modo que o maior valor absoluto na coluna corrente seja usado como pivô.
 
@@ -104,7 +109,7 @@ Dado $A \in \mathbb{R}^{n \times n}$, o algoritmo com pivoteamento parcial segue
 
 - Crie $L = I_n$ (matriz identidade), $U = A.copy()$, e $P = I_n$ (matriz de permutação).
 
-#### **2. Para Cada Coluna $i$ De $0$ Até $n-1$:**
+#### **2. Para Cada Coluna $i$ de $0$ Até $n-1$:**
 
 1. **Escolha do Pivô:**
 
@@ -134,7 +139,7 @@ $$
 
 ---
 
-### Forma Final Da Decomposição Com Pivoteamento
+### Forma Final da Decomposição Com Pivoteamento
 
 A fatoração LU com pivoteamento parcial produz:
 $$
@@ -146,7 +151,7 @@ $$
 
 ---
 
-### Exemplo Em Python Com Pivoteamento
+### Exemplo em Python Com Pivoteamento
 
 ```python
 import numpy as np
@@ -170,15 +175,15 @@ def lu_decomposition_pivot(A):
     P = np.eye(n)
 
     for i in range(n):
-# Find the Index of the Row with the Largest Absolute Value in Column I
+# Find The Index Of The Row With The Largest Absolute Value In Column I
         pivot = np.argmax(np.abs(U[i:, i])) + i
         if U[pivot, i] == 0:
             raise ValueError("Singular matrix.")
-# Swap Rows in U
+# Swap Rows In U
         U[[i, pivot]] = U[[pivot, i]]
-# Swap Rows in P
+# Swap Rows In P
         P[[i, pivot]] = P[[pivot, i]]
-# Swap Rows in L (only for Previously Computed columns)
+# Swap Rows In L (only For Previously Computed columns)
         if i > 0:
             L[[i, pivot], :i] = L[[pivot, i], :i]
 # Elimination Process
@@ -201,10 +206,10 @@ def solve_with_lu(P, L, U, b):
         'solution'   : Solution vector (numpy.ndarray)
         'residual'   : Final residual norm (float)
     """
-# Step 1: Apply the Permutation to B
+# Step 1: Apply The Permutation To B
     Pb = np.dot(P, b)
 
-# Step 2: Forward Substitution to Solve Ly = Pb
+# Step 2: Forward Substitution To Solve Ly = Pb
     n = L.shape[0]
     y = np.zeros(n)
     for i in range(n):
@@ -212,7 +217,7 @@ def solve_with_lu(P, L, U, b):
         for j in range(i):
             y[i] -= L[i, j] * y[j]
 
-# Step 3: Back Substitution to Solve Ux = Y
+# Step 3: Back Substitution To Solve Ux = Y
     x = np.zeros(n)
     for i in range(n-1, -1, -1):
         x[i] = y[i]
@@ -238,7 +243,7 @@ if __name__ == "__main__":
     print("\nL·U =\n", np.dot(L, U))
 # Define a Right-hand Side Vector B
     b = np.array([2, 4, 3], dtype=float)
-# Solve the System Ax = B
+# Solve The System Ax = B
     result = solve_with_lu(P, L, U, b)
     print("\nSolution x =\n", result['solution'])
     print("\nFinal residual norm =", result['residual'])

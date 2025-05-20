@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-03-22T17:02:11.168-03:00"}
+{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.856-03:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 
 
 
-## Introdução Às Variáveis Aleatórias
+## Introdução às Variáveis Aleatórias
 
 As variáveis aleatórias são fundamentais na teoria da probabilidade e estatística, servindo como a ponte entre o mundo dos números determinísticos e o dos eventos incertos. Elas permitem modelar situações onde os resultados não são conhecidos com certeza antes de ocorrerem.
 
@@ -31,7 +31,7 @@ Uma variável aleatória é uma função que associa um valor numérico a cada r
 2. **Tempo de Chegada**: Considere um sistema onde os clientes chegam a uma loja com tempos variáveis. Se $T$ for a variável aleatória que representa o tempo de chegada do próximo cliente, então $T(\omega)$ pode assumir qualquer valor numérico positivo dependendo da situação.
 3. **Temperatura**: Suponha que estamos interessados na temperatura diária em um determinado local. Se $Y$ for a variável aleatória que representa a temperatura no dia $\omega$, então $Y(\omega)$ pode assumir qualquer valor numérico dentro de uma faixa específica, dependendo das condições climáticas.
 
-### Tipos De Variáveis Aleatórias
+### Tipos de Variáveis Aleatórias
 
 - **Discretas**: Têm um número contável de valores possíveis. Por exemplo, o número de carros vendidos em um dia.
 $$
@@ -51,7 +51,7 @@ $$
 $$
 Y(\omega) = \text{altura da pessoa em metros}
 $$
-### Função De Distribuição Acumulada (FDA)
+### Função de Distribuição Acumulada (FDA)
 
 A função de distribuição acumulada $F_X(x)$ de uma variável aleatória discreta $X$ é definida como:
 $$
@@ -63,7 +63,7 @@ F_Y(y) = P(Y \leq y)
 $$
 Essa função descreve a probabilidade de que o valor da variável aleatória seja menor ou igual a um certo ponto.
 
-### Esperança E Variância
+### Esperança e Variância
 
 - **Esperança**: É a média esperada dos valores que uma variável aleatória pode assumir. Para uma variável discreta $X$, é dada por:
 $$

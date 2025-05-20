@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Razão/","dgPassFrontmatter":true,"created":"2025-04-07T08:58:50.653-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Razão/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.838-03:00"}
 ---
 
 
@@ -15,7 +15,7 @@ $$
 - Se $L > 1$, a série diverge.
 - Se $L = 1$, o critério não fornece informações sobre a convergência.
 
-## Exemplos De Aplicação
+## Exemplos de Aplicação
 
 ### Exemplo 1: Série Geométrica
 
@@ -30,7 +30,7 @@ L = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| = \frac{1}{2}
 $$
 Como $L < 1$, a série converge absolutamente.
 
-### Exemplo 2: Série De Fatorial
+### Exemplo 2: Série de Fatorial
 
 Considere a série $\sum_{n=1}^{\infty} \frac{n!}{(2n)!}$.
 
@@ -45,7 +45,7 @@ L = \lim_{n \to \infty} \left| \frac{a_{n+1}}{a_n} \right| = \lim_{n \to \infty}
 $$
 Como $L < 1$, a série converge absolutamente.
 
-### Exemplo 3: Série De Potências
+### Exemplo 3: Série de Potências
 
 Considere a série $\sum_{n=1}^{\infty} \left(\frac{x^n}{n}\right)$, onde $x$ é um número real.
 

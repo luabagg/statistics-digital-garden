@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-show-local-graph":true,"permalink":"/README/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-03-18T22:05:14.121-03:00"}
+{"dg-publish":true,"dg-home":true,"dg-show-local-graph":true,"permalink":"/README/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.857-03:00"}
 ---
 
 
@@ -23,9 +23,9 @@ $
 
 For more info check [[Exemplos Latex (MathJax)\|Exemplos Latex (MathJax)]]
 
-## Want to Contribute?
+## Want To Contribute?
 
-### Fork the Repository
+### Fork The Repository
 
 1. Go to the [GitHub](https://github.com/luabagg/obsidian-statistics-vault) repository.  
 2. Click **"Fork"** in the top-right corner.  

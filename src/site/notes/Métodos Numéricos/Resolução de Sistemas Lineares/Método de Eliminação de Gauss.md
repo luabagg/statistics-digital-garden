@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Eliminação de Gauss/","dgPassFrontmatter":true,"created":"2025-05-12T18:56:11.071-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Eliminação de Gauss/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.842-03:00"}
 ---
 
 
@@ -24,7 +24,7 @@ O Método de Eliminação de Gauss é uma técnica fundamental utilizada para re
    - Após obter a forma triangular superior, o sistema pode ser resolvido facilmente através da substituição retroativa.
    - Começa pela última equação e resolve para a última variável, depois usa esse valor na penúltima equação, e assim por diante.
 
-### Exemplo De Aplicação Do Método De Eliminação De Gauss
+### Exemplo de Aplicação Do Método de Eliminação de Gauss
 
 Considere o seguinte sistema linear de equações:
 $$
@@ -118,7 +118,7 @@ $$
 $$
 x = \frac{19}{8}, \quad y = -2, \quad z = -\frac{9}{4}
 $$
-## Código Em Python
+## Código em Python
 
 ```python
 def print_matrix(a, b):
@@ -150,19 +150,19 @@ def gauss_elimination_verbose(a, b):
 
 # Forward Elimination
     for i in range(n):
-# Partial Pivoting: Find the Row with the Largest Value in Column I
+# Partial Pivoting: Find The Row With The Largest Value In Column I
         max_row = i + max(range(n - i), key=lambda k: abs(a[i + k][i]))
         if abs(a[max_row][i]) < 1e-12:
             raise ValueError("Matrix is singular or nearly singular")
 
-# Swap Rows if Needed
+# Swap Rows If Needed
         if max_row != i:
             a[i], a[max_row] = a[max_row], a[i]
             b[i], b[max_row] = b[max_row], b[i]
             print(f"Swapped row {i} with row {max_row}")
             print_matrix(a, b)
 
-# Eliminate Entries below the Pivot
+# Eliminate Entries Below The Pivot
         for j in range(i + 1, n):
             factor = a[j][i] / a[i][i]
             for k in range(i, n):

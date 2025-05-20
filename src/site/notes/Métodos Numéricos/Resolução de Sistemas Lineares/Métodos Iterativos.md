@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Métodos Iterativos/","dgPassFrontmatter":true,"created":"2025-04-11T11:26:07.567-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Métodos Iterativos/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.844-03:00"}
 ---
 
 
@@ -24,7 +24,7 @@ Neste formato, $x^{(k)}$ representa a solução aproximada no $k$-ésimo passo d
 5. **Método de Precondicionamento**:
    O precondicionamento envolve a introdução de uma matriz $M$ para acelerar a convergência. No formato $x^{(k+1)} = Cx^{(k)} + g$, a matriz $C$ é formada pela inversa da matriz de pré-condicionamento $M^{-1}$.
 
-## Convergência E Estabilidade
+## Convergência e Estabilidade
 
 A convergência dos métodos iterativos depende das seguintes condições:
 
@@ -42,6 +42,7 @@ O Método de Gauss-Seidel pode ser expresso como:
 $$
  x^{(k+1)}_1 = \frac{1}{4}(2 + x^{(k)}_2) 
 $$$$
+
  x^{(k+1)}_2 = \frac{1}{3}(5 + x^{(k)}_1)
 $$
 Em forma matricial, isso pode ser escrito como:
@@ -52,7 +53,7 @@ onde
 $$
  C = \begin{pmatrix} 0 & \frac{1}{4} \\ \frac{1}{3} & 0 \end{pmatrix}, \quad g = \begin{pmatrix} \frac{1}{2} \\ \frac{5}{3} \end{pmatrix}
 $$
-### Exemplos De Métodos Iterativos
+### Exemplos de Métodos Iterativos
 
 1. **Método da Relaxação Sazonal (SOR - Successive Over-Relaxation)**:
    O SOR é uma extensão do método de Gauss-Seidel, onde um fator de relaxação $\omega$ é introduzido para acelerar a convergência. A fórmula geral é dada por:
