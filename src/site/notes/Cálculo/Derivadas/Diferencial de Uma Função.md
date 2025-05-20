@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferencial de Uma Função/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.827-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Diferencial de Uma Função/","created":"2025-05-20T13:30:13.827-03:00"}
 ---
 
 

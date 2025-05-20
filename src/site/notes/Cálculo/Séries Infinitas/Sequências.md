@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Sequências/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.832-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Sequências/","created":"2025-05-20T13:30:13.832-03:00"}
 ---
 
 

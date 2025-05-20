@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Contínua/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.855-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Contínua/","created":"2025-05-20T13:30:13.855-03:00"}
 ---
 
 

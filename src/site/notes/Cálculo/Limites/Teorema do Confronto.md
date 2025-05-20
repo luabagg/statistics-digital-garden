@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Limites/Teorema do Confronto/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.831-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Limites/Teorema do Confronto/","created":"2025-05-20T13:30:13.831-03:00"}
 ---
 
 

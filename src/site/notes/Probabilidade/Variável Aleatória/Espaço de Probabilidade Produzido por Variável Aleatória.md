@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Espaço de Probabilidade Produzido por Variável Aleatória/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.853-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Espaço de Probabilidade Produzido por Variável Aleatória/","created":"2025-05-20T13:30:13.853-03:00"}
 ---
 
 

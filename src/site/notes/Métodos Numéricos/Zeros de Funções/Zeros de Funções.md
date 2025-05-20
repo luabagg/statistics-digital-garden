@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Zeros de Funções/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.848-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Zeros de Funções/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.848-03:00"}
 ---
 
 

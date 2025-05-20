@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Cálculo/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:39.089-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Cálculo/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:39.089-03:00"}
 ---
 
 

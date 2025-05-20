@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método da Bisseção/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.846-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Zeros de Funções/Método da Bisseção/","created":"2025-05-20T13:30:13.846-03:00"}
 ---
 
 

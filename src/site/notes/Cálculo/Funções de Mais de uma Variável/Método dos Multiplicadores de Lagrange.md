@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Método dos Multiplicadores de Lagrange/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.829-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Método dos Multiplicadores de Lagrange/","created":"2025-05-20T13:30:13.829-03:00"}
 ---
 
 

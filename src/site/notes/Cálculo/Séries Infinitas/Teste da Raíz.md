@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Raíz/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.838-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Teste da Raíz/","created":"2025-05-20T13:30:13.838-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série de Maclaurin/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.835-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série de Maclaurin/","created":"2025-05-20T13:30:13.835-03:00"}
 ---
 
 

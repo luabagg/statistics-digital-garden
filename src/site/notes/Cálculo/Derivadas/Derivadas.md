@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":true,"permalink":"/Cálculo/Derivadas/Derivadas/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.826-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivadas/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.826-03:00"}
 ---
 
 

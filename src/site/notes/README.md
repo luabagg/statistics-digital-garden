@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-show-local-graph":true,"permalink":"/README/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.857-03:00"}
+{"dg-publish":true,"permalink":"/README/","tags":["gardenEntry"],"dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.857-03:00"}
 ---
 
 
 ## Intro
 
 📊 This Obsidian vault stores statistics studies (in portuguese - Brazil). It includes key concepts, formulas, practical examples, and insights. The notes are structured and interconnected to make learning and review easier.
+
+## Table Of Contents
+
+- [[Cálculo/Cálculo\|Cálculo]]
+- [[Métodos Numéricos/Métodos Numéricos\|Métodos Numéricos]]
+- [[Probabilidade/Probabilidade\|Probabilidade]]
 
 ## Utils
 

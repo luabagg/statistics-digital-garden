@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-show-local-graph":null,"permalink":"/Cálculo/Integrais/Integrais/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.830-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Integrais/Integrais/","created":"2025-05-20T13:30:13.830-03:00"}
 ---
 
 

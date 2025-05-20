@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Sigma-Álgebra/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.852-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Sigma-Álgebra/","created":"2025-05-20T13:30:13.852-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Mista/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.856-03:00"}
+{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Variável Aleatória Mista/","created":"2025-05-20T13:30:13.856-03:00"}
 ---
 
 

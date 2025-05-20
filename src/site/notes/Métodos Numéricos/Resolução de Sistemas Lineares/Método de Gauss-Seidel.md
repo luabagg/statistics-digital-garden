@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Seidel/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.844-03:00"}
+{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Seidel/","created":"2025-05-20T13:30:13.844-03:00"}
 ---
 
 

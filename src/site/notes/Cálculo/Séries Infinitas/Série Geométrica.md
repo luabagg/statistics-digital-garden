@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série Geométrica/","dgPassFrontmatter":true,"created":"2025-05-20T13:30:13.834-03:00"}
+{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Série Geométrica/","created":"2025-05-20T13:30:13.834-03:00"}
 ---
 
 
