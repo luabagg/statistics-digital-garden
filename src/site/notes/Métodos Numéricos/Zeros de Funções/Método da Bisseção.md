@@ -90,27 +90,35 @@ O método da bisseção, apesar de ser um método robusto e garantido para encon
 ### Erro Absoluto e Erro Relativo
 
 O erro absoluto em uma iteração do método pode ser estimado pelo tamanho do intervalo:  
+
 $$
 E_n = \frac{b_n - a_n}{2}
 $$
+
 onde $E_n$ representa o erro na $n$-ésima iteração. Como o método reduz o intervalo pela metade a cada passo, o erro diminui exponencialmente, sendo aproximadamente:  
+
 $$
 E_n = \frac{b - a}{2^n}
 $$
+
 onde $(b - a)$ é o tamanho inicial do intervalo.  
 
 O erro relativo é dado por:  
+
 $$
 E_{rel} = \frac{|x_n - x_{n-1}|}{|x_n|}
 $$
+
 onde $x_n$ é a estimativa da raiz na $n$-ésima iteração.  
 
 ### Critério de Parada e Precisão
 
 O método da bisseção é finalizado quando o erro absoluto $E_n$é menor que uma tolerância $\varepsilon$, isto é:  
+
 $$
 \frac{b_n - a_n}{2} < \varepsilon
 $$
+
 Se a tolerância for muito pequena, o número de iterações pode ser alto, aumentando o tempo de computação.  
 
 ### Erro de Arredondamento

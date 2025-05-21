@@ -4,9 +4,11 @@
 
 
 Série harmônica é um conceito matemático importante, frequentemente utilizado em física e engenharia. É a série infinita definida pela soma dos inversos das sequências de números naturais:
+
 $$
 \sum_{n=1}^{\infty} \frac{1}{n} = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots
 $$
+
 Esta série é divergente, o que significa que a soma total não converge para um valor finito. No entanto, seu comportamento pode ser analisado de várias maneiras:
 
 - **Crescimento lento**: A soma parcial da série harmônica cresce muito lentamente. Por exemplo, a soma dos primeiros 100 milhões de termos é apenas cerca de 23.
@@ -19,7 +21,9 @@ $$
 $$
 H_n = \sum_{k=1}^{n} \frac{1}{k}
 $$
+
   Para $n = 5$, temos:
+
 $$
 H_5 = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} = \frac{137}{60}
 $$

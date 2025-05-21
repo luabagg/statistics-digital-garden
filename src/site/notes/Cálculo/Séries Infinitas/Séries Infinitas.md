@@ -4,6 +4,7 @@
 
 
 
+
 - **[[Cálculo/Séries Infinitas/Séries Infinitas\|Séries Infinitas]]**
 	- [[Cálculo/Séries Infinitas/Convergência Absoluta\|Convergência Absoluta]]
 	- [[Cálculo/Séries Infinitas/Estimativa Para a Soma de uma Série\|Estimativa Para a Soma de uma Série]]
@@ -30,9 +31,11 @@ As séries são uma parte fundamental do cálculo que nos permitem estudar somas
 ## O Que São Séries?
 
 Uma série é a soma de uma sequência infinita de números. Matematicamente, é representada como:
+
 $$
  \sum_{n=1}^{\infty} a_n = a_1 + a_2 + a_3 + … 
 $$
+
 ## Tipos Principais de Séries
 
 - **Séries Geométricas:** São séries onde cada termo é multiplicado por uma razão constante

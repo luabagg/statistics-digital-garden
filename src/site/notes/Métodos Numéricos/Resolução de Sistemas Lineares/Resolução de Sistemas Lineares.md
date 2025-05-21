@@ -28,10 +28,13 @@ $$
 $$
 f(cx) = cf(x).
 $$
+
 A combinação dessas duas propriedades resulta na forma geral de uma função linear, que pode ser expressa como:
+
 $$
 f(x) = ax + b,
 $$
+
 onde $a$ e $b$ são constantes. Aqui, $b$ é o intercepto y (o valor da função quando $x=0$), enquanto $a$ é a inclinação da reta.
 
 ### Exemplos de Funções Lineares

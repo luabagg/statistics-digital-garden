@@ -51,16 +51,21 @@ $$
 $$
 Y(\omega) = \text{altura da pessoa em metros}
 $$
+
 ### Função de Distribuição Acumulada (FDA)
 
 A função de distribuição acumulada $F_X(x)$ de uma variável aleatória discreta $X$ é definida como:
+
 $$
 F_X(x) = P(X \leq x)
 $$
+
 Para a variável aleatória contínua $Y$, a FDA é dada por:
+
 $$
 F_Y(y) = P(Y \leq y)
 $$
+
 Essa função descreve a probabilidade de que o valor da variável aleatória seja menor ou igual a um certo ponto.
 
 ### Esperança e Variância
@@ -69,7 +74,9 @@ Essa função descreve a probabilidade de que o valor da variável aleatória se
 $$
 E[X] = \sum_{x} x \cdot P(X = x)
 $$
+
   Para uma variável contínua $Y$, é dada por:
+
 $$
 E[Y] = \int_{-\infty}^{\infty} y \cdot f_Y(y) \, dy
 $$
@@ -77,8 +84,11 @@ $$
 $$
 \text{Var}(X) = E[(X - E[X])^2] = \sum_{x} (x - E[X])^2 \cdot P(X = x)
 $$
+
   Para uma variável contínua $Y$, a variância é:
+
 $$
 \text{Var}(Y) = E[(Y - E[Y])^2] = \int_{-\infty}^{\infty} (y - E[Y])^2 \cdot f_Y(y) \, dy
 $$
+
 Essas medidas são essenciais para entender e quantificar a tendência central e a dispersão dos dados associados às variáveis aleatórias.

@@ -26,6 +26,7 @@ Um **limite** é a ideia de que uma função pode se aproximar arbitrariamente p
 $$
 \lim_{x \to 3} x^2 = 9
 $$
+
    Isto é, conforme $x$ se aproxima de 3, o valor de $f(x) = x^2$ se aproxima de 9.
 
 2. **Exemplo 2:**
@@ -33,6 +34,7 @@ $$
 $$
 \lim_{x \to 1} \frac{x^2 - 1}{x - 1} = \lim_{x \to 1} (x + 1) = 2
 $$
+
    Embora $g(1)$ não esteja definida, o limite existe e é igual a 2.
 
 ### Aplicações

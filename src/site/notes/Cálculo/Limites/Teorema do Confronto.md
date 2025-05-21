@@ -17,6 +17,7 @@ Sejam $f(x)$ e $g(x)$ duas funções definidas no entorno de um ponto $a$ (ou em
 $$
  -x^2 \leq x^2\sin(\frac{1}{x}) \leq x^2.
 $$
+
    Aplicando o Teorema do Confronto de Limites, concluímos que $\lim_{x \to 0} f(x) = 0$.
 
 2. **Exemplo 2:**
@@ -24,6 +25,7 @@ $$
 $$
  0 < e^{-x^2} < x^4.
 $$
+
    Aplicando o Teorema do Confronto de Limites, concluímos que $\lim_{x \to \infty} f(x) = \infty$.
 
 Este teorema é uma ferramenta poderosa para resolver limites complexos e é frequentemente usado em cálculos avançados.

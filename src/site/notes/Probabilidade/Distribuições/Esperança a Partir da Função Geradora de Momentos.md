@@ -10,10 +10,13 @@ Para calcular a esperança (ou valor esperado) de uma variável aleatória $X$ a
 $$
    M_X(t) = E[e^{tX}] = \sum_{k=0}^{\infty} \frac{E[X^k]}{k!} t^k
 $$
+
    para uma variável aleatória discreta, ou
+
 $$
    M_X(t) = E[e^{tX}] = \int_{-\infty}^{\infty} e^{tx} f(x) dx
 $$
+
    para uma variável aleatória contínua, onde $f(x)$ é a função de densidade de probabilidade.
 
 2. **Calculando a Esperança**:
@@ -40,15 +43,21 @@ $$
 $$
    M_X(t) = E[e^{tX}] = (1-p) + pe^t
 $$
+
    Derivando em relação a $t$:
+
 $$
    M_X'(t) = pe^t
 $$
+
    Avaliando em $t = 0$:
+
 $$
    M_X'(0) = p
 $$
+
    Portanto, a esperança é:
+
 $$
    E[X] = p
 $$

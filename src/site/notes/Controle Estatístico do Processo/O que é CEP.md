@@ -42,4 +42,3 @@ Permite identificar características de qualidade que contribuem para o atendime
 ![matriz-de-qualidade.webp](/img/user/Controle%20Estat%C3%ADstico%20do%20Processo/_attachments/matriz-de-qualidade.webp)
 
 ![exemplo-matriz-qualidade.webp](/img/user/Controle%20Estat%C3%ADstico%20do%20Processo/_attachments/exemplo-matriz-qualidade.webp)
-

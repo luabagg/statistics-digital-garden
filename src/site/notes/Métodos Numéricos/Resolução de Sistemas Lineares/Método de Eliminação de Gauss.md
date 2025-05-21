@@ -27,6 +27,7 @@ O Método de Eliminação de Gauss é uma técnica fundamental utilizada para re
 ### Exemplo de Aplicação Do Método de Eliminação de Gauss
 
 Considere o seguinte sistema linear de equações:
+
 $$
 \begin{cases}
 2x + 3y - z = 1 \\
@@ -34,11 +35,13 @@ $$
 -2x + 2y + 5z = 0
 \end{cases}
 $$
+
 #### Passos Básicos Do Método
 
 1. **Forma Triangular Superior:**
 
    Primeiro, transformamos o sistema em uma matriz aumentada:
+
 $$
 \left[\begin{array}{ccc|c}
 2 & 3 & -1 & 1 \\
@@ -87,7 +90,9 @@ $$
 0 & 0 & \frac{8}{7} & -\frac{18}{7}
 \end{array}\right]
 $$
+
    Agora, temos a matriz triangular superior:
+
 $$
 \left[\begin{array}{ccc|c}
 2 & 3 & -1 & 1 \\
@@ -111,6 +116,7 @@ $$
 $$
 2x + 3(-2) - \left(-\frac{9}{4}\right) = 1 \implies 2x - 6 + \frac{9}{4} = 1 \implies 2x - \frac{24}{4} + \frac{9}{4} = 1 \implies 2x - \frac{15}{4} = 1
 $$
+
 $$
 2x = 1 + \frac{15}{4} \implies 2x = \frac{4}{4} + \frac{15}{4} \implies 2x = \frac{19}{4} \implies x = \frac{19}{8}
 $$
@@ -118,6 +124,7 @@ $$
 $$
 x = \frac{19}{8}, \quad y = -2, \quad z = -\frac{9}{4}
 $$
+
 ## Código em Python
 
 ```python
@@ -150,7 +157,7 @@ def gauss_elimination_verbose(a, b):
 
 	# Forward Elimination
     for i in range(n):
-	# Partial Pivoting: Find The Row With The Largest Value In Column I
+		# Partial Pivoting: Find The Row With The Largest Value In Column I
         max_row = i + max(range(n - i), key=lambda k: abs(a[i + k][i]))
         if abs(a[max_row][i]) < 1e-12:
             raise ValueError("Matrix is singular or nearly singular")

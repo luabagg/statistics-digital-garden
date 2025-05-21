@@ -13,9 +13,11 @@ A variável aleatória $X \sim \text{Binomial Negativa}(r, p)$ representa o núm
 - **$p$**: probabilidade de sucesso em cada ensaio ($0 < p \leq 1$).
 
 A função de massa de probabilidade é dada por:
+
 $$
 P(X = k) = \binom{k + r - 1}{k} p^r (1 - p)^k, \quad k = 0, 1, 2, \ldots
 $$
+
 > Observação: Algumas fontes definem $X$ como o número **total de ensaios até o $r$-ésimo sucesso**. Neste caso, $X$ assume valores $r, r+1, r+2, \ldots$ e a função de probabilidade se adapta para refletir isso.
 
 ## **Características E Propriedades**
@@ -31,6 +33,7 @@ $$
 $$
     \text{Var}(X) = r \cdot \frac{1 - p}{p^2}
 $$
+
 ## **Exemplos**
 
 **Exemplo 1: Lançamento de Moeda**

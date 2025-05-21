@@ -6,13 +6,17 @@
 ## Definição de Limite
 
 O limite de uma função $f(x, y)$ em um ponto $(a, b)$ é o valor que a função se aproxima quando as variáveis $x$ e $y$ se aproximam do ponto $(a, b)$. Matematicamente, dizemos que:
+
 $$
 \lim_{(x,y) \to (a,b)} f(x, y) = L
 $$
+
 se para todo $\epsilon > 0$, existe um $\delta > 0$ tal que:
+
 $$
 0 < \sqrt{(x-a)^2 + (y-b)^2} < \delta \implies |f(x, y) - L| < \epsilon
 $$
+
 ## Cálculo de Limites
 
 Para calcular limites de funções bidimensionais, é comum usar a substituição direta ou métodos como o uso de caminhos. Por exemplo:
@@ -25,9 +29,11 @@ Para calcular limites de funções bidimensionais, é comum usar a substituiçã
 ## Exemplo
 
 Considere a função:
+
 $$
 f(x, y) = \frac{x^2 - y^2}{x^2 + y^2}
 $$
+
 Para calcular $\lim_{(x,y) \to (0,0)} f(x, y)$, podemos usar diferentes caminhos:
 
 - **Caminho $y = 0$**:
@@ -38,6 +44,7 @@ $$
 $$
 \lim_{x \to 0} f(x, x) = \lim_{x \to 0} \frac{0}{2x^2} = 0
 $$
+
 Como os limites são diferentes para caminhos distintos, concluímos que o limite não existe.
 
 ## Continuidade de Funções de Duas Variáveis
@@ -45,9 +52,11 @@ Como os limites são diferentes para caminhos distintos, concluímos que o limit
 ### Definição de Continuidade
 
 ma função $f(x, y)$ é contínua em um ponto $(a, b)$ se:
+
 $$
 \lim_{(x,y) \to (a,b)} f(x, y) = f(a, b)
 $$
+
 Isso significa que a função tem um valor definido no ponto e que esse valor é igual ao limite da função quando as variáveis $x$ e $y$ se aproximam do ponto $(a, b)$.
 
 ### Exemplos de Funções Contínuas e Não-contínuas

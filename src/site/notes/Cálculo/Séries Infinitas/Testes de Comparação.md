@@ -17,6 +17,7 @@ O **Teste Direto de Comparação** é aplicado quando se pode comparar diretamen
 $$
 \frac{1}{n(n+1)} < \frac{1}{2^n}
 $$
+
   para $n$ suficientemente grande. Como a série geométrica converge e os termos da série original são menores ou iguais aos termos da série geométrica, podemos concluir que $\sum_{n=1}^{\infty} \frac{1}{n(n+1)}$ também converge.
 
 ## Teste de Comparação Assintótico
@@ -27,6 +28,7 @@ O **Teste de Comparação Assintótico** é útil quando a série em questão te
 $$
 \lim_{n\to\infty} \frac{\frac{1}{\ln(n)}}{\frac{1}{n}} = \lim_{n\to\infty} \frac{n}{\ln(n)} = +\infty
 $$
+
   o que indica que $\frac{1}{\ln(n)}$ cresce mais rápido do que $\frac{1}{n}$, mas a divergência da série harmônica implica na divergência de nossa série original.
 
 ## Teste de Comparação Pelo Mínimo
@@ -41,4 +43,5 @@ O **Teste de Comparação pelo Mínimo** é útil quando se pode encontrar um te
 $$
 \frac{1}{n^2 + n} < \frac{1}{n^2}
 $$
+
  para todo $n$. Como a série $\sum_{n=1}^{\infty} \frac{1}{n^2}$ converge e os termos da série original são menores ou iguais aos termos dessa série, podemos concluir que $\sum_{n=1}^{\infty} \frac{1}{n^2 + n}$ também converge.

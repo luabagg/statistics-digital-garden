@@ -32,6 +32,7 @@ Considere a função $f(t) = t^2$, que representa o quadrado do tempo. A derivad
 $$
 f'(t) = \frac{d}{dt}(t^2) = 2t.
 $$
+
 Isso significa que a velocidade instantânea de um objeto cuja posição é dada por $f(t)$ no instante $t$ é igual a $2t$.
 
 ### Cálculo Integral
@@ -43,10 +44,13 @@ A área sob a curva $f(x) = x^2$ no intervalo $[0, 1]$ pode ser calculada usando
 $$
 \int_{0}^{1} x^2 \, dx.
 $$
+
 Este integral pode ser resolvido como:
+
 $$
 \left. \frac{x^3}{3} \right|_0^1 = \frac{1^3}{3} - \frac{0^3}{3} = \frac{1}{3}.
 $$
+
 ### Teorema Fundamental Do Cálculo
 
 - **Conecta a integral e a derivada**: O [[Cálculo/Teorema Fundamental do Cálculo\|teorema fundamental do cálculo]] é crucial porque conecta as duas operações fundamentais do cálculo: a derivada e o integral. Isso permite que possamos usar técnicas de integração para resolver problemas envolvendo derivadas, e vice-versa.

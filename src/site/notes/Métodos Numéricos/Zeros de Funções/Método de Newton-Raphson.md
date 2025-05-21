@@ -4,9 +4,11 @@
 
 
 Considere a equação $f(x) = 0$, onde $f$ é uma função derivável no intervalo de interesse. O método de Newton-Raphson busca aproximar as raízes dessa equação através da seguinte fórmula iterativa:
+
 $$
 x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}
 $$
+
 Aqui, $x_n$ é a estimativa atual e $x_{n+1}$ é a próxima estimativa. A função derivada $f'(x)$ é necessária para calcular o passo de atualização.
 
 ## Passos Do Método
@@ -20,6 +22,7 @@ $$
 $$
    |x_{n+1} - x_n| < \epsilon
 $$
+
 ## Limitações
 
 - **Derivada Nula**: O método falha se a derivada for zero em algum ponto.

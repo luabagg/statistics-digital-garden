@@ -4,6 +4,7 @@
 
 
 
+
 - **[[Métodos Numéricos/Zeros de Funções/Zeros de Funções\|Zeros de Funções]]**
 	- [[Métodos Numéricos/Zeros de Funções/Método da Bisseção\|Método da Bisseção]]
 	- [[Métodos Numéricos/Zeros de Funções/Método da Falsa Posição\|Método da Falsa Posição]]

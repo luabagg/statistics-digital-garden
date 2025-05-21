@@ -57,6 +57,7 @@ A distribuição Gamma é uma ferramenta estatística versátil que pode ser apl
 - **Parâmetro Scale ($\theta$)**: 2
 
 A função de densidade de probabilidade (PDF) para este caso é:
+
 $$
 f(x; 3, 2) = \frac{x^{3-1} e^{-\frac{x}{2}}}{2^3 \Gamma(3)} = \frac{x^2 e^{-\frac{x}{2}}}{8 \cdot 2!} = \frac{x^2 e^{-\frac{x}{2}}}{16}
 $$
@@ -77,6 +78,7 @@ $$
 - **Parâmetro Scale ($\theta$)**: 10
 
 A função de densidade de probabilidade (PDF) para este caso é:
+
 $$
 f(x; 5, 10) = \frac{x^{5-1} e^{-\frac{x}{10}}}{10^5 \Gamma(5)} = \frac{x^4 e^{-\frac{x}{10}}}{10^5 \cdot 24} = \frac{x^4 e^{-\frac{x}{10}}}{240000}
 $$

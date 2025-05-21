@@ -8,9 +8,11 @@ O método das secantes é uma técnica iterativa utilizada para encontrar as ra�
 ## Formulação Do Método
 
 A fórmula iterativa do método das secantes é dada por:
+
 $$
 x_{n+1} = x_n - \frac{f(x_n)(x_n - x_{n-1})}{f(x_n) - f(x_{n-1})}
 $$
+
 onde:
 
 - $x_n$ e $x_{n-1}$ são os valores de $x$ na iteração atual e anterior, respectivamente.
@@ -36,20 +38,23 @@ $$
 $$
 f(2) = 2^3 - 2\cdot2 - 5 = -1
 $$
-$$
-f(2.5) = (2.5)^3 - 2\cdot2.5 - 5 = 4.875
 
-$
-$$$
+$$
+f(2.5) = (2.5)^3 - 2\cdot2.5 - 5 = 4.875 
+$$
+
+$$
 x_2 = 2.5 - \frac{4.875(2.5 - 2)}{4.875 + 1} \approx 2.094
 $$
    - Iteração 2:
 $$
 f(2.094) \approx (2.094)^3 - 2\cdot2.094 - 5 \approx -0.678
-$$$$
+$$
 
+$$
 x_3 = 2.094 - \frac{-0.678(2.094 - 2.5)}{-0.678 + 4.875} \approx 2.094551
 $$
+
    Aproximadamente, a raiz é $x \approx 2.094551$.
 
 ## Exemplo em Python
@@ -80,7 +85,7 @@ def secant_method(f, x0, x1, tol=1e-6, max_iter=100):
     fx1 = f(x1)
     iteration = 0
     while iteration < max_iter:
-# Check If The Denominator Is Too Close To Zero
+	# Check If The Denominator Is Too Close To Zero
         if abs(fx1 - fx0) < tol:
             return {
                 'root': x1,
@@ -88,13 +93,13 @@ def secant_method(f, x0, x1, tol=1e-6, max_iter=100):
                 'function_value': fx1,
                 'converged': abs(fx1) < tol
             }
-# Secant Method Formula
+		# Secant Method Formula
         x_new = x1 - fx1 * (x1 - x0) / (fx1 - fx0)
-# Update Values For Next Iteration
+		# Update Values For Next Iteration
         x0, x1 = x1, x_new
         fx0, fx1 = fx1, f(x_new)
         iteration += 1
-# Check For Convergence
+		# Check For Convergence
         if abs(fx1) < tol or (iteration > 0 and abs(x1 - x0) < tol):
             break
     return {

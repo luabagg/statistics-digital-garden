@@ -12,9 +12,11 @@ Este método é especialmente útil quando se tem duas aproximações iniciais $
 ## Formulação Do Método
 
 O método da falsa posição envolve iterativamente reduzir o tamanho do intervalo onde a raiz está localizada. Na cada iteração, uma nova aproximação para a raiz é calculada usando a fórmula:
+
 $$
 x_n = \frac{a_{n-1}f(b_{n-1}) - b_{n-1}f(a_{n-1})}{f(b_{n-1}) - f(a_{n-1})}
 $$
+
 onde $a_{n-1}$ e $b_{n-1}$ são os valores dos extremos do intervalo atual, e $x_n$ é a nova aproximação.
 
 ### Exemplo de Aplicação
@@ -29,14 +31,19 @@ $$
 $$
 x_2 = \frac{1 \cdot f(1.056) - 1.056 \cdot f(1)}{f(1.056) - f(1)}
 $$
+
   Calculando $f(1.056)$:
+
 $$
 f(1.056) = (1.056)^3 - 2(1.056) - 5 \approx -4.87
 $$
+
   Então:
+
 $$
 x_2 = \frac{1 \cdot (-4.87) - 1.056 \cdot (-2)}{-4.87 - (-2)} = \frac{-4.87 + 2.112}{-4.87 + 2} = \frac{-2.758}{-2.87} \approx 0.963
 $$
+
 ### Exemplo em Python
 
 ```python

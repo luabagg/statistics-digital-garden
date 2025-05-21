@@ -6,9 +6,11 @@
 O **Teorema de Bolzano** fornece um critério rigoroso para a existência de pelo menos um zero de uma função contínua em um intervalo. Ele afirma que:
 
 Se uma função $f(x)$ é contínua em um intervalo fechado $[a, b]$ e os valores da função nos extremos do intervalo possuem sinais opostos, ou seja,
+
 $$
 f(a) \cdot f(b) < 0, 
 $$
+
 então existe pelo menos um número $c \in (a, b)$ tal que $f(c) = 0$.
 
 ## Exemplo
@@ -23,12 +25,14 @@ $$
 $$
 f(0) = 1
 $$
+
 Aqui, $f(-1) = 2$ e $f(0) = 1$, então $f(x)$ não muda de sinal nesse intervalo. Agora consideramos:
 
 - Avaliamos $f(-2)$:
 $$
 f(-2) = (-2)^3 - 2 \cdot (-2) + 1 = -8 + 4 + 1 = -3
 $$
+
 Agora, temos:
 
 - $f(-2) = -3$
@@ -70,18 +74,23 @@ Considere a função $f(x) = x^3 - 4x + 1$. Queremos verificar se há pelo menos
 $$
 f(0) = 0^3 - 4(0) + 1 = 1, \quad f(2) = 2^3 - 4(2) + 1 = -3.
 $$
+
 Como $f(0) \cdot f(2) < 0$, existe pelo menos uma raiz em $(0,2)$.
 
 2. **Uso da Derivada para Análise Adicional**:
 
 Derivamos $f(x)$:
+
 $$
 f’(x) = 3x^2 - 4.
 $$
+
 Igualando a zero, encontramos os pontos críticos:
+
 $$
 3x^2 - 4 = 0 \Rightarrow x = \pm \frac{2}{\sqrt{3}} \approx \pm 1.15.
 $$
+
 Como $x = 1.15$ está dentro de $(0,2)$, podemos verificar que a função tem uma mudança no crescimento e pode haver apenas um zero nesse intervalo.
 
 1. **Uso de Zeros de Funções para Cálculo de Erro em Redes Neurais**

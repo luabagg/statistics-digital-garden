@@ -3,6 +3,8 @@
 ---
 
 
+
+
 - **[[Controle Estatístico do Processo/Controle Estatístico do Processo\|Controle Estatístico do Processo]]**
 	- **Cartas de Controle**
 		- [[Controle Estatístico do Processo/Cartas de Controle/Média e Amplitude\|Média e Amplitude]]

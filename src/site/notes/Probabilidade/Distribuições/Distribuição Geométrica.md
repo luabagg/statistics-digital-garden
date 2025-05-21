@@ -8,9 +8,11 @@ Considere que vamos realizar ensaios independentes de Bernoulli até a ocorrênc
 ## Distribuição Geométrica
 
 A distribuição geométrica descreve o número de ensaios necessários para obter o primeiro sucesso. Seja $X$ a variável aleatória que representa o número de ensaios até o primeiro sucesso. A função de probabilidade da distribuição geométrica é dada por:
+
 $$
 P(X = k) = (1 - p)^{k-1}p, \quad k = 1, 2, 3, \ldots
 $$
+
 Onde:
 
 - $k$ é o número de ensaios até o primeiro sucesso.
@@ -28,6 +30,7 @@ $$
 $$
   P(X = 2) = (1 - 0.5)^{2-1} \cdot 0.5 = 0.5^2 \cdot 0.5 = 0.25
 $$
+
 ## Parâmetros e Propriedades
 
 A distribuição geométrica é completamente determinada pelo único parâmetro $p$, que representa a probabilidade de sucesso em cada ensaio.
@@ -40,6 +43,7 @@ $$
 $$
   Var(X) = \frac{q}{p^2} = \frac{1 - p}{p^2}
 $$
+
 ## Aplicações Práticas
 
 A distribuição geométrica tem diversas aplicações em problemas reais, como:
@@ -50,39 +54,55 @@ A distribuição geométrica tem diversas aplicações em problemas reais, como:
 ## Cálculo da Esperança a Partir da Função Geradora de Momentos
 
 A **função geradora de momentos (FGM)** de uma variável aleatória discreta $X$ é definida como:
+
 $$
 M_X(t) = E[e^{tX}]
 $$
+
 Para a distribuição geométrica, onde $X$ representa o número de ensaios até o primeiro sucesso, com $P(X = k) = (1 - p)^{k-1}p$, temos:
+
 $$
 M_X(t) = \sum_{k=1}^{\infty} e^{tk} (1 - p)^{k-1} p
 $$
+
 Essa soma pode ser manipulada como uma série geométrica. Reescrevendo:
+
 $$
 M_X(t) = p e^t \sum_{k=0}^{\infty} \left[(1 - p)e^t\right]^k = \frac{p e^t}{1 - (1 - p)e^t}, \quad \text{para } e^t < \frac{1}{1 - p}
 $$
+
 Para obter a esperança $E(X)$ a partir da FGM, basta derivar $M_X(t)$ em relação a $t$ e avaliar em $t = 0$:
+
 $$
 E(X) = M_X’(0)
 $$
+
 Calculando a derivada de $M_X(t)$:
 
 Seja
+
 $$
 M_X(t) = \frac{p e^t}{1 - (1 - p)e^t}
 $$
+
 Derivando com a regra do quociente:
+
 $$
 M_X’(t) = \frac{[p e^t][1 - (1 - p)e^t] + [p e^t (1 - p) e^t]}{[1 - (1 - p)e^t]^2}
 $$
+
 Simplificando e substituindo $t = 0$:
+
 $$
 M_X’(0) = \frac{p}{(1 - (1 - p))^2} = \frac{p}{p^2} = \frac{1}{p}
 $$
+
 Portanto, como esperado:
+
 $$
 E(X) = \frac{1}{p}
 $$
+
 ## **Observações Finais**
 
 - A distribuição geométrica é **sem memória**, ou seja, a probabilidade de obter um sucesso nos próximos ensaios **não depende** de quantos fracassos já ocorreram. Formalmente:

@@ -12,9 +12,11 @@ Considere um conjunto com $N$ elementos, onde $K$ são considerados "sucessos" (
 ## Fórmula
 
 A função de probabilidade da distribuição hipergeométrica é dada por:
+
 $$
 P(X = k) = \frac{\binom{K}{k} \binom{N-K}{n-k}}{\binom{N}{n}}
 $$
+
 onde:
 
 - $X$ é a variável aleatória que representa o número de sucessos.
@@ -33,9 +35,11 @@ Suponha que temos uma urna com 50 bolas, sendo 20 vermelhas (sucessos) e 30 bran
 - $k = 4$
 
 A probabilidade é calculada como:
+
 $$
 P(X = 4) = \frac{\binom{20}{4} \binom{30}{6}}{\binom{50}{10}}
 $$
+
 ## Características Principais
 
 1. **Sem Reposição**: A amostragem é feita sem reposição, o que significa que uma vez que um item é selecionado, ele não pode ser escolhido novamente.

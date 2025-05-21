@@ -8,6 +8,7 @@ O Método de Gauss-Jacobi é um algoritmo iterativo utilizado para resolver sist
 ## Formulando o Problema
 
 Considere um sistema linear de equações representado por:
+
 $$
 \begin{align*}
 a_{11}x_1 + a_{12}x_2 + \cdots + a_{1n}x_n &= b_1 \\
@@ -16,6 +17,7 @@ a_{21}x_1 + a_{22}x_2 + \cdots + a_{2n}x_n &= b_2 \\
 a_{n1}x_1 + a_{n2}x_2 + \cdots + a_{nn}x_n &= b_n
 \end{align*}
 $$
+
 Podemos expressar este sistema em forma matricial como $Ax = b$, onde:
 
 - $A$ é uma matriz $n \times n$,
@@ -25,37 +27,47 @@ Podemos expressar este sistema em forma matricial como $Ax = b$, onde:
 ## Aplicação Do Método
 
 O método de Gauss-Jacobi consiste em decompor a matriz $A$ em suas partes diagonal, triangular inferior e triangular superior. Especificamente, podemos escrever:
+
 $$
 A = D + L + U,
 $$
+
 onde $D$ é a matriz diagonal formada pelos elementos da diagonal principal de $A$, $L$ é a matriz triangular inferior (com zeros na diagonal) e $U$ é a matriz triangular superior (também com zeros na diagonal).
 
 Assim, o sistema original pode ser reescrito como:
+
 $$
 Dx = -Lx - Ux + b.
 $$
+
 Isolando $x$, obtemos:
+
 $$
 x^{(k+1)} = D^{-1}(-Lx^{(k)} - Ux^{(k)} + b),
 $$
+
 onde $x^{(k)}$ representa a aproximação do vetor solução no $k$-ésimo passo.
 
 ## Exemplo
 
 Considere o sistema linear:
+
 $$
 \begin{align*}
 2x_1 + x_2 &= 8 \\
 x_1 + 3x_2 &= 10
 \end{align*}
 $$
+
 Em forma matricial, temos $A = \begin{pmatrix} 2 & 1 \\ 1 & 3 \end{pmatrix}$, $b = \begin{pmatrix} 8 \\ 10 \end{pmatrix}$.
 
 Aplicando o método de Gauss-Jacobi:
+
 $$
 x_1^{(k+1)} = \frac{1}{2}(8 - x_2^{(k)}) \\
 x_2^{(k+1)} = \frac{1}{3}(10 - x_1^{(k)})
 $$
+
 ### Criterio de Parada Do Método de Gauss-jacobi
 
 O método de Gauss-Jacobi é uma técnica iterativa utilizada para resolver sistemas lineares. O critério de parada desse método é fundamental para determinar quando a solução atinge um nível aceitável de precisão. Este critério pode ser estabelecido considerando as seguintes condições:
@@ -64,12 +76,14 @@ O método de Gauss-Jacobi é uma técnica iterativa utilizada para resolver sist
 $$
 \epsilon = \max_{i} |x_i^{(k+1)} - x_i^{(k)}| < \varepsilon
 $$
+
    Aqui, $x_i^{(k+1)}$ e $x_i^{(k)}$ representam os valores das variáveis no $(k+1)$-ésimo e $k$-ésimo iterações, respectivamente. $\varepsilon$ é um valor pequeno definido pelo usuário que serve como a tolerância de erro.
 
 2. **Erro Relativo**:
 $$
 \epsilon = \frac{\max_{i} |x_i^{(k+1)} - x_i^{(k)}|}{\max_{i} |x_i^{(k+1)}|} < \varepsilon
 $$
+
    Este critério é útil quando as soluções são de ordens de grandeza diferentes.
 
 3. **Número Máximo de Iterações**:
@@ -92,6 +106,7 @@ $$
 $$
 \frac{|x_i^{(k+1)} - x_i^{(k)}|}{|x_i^{(k+1)}|} < 10^{-6}
 $$
+
 ### Observações Importantes
 
 - O critério de parada baseado no erro relativo é mais robusto, pois considera a escala dos valores das variáveis.
