@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"metodos-numericos/resolucao-de-sistemas-lineares/metodo-de-eliminacao-de-gauss","permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/metodo-de-eliminacao-de-gauss/","created":"2025-05-20T13:30:13.842-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/metodo-de-eliminacao-de-gauss/","created":"2025-05-20T13:30:13.842-03:00"}
 ---
 
 

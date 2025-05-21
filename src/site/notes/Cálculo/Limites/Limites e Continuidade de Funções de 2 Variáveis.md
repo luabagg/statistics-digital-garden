@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Limites/Limites e Continuidade de Funções de 2 Variáveis/","created":"2025-05-20T13:30:13.830-03:00"}
+{"dg-publish":true,"permalink":"/calculo/limites/limites-e-continuidade-de-funcoes-de-2-variaveis/","created":"2025-05-20T13:30:13.830-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Integrais/Soma de Riemann/","created":"2025-05-21T07:58:46.060-03:00"}
+{"dg-publish":true,"permalink":"/calculo/integrais/soma-de-riemann/","created":"2025-05-21T07:58:46.060-03:00"}
 ---
 
 

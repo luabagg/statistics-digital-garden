@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Distribuições/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.850-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/distribuicoes/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.850-03:00"}
 ---
 
 

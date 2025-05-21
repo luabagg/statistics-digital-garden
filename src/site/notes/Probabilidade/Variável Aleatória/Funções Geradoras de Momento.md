@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Funções Geradoras de Momento/","created":"2025-05-20T13:30:13.854-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/variavel-aleatoria/funcoes-geradoras-de-momento/","created":"2025-05-20T13:30:13.854-03:00"}
 ---
 
 

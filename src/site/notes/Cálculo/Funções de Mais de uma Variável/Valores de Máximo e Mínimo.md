@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Valores de Máximo e Mínimo/","created":"2025-05-20T13:30:13.830-03:00"}
+{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/valores-de-maximo-e-minimo/","created":"2025-05-20T13:30:13.830-03:00"}
 ---
 
 

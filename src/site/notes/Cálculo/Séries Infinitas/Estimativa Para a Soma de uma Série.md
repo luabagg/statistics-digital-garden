@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Séries Infinitas/Estimativa Para a Soma de uma Série/","created":"2025-05-20T13:30:13.832-03:00"}
+{"dg-publish":true,"permalink":"/calculo/series-infinitas/estimativa-para-a-soma-de-uma-serie/","created":"2025-05-20T13:30:13.832-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade/","dgShowLocalGraph":true,"created":"2025-05-21T08:18:50.133-03:00"}
+{"dg-publish":true,"permalink":"/controle-estatistico-do-processo/ferramentas-da-qualidade/ferramentas-da-qualidade/","dgShowLocalGraph":true,"created":"2025-05-21T08:18:50.133-03:00"}
 ---
 
 

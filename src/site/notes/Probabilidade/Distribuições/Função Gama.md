@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Função Gama/","created":"2025-05-20T09:27:27.975-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/funcao-gama/","created":"2025-05-20T09:27:27.975-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivadas Parciais/","created":"2025-05-20T13:30:13.825-03:00"}
+{"dg-publish":true,"permalink":"/calculo/derivadas/derivadas-parciais/","created":"2025-05-20T13:30:13.825-03:00"}
 ---
 
 

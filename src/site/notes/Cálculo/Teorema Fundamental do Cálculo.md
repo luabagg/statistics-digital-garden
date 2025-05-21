@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Teorema Fundamental do Cálculo/","tags":["Derivadas","Integrais","Limites"],"created":"2025-05-21T08:21:46.401-03:00"}
+{"dg-publish":true,"permalink":"/calculo/teorema-fundamental-do-calculo/","tags":["Derivadas","Integrais","Limites"],"created":"2025-05-21T08:21:46.401-03:00"}
 ---
 
 

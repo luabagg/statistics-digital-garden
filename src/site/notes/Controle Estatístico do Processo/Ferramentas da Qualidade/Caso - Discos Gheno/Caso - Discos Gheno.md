@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Caso - Discos Gheno/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.822-03:00"}
+{"dg-publish":true,"permalink":"/controle-estatistico-do-processo/ferramentas-da-qualidade/caso-discos-gheno/caso-discos-gheno/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.822-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória/","created":"2025-05-20T13:30:13.853-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/variavel-aleatoria/esperanca-de-uma-variavel-aleatoria/","created":"2025-05-20T13:30:13.853-03:00"}
 ---
 
 

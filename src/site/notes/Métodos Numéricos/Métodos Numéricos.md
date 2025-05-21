@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"metodos-numericos","permalink":"/metodos-numericos/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.842-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/metodos-numericos/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.842-03:00"}
 ---
 
 

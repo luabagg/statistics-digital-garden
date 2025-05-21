@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Derivadas/Derivada Direcional/Derivada Direcional/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.824-03:00"}
+{"dg-publish":true,"permalink":"/calculo/derivadas/derivada-direcional/derivada-direcional/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.824-03:00"}
 ---
 
 

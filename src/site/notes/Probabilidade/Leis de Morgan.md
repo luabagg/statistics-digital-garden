@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Leis de Morgan/","created":"2025-05-21T09:04:51.583-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/leis-de-morgan/","created":"2025-05-21T09:04:51.583-03:00"}
 ---
 
 

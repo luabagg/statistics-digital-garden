@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Distribuição Hipergeométrica/","created":"2025-05-20T13:30:13.850-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/distribuicao-hipergeometrica/","created":"2025-05-20T13:30:13.850-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Funções de Mais de uma Variável/Teorema de Clairaut/","tags":["Derivadas"],"created":"2025-05-20T13:30:13.828-03:00"}
+{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/teorema-de-clairaut/","tags":["Derivadas"],"created":"2025-05-20T13:30:13.828-03:00"}
 ---
 
 

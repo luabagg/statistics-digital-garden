@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Métodos Numéricos/Resolução de Sistemas Lineares/Teorema Condição Suficiente de Converência do Método de Gauss-Jacobi/","created":"2025-05-20T13:32:50.009-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/teorema-condicao-suficiente-de-converencia-do-metodo-de-gauss-jacobi/","created":"2025-05-20T13:32:50.009-03:00"}
 ---
 
 

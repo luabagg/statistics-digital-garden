@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Probabilidade/Distribuições/Distribuição Geométrica/","created":"2025-05-20T13:30:13.849-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/distribuicao-geometrica/","created":"2025-05-20T13:30:13.849-03:00"}
 ---
 
 

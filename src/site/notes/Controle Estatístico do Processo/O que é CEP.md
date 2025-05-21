@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Controle Estatístico do Processo/O que é CEP/","created":"2025-05-21T08:07:41.747-03:00"}
+{"dg-publish":true,"permalink":"/controle-estatistico-do-processo/o-que-e-cep/","created":"2025-05-21T08:07:41.747-03:00"}
 ---
 
 

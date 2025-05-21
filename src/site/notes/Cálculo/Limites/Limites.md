@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cálculo/Limites/Limites/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.831-03:00"}
+{"dg-publish":true,"permalink":"/calculo/limites/limites/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.831-03:00"}
 ---
 
 
