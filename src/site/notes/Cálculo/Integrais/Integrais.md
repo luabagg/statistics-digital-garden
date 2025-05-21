@@ -4,8 +4,9 @@
 
 
 
-
-- [[Cálculo/Integrais/Integrais\|Integrais]]
+- **[[Cálculo/Integrais/Integrais\|Integrais]]**
+	- [[Cálculo/Integrais/Integrais Duplas\|Integrais Duplas]]
+	- [[Cálculo/Integrais/Soma de Riemann\|Soma de Riemann]]
 
 
 

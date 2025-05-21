@@ -10,6 +10,7 @@
 ## Table Of Contents
 
 - [[Cálculo/Cálculo\|Cálculo]]
+- [[Controle Estatístico do Processo/Controle Estatístico do Processo\|Controle Estatístico do Processo]]
 - [[Métodos Numéricos/Métodos Numéricos\|Métodos Numéricos]]
 - [[Probabilidade/Probabilidade\|Probabilidade]]
 

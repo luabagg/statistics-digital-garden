@@ -4,7 +4,6 @@
 
 
 
-
 - **[[Cálculo/Derivadas/Derivadas\|Derivadas]]**
 	- **[[Cálculo/Derivadas/Derivada Direcional/Derivada Direcional\|Derivada Direcional]]**
 	- [[Cálculo/Derivadas/Derivada Implícita\|Derivada Implícita]]
@@ -14,7 +13,6 @@
 	- [[Cálculo/Derivadas/Diferencial de Uma Função\|Diferencial de Uma Função]]
 	- [[Cálculo/Derivadas/Plano Tangente\|Plano Tangente]]
 	- [[Cálculo/Derivadas/Regras da Cadeia\|Regras da Cadeia]]
-	- [[Cálculo/Derivadas/Teorema de Clairaut\|Teorema de Clairaut]]
 
 
 
