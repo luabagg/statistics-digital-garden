@@ -1,22 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade/","created":"2025-05-21T08:18:50.133-03:00"}
+{"dg-publish":true,"permalink":"/Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade/","dgShowLocalGraph":true,"created":"2025-05-21T08:18:50.133-03:00"}
 ---
 
 
 
-
 - **[[Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade\|Ferramentas da Qualidade]]**
-	- **Caso - Discos Gheno**
-		- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Ferramentas da Qualidade - Discos Gheno\|Ferramentas da Qualidade - Discos Gheno]]
-		- **Fluxograma do Processo**
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Diagrama de Causa e Efeito.excalidraw\|Diagrama de Causa e Efeito.excalidraw]]
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Fluxograma do Processo.excalidraw\|Fluxograma do Processo.excalidraw]]
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Parte 1 - Projeto.excalidraw\|Parte 1 - Projeto.excalidraw]]
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Parte 2 - Compra do Material.excalidraw\|Parte 2 - Compra do Material.excalidraw]]
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Parte 3 - Prototipação.excalidraw\|Parte 3 - Prototipação.excalidraw]]
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Parte 4 - Teste do Protótipo.excalidraw\|Parte 4 - Teste do Protótipo.excalidraw]]
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Parte 5 - Produção.excalidraw\|Parte 5 - Produção.excalidraw]]
-			- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Parte 6 - Marketing, Vendas e Pós-venda.excalidraw\|Parte 6 - Marketing, Vendas e Pós-venda.excalidraw]]
+	- **[[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Caso - Discos Gheno\|Caso - Discos Gheno]]**
 
 
 

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Controle Estatístico do Processo/Controle Estatístico do Processo/","created":"2025-05-20T13:30:13.821-03:00"}
+{"dg-publish":true,"permalink":"/Controle Estatístico do Processo/Controle Estatístico do Processo/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.821-03:00"}
 ---
-
 
 
 
