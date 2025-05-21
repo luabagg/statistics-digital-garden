@@ -74,7 +74,7 @@ onde:
 - $P(X = x_d)$ é a probabilidade de $X$ assumir o valor $x_d$.
 - $X_c$ é a variável aleatória contínua com função densidade de probabilidade (f.d.p.) $f_X(x_c)$.
 
-### Exemplo 1: Variável Aleatória Com Componente Discreta e Contínua
+### Exemplo 1: Variável Aleatória com Componente Discreta e Contínua
 
 Considere uma variável aleatória $X$ que representa o tempo de espera em um sistema, onde:
 

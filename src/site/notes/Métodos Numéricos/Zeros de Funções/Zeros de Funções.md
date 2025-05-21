@@ -19,7 +19,7 @@
 
 Antes de aplicar métodos numéricos para determinar os zeros de uma função, é essencial verificar se há pelo menos uma raiz no intervalo considerado. Duas abordagens comuns para essa verificação são o **método gráfico** e o **Teorema de Bolzano**.
 
-## Determinação de Zeros de Função Com Métodos Numéricos
+## Determinação de Zeros de Função com Métodos Numéricos
 
 Determinar os zeros de uma função é um problema fundamental em matemática aplicada, especialmente quando a função não pode ser resolvida analiticamente. Métodos numéricos são ferramentas poderosas para encontrar esses zeros aproximadamente.
 

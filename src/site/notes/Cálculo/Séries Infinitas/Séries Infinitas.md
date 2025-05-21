@@ -28,7 +28,7 @@
 
 As séries são uma parte fundamental do cálculo que nos permitem estudar somas infinitas de termos. Elas são ferramentas matemáticas poderosas que aparecem em diversos contextos, desde problemas práticos até aplicações teóricas avançadas.
 
-## O Que São Séries?
+## O que São Séries?
 
 Uma série é a soma de uma sequência infinita de números. Matematicamente, é representada como:
 

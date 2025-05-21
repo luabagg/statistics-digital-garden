@@ -27,7 +27,7 @@ Neste caso, $x$ é considerado constante durante o cálculo da derivada parcial.
 
 Quando você deriva uma função $f(x, y, z, \ldots)$ em relação a uma variável (por exemplo, $x$), **as outras são tratadas como constantes**.
 
-### Derivada Parcial Com Respeito a $x$
+### Derivada Parcial com Respeito a $x$
 
 A derivada parcial de $f$ com respeito a $x$, denotada por $\frac{\partial f}{\partial x}$, representa o ritmo de mudança da função no sentido do eixo $x$. Geometricamente, ela pode ser interpretada como a inclinação da reta tangente ao gráfico de $f$ na direção paralela ao plano $y = c$, onde $c$ é uma constante. Em outras palavras, se você fixar um valor para $y$, a derivada parcial $\frac{\partial f}{\partial x}$ mede como a função varia quando $x$ muda.
 
@@ -45,7 +45,7 @@ $$
 
 e a derivada parcial $\frac{\partial f}{\partial x}\bigg|_{y=1} = 2x$ descreve a inclinação dessa curva no ponto de abscissa $x$.
 
-### Derivada Parcial Com Respeito a $y$
+### Derivada Parcial com Respeito a $y$
 
 Analogamente, a derivada parcial de $f$ com respeito a $y$, denotada por $\frac{\partial f}{\partial y}$, representa o ritmo de mudança da função no sentido do eixo $y$. Geometricamente, ela é a inclinação da reta tangente ao gráfico de $f$ na direção paralela ao plano $x = c$.
 
@@ -81,7 +81,7 @@ Essa interpretação geométrica ajuda a visualizar e compreender melhor as fun�
 
 ---
 
-## Exemplo 1: Função Simples Com Duas Variáveis
+## Exemplo 1: Função Simples com Duas Variáveis
 
 Seja:
 

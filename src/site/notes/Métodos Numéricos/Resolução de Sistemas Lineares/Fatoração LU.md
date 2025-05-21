@@ -104,7 +104,7 @@ O **pivoteamento parcial** é uma técnica utilizada na fatoração LU para **ev
 
 ---
 
-### Passo a Passo Com Pivoteamento Parcial
+### Passo a Passo com Pivoteamento Parcial
 
 Dado $A \in \mathbb{R}^{n \times n}$, o algoritmo com pivoteamento parcial segue:
 
@@ -142,7 +142,7 @@ $$
 
 ---
 
-### Forma Final da Decomposição Com Pivoteamento
+### Forma Final da Decomposição com Pivoteamento
 
 A fatoração LU com pivoteamento parcial produz:
 
@@ -155,7 +155,7 @@ $$
 
 ---
 
-### Exemplo em Python Com Pivoteamento
+### Exemplo em Python com Pivoteamento
 
 ```python
 import numpy as np

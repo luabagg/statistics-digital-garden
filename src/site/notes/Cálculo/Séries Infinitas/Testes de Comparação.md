@@ -31,7 +31,7 @@ $$
 
   o que indica que $\frac{1}{\ln(n)}$ cresce mais rápido do que $\frac{1}{n}$, mas a divergência da série harmônica implica na divergência de nossa série original.
 
-## Teste de Comparação Pelo Mínimo
+## Teste de Comparação pelo Mínimo
 
 O **Teste de Comparação pelo Mínimo** é útil quando se pode encontrar um termo mínimo $m_n$ que seja maior ou igual a todos os termos subsequentes e cuja convergência possa ser estabelecida.
 

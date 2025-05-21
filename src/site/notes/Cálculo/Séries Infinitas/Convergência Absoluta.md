@@ -28,7 +28,7 @@ Convergência absoluta é um conceito fundamental na teoria das séries numéric
    - Permite a troca de ordem de somatórios sem alterar o resultado.
    - Facilita a manipulação algébrica das séries, como adição, subtração e multiplicação.
 
-## Exemplos de Série Que Não Convergem Absolutamente
+## Exemplos de Série que Não Convergem Absolutamente
 
 1. **Série Alternada:**
    A série $\sum_{n=1}^{\infty} (-1)^{n+1} \frac{1}{n}$ converge condicionalmente, mas não converge absolutamente, pois a série dos valores absolutos $\sum_{n=1}^{\infty} \left|\frac{(-1)^{n+1}}{n}\right| = \sum_{n=1}^{\infty} \frac{1}{n}$ (série harmônica) diverge.

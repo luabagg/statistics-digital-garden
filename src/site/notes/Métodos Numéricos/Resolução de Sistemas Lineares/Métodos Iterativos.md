@@ -7,7 +7,7 @@
 
 Neste formato, $x^{(k)}$ representa a solução aproximada no $k$-ésimo passo da iteração. A matriz $C$ e o vetor $g$ são parâmetros do método iterativo que podem variar dependendo do problema específico.
 
-### Relação Com Os Métodos Iterativos Discutidos
+### Relação com Os Métodos Iterativos Discutidos
 
 1. **Método de Gauss-Seidel**:
    O Método de Gauss-Seidel pode ser expresso no formato $x^{(k+1)} = Cx^{(k)} + g$. Aqui, a matriz $C$ é formada pelos elementos da matriz original $A$, mas com as entradas abaixo da diagonal nulas. O vetor $g$ contém os termos independentes do sistema.

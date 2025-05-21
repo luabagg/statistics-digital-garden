@@ -38,7 +38,7 @@ $$
    \left(1 + x\right)^{-\frac{1}{2}} = 1 - \frac{1}{2}x + \frac{\frac{1}{2}\cdot\frac{3}{2}}{2!}x^2 - \cdots.
 $$
 
-## Relação Com a [[Cálculo/Séries Infinitas/Série de Maclaurin\|Série de Maclaurin]]
+## Relação com a [[Cálculo/Séries Infinitas/Série de Maclaurin\|Série de Maclaurin]]
 
 A **série de Maclaurin** é uma série infinita que representa uma função $f(x)$ em torno do ponto $x=0$. A forma geral da série de Maclaurin para uma função $f(x)$ é:
 
@@ -72,7 +72,7 @@ $$
 
    Esta série converge para todos os valores de $x$, pois não depende de $x$.
 
-2. **Para $n=1$**:
+1. **Para $n=1$**:
 
    A série é:
 
@@ -82,7 +82,7 @@ $$
 
    Esta série converge para todos os valores de $x$, pois é uma série finita.
 
-3. **Para $n=2$**:
+1. **Para $n=2$**:
 
    A série é:
 
@@ -92,7 +92,7 @@ $$
 
    Esta série converge para todos os valores de $x$, pois é uma série finita.
 
-4. **Para $n=-\frac{1}{2}$**:
+1. **Para $n=-\frac{1}{2}$**:
 
    A série é:
 

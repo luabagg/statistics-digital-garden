@@ -38,7 +38,7 @@ $$
 \text{Var}(X) = \int_{-\infty}^{\infty} (x - \mu)^2 f(x) \, dx
 $$
 
-## Relação Com o Desvio Padrão
+## Relação com o Desvio Padrão
 
 O desvio padrão ($\sigma_X$) é a raiz quadrada da variância:
 

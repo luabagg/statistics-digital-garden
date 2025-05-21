@@ -13,7 +13,7 @@ $$
  S_n = \sum_{k=1}^{n} a_k = a_1 + a_2 + … + a_n 
 $$
 
-## Exemplo Com Série Geométrica
+## Exemplo com Série Geométrica
 
 Considere a série geométrica com a = 1 e r = 1/2:
 

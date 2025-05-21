@@ -26,13 +26,10 @@ Se você tem um ponto $(x, y)$ em coordenadas cartesianas, as coordenadas polare
 
 $$
 r = \sqrt{x^2 + y^2}
+$$
 
-$
-
-$$$
-
+$$
 \theta = \tan^{-1}\left(\frac{y}{x}\right) \quad \text{(atenção ao quadrante!)}
-
 $$
 - O valor de $\theta$ precisa ser ajustado dependendo do quadrante onde o ponto está.
 - Em Python, por exemplo, você pode usar a função `atan2(y, x)` para já considerar corretamente o quadrante.

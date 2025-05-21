@@ -77,7 +77,7 @@ $$
 
 Como $f(0) \cdot f(2) < 0$, existe pelo menos uma raiz em $(0,2)$.
 
-2. **Uso da Derivada para Análise Adicional**:
+1. **Uso da Derivada para Análise Adicional**:
 
 Derivamos $f(x)$:
 

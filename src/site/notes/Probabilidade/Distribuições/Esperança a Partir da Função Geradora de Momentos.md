@@ -19,7 +19,7 @@ $$
 
    para uma variável aleatória contínua, onde $f(x)$ é a função de densidade de probabilidade.
 
-2. **Calculando a Esperança**:
+1. **Calculando a Esperança**:
    A esperança $E[X]$ pode ser obtida derivando a função geradora de momentos em relação ao parâmetro $t$ e avaliando no ponto $t = 0$. Isso se deve à propriedade da função geradora de momentos que relaciona os momentos da variável aleatória com suas derivadas.
 
    - **Derivada Primeira**:
@@ -38,7 +38,7 @@ $$
 $$
      M_X''(0) = E[X^2]
 $$
-3. **Exemplo**:
+2. **Exemplo**:
    Considere uma variável aleatória discreta $X$ com distribuição de Bernoulli, onde $P(X=1) = p$ e $P(X=0) = 1-p$. A função geradora de momentos é:
 $$
    M_X(t) = E[e^{tX}] = (1-p) + pe^t
