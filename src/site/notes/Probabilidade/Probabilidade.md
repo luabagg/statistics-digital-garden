@@ -4,7 +4,6 @@
 
 
 
-
 - **[[Probabilidade/Probabilidade\|Probabilidade]]**
 	- **[[Probabilidade/Distribuições/Distribuições\|Distribuições]]**
 	- [[Probabilidade/Leis de Morgan\|Leis de Morgan]]
