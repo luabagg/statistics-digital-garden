@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/distribuicao-binomial-negativa/","created":"2025-05-20T13:30:13.848-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/distribuicao-binomial-negativa/","created":"2025-05-22T11:46:38.647-03:00"}
 ---
 
 
 A **Distribuição Binomial Negativa** é uma generalização da [[Probabilidade/Distribuições/Distribuição Geométrica\|distribuição geométrica]] e descreve o número de **fracassos** até a ocorrência do **$r$-ésimo sucesso** em uma sequência de **ensaios de Bernoulli independentes**, nos quais cada tentativa resulta em sucesso com probabilidade $p$ e fracasso com probabilidade $q = 1 - p$.
 
-## **Definição E Parâmetros**
+## Definição e Parâmetros
 
 A variável aleatória $X \sim \text{Binomial Negativa}(r, p)$ representa o número de **fracassos** antes de ocorrer o $r$-ésimo sucesso. Os parâmetros da distribuição são:
 
@@ -20,7 +20,7 @@ $$
 
 > Observação: Algumas fontes definem $X$ como o número **total de ensaios até o $r$-ésimo sucesso**. Neste caso, $X$ assume valores $r, r+1, r+2, \ldots$ e a função de probabilidade se adapta para refletir isso.
 
-## **Características E Propriedades**
+## Características e Propriedades
 
 - **Independência:** Cada ensaio é realizado de forma independente.
 - **Probabilidade constante:** A chance de sucesso $p$ permanece inalterada em todos os ensaios.
@@ -34,7 +34,7 @@ $$
     \text{Var}(X) = r \cdot \frac{1 - p}{p^2}
 $$
 
-## **Exemplos**
+## Exemplos
 
 **Exemplo 1: Lançamento de Moeda**
 
@@ -44,7 +44,7 @@ Suponha que uma moeda justa ($p = 0.5$) seja lançada repetidamente até obter *
 
 Em uma linha de produção, cada peça tem 10% de chance de ser defeituosa ($p = 0.1$ para o “sucesso” = peça defeituosa). Queremos saber quantas peças boas serão produzidas **antes** que se observe a terceira peça defeituosa ($r = 3$). A variável aleatória $X$ segue uma distribuição binomial negativa e representa o número de peças boas (fracassos) antes do terceiro defeito.
 
-## **Relações Com Outras Distribuições**
+## Relações com Outras Distribuições
 
 - **[[Probabilidade/Distribuições/Distribuição Geométrica\|Distribuição Geométrica]]:** Caso especial da binomial negativa com $r = 1$, modelando o número de fracassos até o **primeiro sucesso**.
 - **[[Probabilidade/Distribuições/Distribuição Binomial\|Distribuição Binomial]]:** Modela o número de sucessos em um número **fixo** de ensaios. A binomial negativa, por outro lado, fixa o número de sucessos e deixa variável o número de fracassos (ou tentativas).
