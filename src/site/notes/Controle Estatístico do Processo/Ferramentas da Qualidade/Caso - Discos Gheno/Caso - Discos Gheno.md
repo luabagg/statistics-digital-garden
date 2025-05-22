@@ -5,7 +5,7 @@
 
 
 
-- **[[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Caso - Discos Gheno\|Caso - Discos Gheno]]**
+- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Caso - Discos Gheno\|Caso - Discos Gheno]]
 	- **Fluxograma do Processo**
 		- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Diagrama de Causa e Efeito.excalidraw\|Diagrama de Causa e Efeito.excalidraw]]
 		- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Fluxograma do Processo/Fluxograma do Processo.excalidraw\|Fluxograma do Processo.excalidraw]]

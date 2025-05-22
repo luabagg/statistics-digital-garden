@@ -5,7 +5,7 @@
 
 
 
-- **[[Métodos Numéricos/Resolução de Sistemas Lineares/Resolução de Sistemas Lineares\|Resolução de Sistemas Lineares]]**
+- [[Métodos Numéricos/Resolução de Sistemas Lineares/Resolução de Sistemas Lineares\|Resolução de Sistemas Lineares]]
 	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Fatoração LU\|Fatoração LU]]
 	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Método de Eliminação de Gauss\|Método de Eliminação de Gauss]]
 	- [[Métodos Numéricos/Resolução de Sistemas Lineares/Método de Gauss-Jacobi\|Método de Gauss-Jacobi]]

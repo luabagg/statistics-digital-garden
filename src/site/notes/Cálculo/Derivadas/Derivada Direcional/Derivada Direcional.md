@@ -5,7 +5,7 @@
 
 
 
-- **[[Cálculo/Derivadas/Derivada Direcional/Derivada Direcional\|Derivada Direcional]]**
+- [[Cálculo/Derivadas/Derivada Direcional/Derivada Direcional\|Derivada Direcional]]
 	- [[Cálculo/Derivadas/Derivada Direcional/Taxa Máxima da Derivada Direcional\|Taxa Máxima da Derivada Direcional]]
 
 

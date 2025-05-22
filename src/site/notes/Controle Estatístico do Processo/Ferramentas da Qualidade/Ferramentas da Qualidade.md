@@ -4,8 +4,9 @@
 
 
 
-- **[[Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade\|Ferramentas da Qualidade]]**
-	- **[[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Caso - Discos Gheno\|Caso - Discos Gheno]]**
+
+- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade\|Ferramentas da Qualidade]]
+	- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Caso - Discos Gheno/Caso - Discos Gheno\|Caso - Discos Gheno]]
 
 
 

@@ -5,7 +5,7 @@
 
 
 
-- **[[Cálculo/Séries Infinitas/Séries Infinitas\|Séries Infinitas]]**
+- [[Cálculo/Séries Infinitas/Séries Infinitas\|Séries Infinitas]]
 	- [[Cálculo/Séries Infinitas/Convergência Absoluta\|Convergência Absoluta]]
 	- [[Cálculo/Séries Infinitas/Estimativa Para a Soma de uma Série\|Estimativa Para a Soma de uma Série]]
 	- [[Cálculo/Séries Infinitas/Sequências\|Sequências]]

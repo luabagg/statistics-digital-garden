@@ -4,11 +4,13 @@
 
 
 
-- **[[Probabilidade/Distribuições/Distribuições\|Distribuições]]**
+
+- [[Probabilidade/Distribuições/Distribuições\|Distribuições]]
 	- [[Probabilidade/Distribuições/Binômio de Newton\|Binômio de Newton]]
 	- [[Probabilidade/Distribuições/Distribuição Binomial Negativa\|Distribuição Binomial Negativa]]
 	- [[Probabilidade/Distribuições/Distribuição Binomial\|Distribuição Binomial]]
 	- [[Probabilidade/Distribuições/Distribuição de Bernoulli\|Distribuição de Bernoulli]]
+	- [[Probabilidade/Distribuições/Distribuição Exponencial\|Distribuição Exponencial]]
 	- [[Probabilidade/Distribuições/Distribuição Gama\|Distribuição Gama]]
 	- [[Probabilidade/Distribuições/Distribuição Geométrica\|Distribuição Geométrica]]
 	- [[Probabilidade/Distribuições/Distribuição Hipergeométrica\|Distribuição Hipergeométrica]]

@@ -32,8 +32,8 @@ $$
    - Exemplos comuns incluem o tempo entre eventos em processos de Poisson, duração de falhas em componentes eletrônicos e volumes de vendas.
 
 6. **Relação com Outras Distribuições**:
-   - A distribuição Gama é uma generalização da distribuição exponencial.
-   - Quando $k = 1$, a distribuição Gama se torna a distribuição exponencial.
+   - A distribuição Gama é uma generalização da [[Probabilidade/Distribuições/Distribuição Exponencial\|distribuição exponencial]].
+   - Quando $k = 1$, a distribuição Gama se torna a [[Probabilidade/Distribuições/Distribuição Exponencial\|distribuição exponencial]].
    - Para valores inteiros de $k$, a distribuição Gama pode ser expressa como a soma de $k$ variáveis exponenciais independentes.
 
 7. **Estimativa dos Parâmetros**:

@@ -4,13 +4,14 @@
 
 
 
-- **[[Controle Estatístico do Processo/Controle Estatístico do Processo\|Controle Estatístico do Processo]]**
+
+- [[Controle Estatístico do Processo/Controle Estatístico do Processo\|Controle Estatístico do Processo]]
 	- **Cartas de Controle**
 		- [[Controle Estatístico do Processo/Cartas de Controle/Média e Amplitude\|Média e Amplitude]]
 		- [[Controle Estatístico do Processo/Cartas de Controle/Média e Desvio Padrão\|Média e Desvio Padrão]]
 		- [[Controle Estatístico do Processo/Cartas de Controle/Proporção de Não-Conformes\|Proporção de Não-Conformes]]
 		- [[Controle Estatístico do Processo/Cartas de Controle/Valores Individuais e Amplitude Móvel\|Valores Individuais e Amplitude Móvel]]
-	- **[[Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade\|Ferramentas da Qualidade]]**
+	- [[Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade\|Ferramentas da Qualidade]]
 	- [[Controle Estatístico do Processo/O que é CEP\|O que é CEP]]
 
 

@@ -5,7 +5,7 @@
 
 
 
-- **[[Cálculo/Limites/Limites\|Limites]]**
+- [[Cálculo/Limites/Limites\|Limites]]
 	- [[Cálculo/Limites/Limites e Continuidade de Funções de 2 Variáveis\|Limites e Continuidade de Funções de 2 Variáveis]]
 	- [[Cálculo/Limites/Teorema do Confronto\|Teorema do Confronto]]
 

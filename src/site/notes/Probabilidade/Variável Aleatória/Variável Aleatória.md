@@ -5,7 +5,7 @@
 
 
 
-- **[[Probabilidade/Variável Aleatória/Variável Aleatória\|Variável Aleatória]]**
+- [[Probabilidade/Variável Aleatória/Variável Aleatória\|Variável Aleatória]]
 	- [[Probabilidade/Variável Aleatória/Espaço de Probabilidade Produzido por Variável Aleatória\|Espaço de Probabilidade Produzido por Variável Aleatória]]
 	- [[Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória\|Esperança de uma Variável Aleatória]]
 	- [[Probabilidade/Variável Aleatória/Funções de Variáveis Aleatórias\|Funções de Variáveis Aleatórias]]
