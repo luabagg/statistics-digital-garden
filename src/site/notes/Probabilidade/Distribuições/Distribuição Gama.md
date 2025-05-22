@@ -96,41 +96,34 @@ Os momentos da distribuição podem ser obtidos a partir da FGM. O $n$-ésimo mo
 
 1. **Esperança (Primeiro Momento)**:
    - A primeira derivada de $M_X(t)$ em $t = 0$ fornece a esperança da variável aleatória.
-   $$
-
- M_X'(t) = k \left(1 - \frac{t}{\theta}\right)^{-k-1} \cdot \frac{1}{\theta}
-
 $$
+M_X'(t) = k \left(1 - \frac{t}{\theta}\right)^{-k-1} \cdot \frac{1}{\theta}
+$$
+
    Avaliando em $t = 0$:
-   
+
 $$
-
- E(X) = M_X'(0) = k \cdot \frac{1}{\theta} = k \theta
-
+E(X) = M_X'(0) = k \cdot \frac{1}{\theta} = k \theta
 $$
 2. **Segundo Momento**:
    - A segunda derivada de $M_X(t)$ em $t = 0$ fornece o segundo momento.
-   
-$$
-
- M_X''(t) = k(k+1) \left(1 - \frac{t}{\theta}\right)^{-k-2} \cdot \frac{1}{\theta^2}
 
 $$
+M_X''(t) = k(k+1) \left(1 - \frac{t}{\theta}\right)^{-k-2} \cdot \frac{1}{\theta^2}
+$$
+
    Avaliando em $t = 0$:
-   
+
 $$
-
- E(X^2) = M_X''(0) + M_X'(0) = k(k+1) \cdot \frac{1}{\theta^2} + k \cdot \frac{1}{\theta} = k(k+1) \cdot \frac{1}{\theta^2} + k \cdot \frac{1}{\theta}
-
+E(X^2) = M_X''(0) + M_X'(0) = k(k+1) \cdot \frac{1}{\theta^2} + k \cdot \frac{1}{\theta} = k(k+1) \cdot \frac{1}{\theta^2} + k \cdot \frac{1}{\theta}
 $$
 3. **Desvio Padrão**:
-   - O desvio padrão é a raiz quadrada da variância, que pode ser calculada como $\sqrt{E(X^2) - (E(X))^2}$.
-   
-$$
-
- \sigma_X = \sqrt{k(k+1)\theta^2 / \theta^2 + k\theta - (k\theta)^2} = \sqrt{k\theta^2} = \sqrt{k}\theta
+  - O desvio padrão é a raiz quadrada da variância, que pode ser calculada como $\sqrt{E(X^2) - (E(X))^2}$.
 
 $$
+\sigma_X = \sqrt{k(k+1)\theta^2 / \theta^2 + k\theta - (k\theta)^2} = \sqrt{k\theta^2} = \sqrt{k}\theta
+$$
+
 ### Aplicações Práticas
 
 A FGM é útil em várias aplicações, incluindo:
@@ -141,20 +134,19 @@ A FGM é útil em várias aplicações, incluindo:
 ### Exemplo Prático
 
 Considere um exemplo onde a vida útil de componentes eletrônicos segue uma distribuição Gamma com parâmetros $k = 5$ e $\theta = 10$. A FGM é:
-$$
 
+$$
 M_X(t) = \left(1 - \frac{t}{10}\right)^{-5} \quad \text{para } t < 10
-
 $$
+
 A esperança (média) pode ser calculada como:
-$$
 
+$$
 E(X) = M_X'(0) = 5 \cdot \frac{1}{10} = 50
-
 $$
+
 O desvio padrão é:
+
 $$
-
 \sigma_X = \sqrt{k}\theta = \sqrt{5} \times 10 \approx 22.36
-
 $$
