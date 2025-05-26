@@ -5,7 +5,7 @@
 
 
 - **[[Métodos Numéricos/Métodos Numéricos\|Métodos Numéricos]]**
-	- **Ajuste de Curvas**
+	- **[[Métodos Numéricos/Ajuste de Curvas/Ajuste de Curvas\|Ajuste de Curvas]]**
 	- **[[Métodos Numéricos/Interpolação Polinimial/Interpolação Polinimial\|Interpolação Polinimial]]**
 	- **[[Métodos Numéricos/Resolução de Sistemas Lineares/Resolução de Sistemas Lineares\|Resolução de Sistemas Lineares]]**
 	- **[[Métodos Numéricos/Zeros de Funções/Zeros de Funções\|Zeros de Funções]]**

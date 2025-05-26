@@ -6,11 +6,7 @@
 
 - **[[Cálculo/Cálculo\|Cálculo]]**
 	- **[[Cálculo/Derivadas/Derivadas\|Derivadas]]**
-	- **Funções de Mais de uma Variável**
-		- [[Cálculo/Funções de Mais de uma Variável/Coordenadas Polares\|Coordenadas Polares]]
-		- [[Cálculo/Funções de Mais de uma Variável/Método dos Multiplicadores de Lagrange\|Método dos Multiplicadores de Lagrange]]
-		- [[Cálculo/Funções de Mais de uma Variável/Teorema de Clairaut\|Teorema de Clairaut]]
-		- [[Cálculo/Funções de Mais de uma Variável/Valores de Máximo e Mínimo\|Valores de Máximo e Mínimo]]
+	- **[[Cálculo/Funções de Mais de uma Variável/Funções de Mais de uma Variável\|Funções de Mais de uma Variável]]**
 	- **[[Cálculo/Integrais/Integrais\|Integrais]]**
 	- **[[Cálculo/Limites/Limites\|Limites]]**
 	- **[[Cálculo/Séries Infinitas/Séries Infinitas\|Séries Infinitas]]**
