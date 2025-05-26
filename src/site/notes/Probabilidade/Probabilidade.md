@@ -4,11 +4,12 @@
 
 
 
-- **[[Probabilidade/Probabilidade\|Probabilidade]]**
-	- **[[Probabilidade/Distribuições/Distribuições\|Distribuições]]**
+
+- [[Probabilidade/Probabilidade\|Probabilidade]]
+	- [[Probabilidade/Distribuições/Distribuições\|Distribuições]]
 	- [[Probabilidade/Leis de Morgan\|Leis de Morgan]]
 	- [[Probabilidade/Sigma-Álgebra de Borel\|Sigma-Álgebra de Borel]]
 	- [[Probabilidade/Sigma-Álgebra\|Sigma-Álgebra]]
-	- **[[Probabilidade/Variável Aleatória/Variável Aleatória\|Variável Aleatória]]**
+	- [[Probabilidade/Variável Aleatória/Variável Aleatória\|Variável Aleatória]]
 
 

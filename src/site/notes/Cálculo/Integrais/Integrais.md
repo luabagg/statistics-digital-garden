@@ -4,8 +4,8 @@
 
 
 
-
-- [[Cálculo/Integrais/Integrais\|Integrais]]
+- **[[Cálculo/Integrais/Integrais\|Integrais]]**
+	- [[Cálculo/Integrais/Integrais Duplas Sobre Regiões Gerais\|Integrais Duplas Sobre Regiões Gerais]]
 	- [[Cálculo/Integrais/Integrais Duplas\|Integrais Duplas]]
 	- [[Cálculo/Integrais/Soma de Riemann\|Soma de Riemann]]
 	- [[Cálculo/Integrais/Teorema de Fubini\|Teorema de Fubini]]
