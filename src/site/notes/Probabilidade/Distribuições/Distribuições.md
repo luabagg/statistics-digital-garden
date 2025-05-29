@@ -7,17 +7,8 @@
 
 - [[Probabilidade/Distribuições/Distribuições\|Distribuições]]
 	- [[Probabilidade/Distribuições/Binômio de Newton\|Binômio de Newton]]
-	- [[Probabilidade/Distribuições/Distribuição Binomial Negativa\|Distribuição Binomial Negativa]]
-	- [[Probabilidade/Distribuições/Distribuição Binomial\|Distribuição Binomial]]
-	- [[Probabilidade/Distribuições/Distribuição de Bernoulli\|Distribuição de Bernoulli]]
-	- [[Probabilidade/Distribuições/Distribuição Exponencial\|Distribuição Exponencial]]
-	- [[Probabilidade/Distribuições/Distribuição Gama\|Distribuição Gama]]
-	- [[Probabilidade/Distribuições/Distribuição Geométrica\|Distribuição Geométrica]]
-	- [[Probabilidade/Distribuições/Distribuição Hipergeométrica\|Distribuição Hipergeométrica]]
-	- [[Probabilidade/Distribuições/Distribuição Poisson\|Distribuição Poisson]]
-	- [[Probabilidade/Distribuições/Distribuição Uniforme\|Distribuição Uniforme]]
-	- [[Probabilidade/Distribuições/Distribuição Weibull\|Distribuição Weibull]]
+	- [[Probabilidade/Distribuições/Contínuas/Contínuas\|Contínuas]]
+	- [[Probabilidade/Distribuições/Discretas/Discretas\|Discretas]]
 	- [[Probabilidade/Distribuições/Esperança a Partir da Função Geradora de Momentos\|Esperança a Partir da Função Geradora de Momentos]]
-	- [[Probabilidade/Distribuições/Função Gama\|Função Gama]]
 
 
