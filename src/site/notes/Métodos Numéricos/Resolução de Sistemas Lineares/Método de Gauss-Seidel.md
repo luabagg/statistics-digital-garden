@@ -37,7 +37,9 @@ $$
 \|T\|\infty = \max{1 \leq i \leq n} \sum_{j=1}^{n} |t_{ij}|
 $$
 
-### Se $\|T\|_\infty < 1$, o Método Converge
+### Convergência
+
+Se $\|T\|_\infty < 1$, o Método Converge
 
 ---
 
