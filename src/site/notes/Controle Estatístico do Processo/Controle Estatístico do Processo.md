@@ -7,6 +7,7 @@
 - **[[Controle Estatístico do Processo/Controle Estatístico do Processo\|Controle Estatístico do Processo]]**
 	- **[[Controle Estatístico do Processo/Cartas de Controle/Cartas de Controle\|Cartas de Controle]]**
 	- **[[Controle Estatístico do Processo/Ferramentas da Qualidade/Ferramentas da Qualidade\|Ferramentas da Qualidade]]**
+	- **[[Controle Estatístico do Processo/Função Perda Quadrática/Função Perda Quadrática\|Função Perda Quadrática]]**
 	- [[Controle Estatístico do Processo/O que é CEP\|O que é CEP]]
 
 

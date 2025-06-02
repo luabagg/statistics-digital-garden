@@ -5,6 +5,7 @@
 
 
 - **[[Cálculo/Integrais/Integrais\|Integrais]]**
+	- [[Cálculo/Integrais/Integrais Duplas em Coordenadas Polares\|Integrais Duplas em Coordenadas Polares]]
 	- [[Cálculo/Integrais/Integrais Duplas Sobre Regiões Gerais\|Integrais Duplas Sobre Regiões Gerais]]
 	- [[Cálculo/Integrais/Integrais Duplas\|Integrais Duplas]]
 	- [[Cálculo/Integrais/Soma de Riemann\|Soma de Riemann]]
