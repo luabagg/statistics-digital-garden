@@ -87,9 +87,9 @@ $$
 
 Você **usa os** $\beta$**’s anteriores** conforme vai calculando. É uma espécie de “feedback” para estimar o quanto cada linha depende das outras.
 
-### Se $\max(\beta_1, \dots, \beta_n) < 1$, o Método Converge
+### Convergência
 
----
+Se $\max(\beta_1, \dots, \beta_n) < 1$, o Método Converge
 
 ### Exemplo (Critério de Sassenfeld)
 
