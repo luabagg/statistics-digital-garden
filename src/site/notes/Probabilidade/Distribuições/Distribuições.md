@@ -4,11 +4,11 @@
 
 
 
-
-- [[Probabilidade/Distribuições/Distribuições\|Distribuições]]
+- **[[Probabilidade/Distribuições/Distribuições\|Distribuições]]**
 	- [[Probabilidade/Distribuições/Binômio de Newton\|Binômio de Newton]]
-	- [[Probabilidade/Distribuições/Contínuas/Contínuas\|Contínuas]]
-	- [[Probabilidade/Distribuições/Discretas/Discretas\|Discretas]]
+	- **[[Probabilidade/Distribuições/Contínuas/Contínuas\|Contínuas]]**
+	- **[[Probabilidade/Distribuições/Discretas/Discretas\|Discretas]]**
 	- [[Probabilidade/Distribuições/Esperança a Partir da Função Geradora de Momentos\|Esperança a Partir da Função Geradora de Momentos]]
+	- [[Probabilidade/Distribuições/Função Característica\|Função Característica]]
 
 

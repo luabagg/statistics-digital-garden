@@ -5,9 +5,8 @@
 
 
 - **[[Cálculo/Integrais/Integrais\|Integrais]]**
-	- [[Cálculo/Integrais/Integrais Duplas em Coordenadas Polares\|Integrais Duplas em Coordenadas Polares]]
-	- [[Cálculo/Integrais/Integrais Duplas Sobre Regiões Gerais\|Integrais Duplas Sobre Regiões Gerais]]
-	- [[Cálculo/Integrais/Integrais Duplas\|Integrais Duplas]]
+	- **[[Cálculo/Integrais/Integrais Duplas/Integrais Duplas\|Integrais Duplas]]**
+	- **[[Cálculo/Integrais/Integrais Triplas/Integrais Triplas\|Integrais Triplas]]**
 	- [[Cálculo/Integrais/Soma de Riemann\|Soma de Riemann]]
 	- [[Cálculo/Integrais/Teorema de Fubini\|Teorema de Fubini]]
 
