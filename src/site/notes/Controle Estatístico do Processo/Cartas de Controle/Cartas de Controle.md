@@ -4,9 +4,10 @@
 
 
 
-
-- [[Controle Estatístico do Processo/Cartas de Controle/Cartas de Controle\|Cartas de Controle]]
+- **[[Controle Estatístico do Processo/Cartas de Controle/Cartas de Controle\|Cartas de Controle]]**
 	- [[Controle Estatístico do Processo/Cartas de Controle/Capacidade do Processo\|Capacidade do Processo]]
+	- **Gráfico de controle de VMAX para o monitoramento da matriz de covariâncias**
+
 	- [[Controle Estatístico do Processo/Cartas de Controle/Média e Amplitude\|Média e Amplitude]]
 	- [[Controle Estatístico do Processo/Cartas de Controle/Média e Desvio Padrão\|Média e Desvio Padrão]]
 	- [[Controle Estatístico do Processo/Cartas de Controle/Para Dados Autocorrelacionados\|Para Dados Autocorrelacionados]]

@@ -7,6 +7,7 @@
 - **[[Cálculo/Integrais/Integrais\|Integrais]]**
 	- **[[Cálculo/Integrais/Integrais Duplas/Integrais Duplas\|Integrais Duplas]]**
 	- **[[Cálculo/Integrais/Integrais Triplas/Integrais Triplas\|Integrais Triplas]]**
+	- [[Cálculo/Integrais/Integral por Partes\|Integral por Partes]]
 	- [[Cálculo/Integrais/Soma de Riemann\|Soma de Riemann]]
 	- [[Cálculo/Integrais/Teorema de Fubini\|Teorema de Fubini]]
 

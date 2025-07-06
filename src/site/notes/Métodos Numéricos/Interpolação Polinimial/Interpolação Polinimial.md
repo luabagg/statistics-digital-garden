@@ -5,6 +5,7 @@
 
 
 - **[[Métodos Numéricos/Interpolação Polinimial/Interpolação Polinimial\|Interpolação Polinimial]]**
+	- [[Métodos Numéricos/Interpolação Polinimial/Interpolação Polinimial pela Definição\|Interpolação Polinimial pela Definição]]
 	- [[Métodos Numéricos/Interpolação Polinimial/Polinômio de Lagrange\|Polinômio de Lagrange]]
 	- [[Métodos Numéricos/Interpolação Polinimial/Polinômio de Newton\|Polinômio de Newton]]
 	- [[Métodos Numéricos/Interpolação Polinimial/Teorema de Existência e Unicidade do Polinômio de Interpolação\|Teorema de Existência e Unicidade do Polinômio de Interpolação]]
