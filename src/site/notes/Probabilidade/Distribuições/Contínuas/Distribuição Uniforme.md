@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-uniforme/","created":"2025-06-12T10:39:53.291-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-uniforme/","dg-note-properties":{}}
 ---
 
 

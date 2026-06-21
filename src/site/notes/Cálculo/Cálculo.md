@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/calculo/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:39.089-03:00"}
+{"dg-publish":true,"permalink":"/calculo/calculo/","dgShowLocalGraph":true,"dg-note-properties":{}}
 ---
 
 
@@ -48,4 +48,4 @@ $$
 
 ### Teorema Fundamental Do Cálculo
 
-- **Conecta a integral e a derivada**: O [[Cálculo/Teorema Fundamental do Cálculo\|teorema fundamental do cálculo]] é crucial porque conecta as duas operações fundamentais do cálculo: a derivada e o integral. Isso permite que possamos usar técnicas de integração para resolver problemas envolvendo derivadas, e vice-versa.
+- **Conecta a integral e a derivada**: O [[Cálculo/Teorema Fundamental do Cálculo\|Teorema Fundamental do Cálculo]] é crucial porque conecta as duas operações fundamentais do cálculo: a derivada e o integral. Isso permite que possamos usar técnicas de integração para resolver problemas envolvendo derivadas, e vice-versa.

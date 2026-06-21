@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/coordenadas-esfericas/","created":"2025-06-16T09:47:55.395-03:00"}
+{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/coordenadas-esfericas/","dg-note-properties":{}}
 ---
 
 

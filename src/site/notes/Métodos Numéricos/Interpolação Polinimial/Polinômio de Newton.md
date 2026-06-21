@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/polinomio-de-newton/","created":"2025-06-17T04:52:21.706-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/polinomio-de-newton/","dg-note-properties":{}}
 ---
 
 

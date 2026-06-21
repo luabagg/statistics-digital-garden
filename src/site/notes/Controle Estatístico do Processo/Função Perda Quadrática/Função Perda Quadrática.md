@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/controle-estatistico-do-processo/funcao-perda-quadratica/funcao-perda-quadratica/","created":"2025-06-02T11:08:30.271-03:00"}
+{"dg-publish":true,"permalink":"/controle-estatistico-do-processo/funcao-perda-quadratica/funcao-perda-quadratica/","dg-note-properties":{}}
 ---
 
 

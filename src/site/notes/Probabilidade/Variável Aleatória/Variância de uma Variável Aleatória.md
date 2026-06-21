@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/variavel-aleatoria/variancia-de-uma-variavel-aleatoria/","created":"2025-05-20T13:30:13.857-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/variavel-aleatoria/variancia-de-uma-variavel-aleatoria/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/coordenadas-polares/","created":"2025-05-20T13:30:13.829-03:00"}
+{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/coordenadas-polares/","dg-note-properties":{}}
 ---
 
 

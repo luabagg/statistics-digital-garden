@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/metodo-da-falsa-posicao/","created":"2025-05-20T13:30:13.846-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/metodo-da-falsa-posicao/","dg-note-properties":{}}
 ---
 
 
@@ -122,4 +122,4 @@ if __name__ == "__main__":
 
 ## Arquivo Adicional
 
-![[Método Falsa Posição.pdf]]
+<iframe src="/img/user/M%C3%A9todos%20Num%C3%A9ricos/Zeros%20de%20Fun%C3%A7%C3%B5es/_attachments/M%C3%A9todo%20Falsa%20Posi%C3%A7%C3%A3o.pdf" width="100%" height="900px" title="Método Falsa Posição.pdf" style="border:1px solid #ccc;"></iframe>

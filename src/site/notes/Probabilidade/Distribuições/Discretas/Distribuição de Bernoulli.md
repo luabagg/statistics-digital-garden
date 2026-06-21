@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/discretas/distribuicao-de-bernoulli/","created":"2025-04-22T09:28:05.136-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/discretas/distribuicao-de-bernoulli/","dg-note-properties":{}}
 ---
 
 

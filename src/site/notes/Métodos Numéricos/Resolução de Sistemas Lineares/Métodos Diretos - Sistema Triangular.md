@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/metodos-diretos-sistema-triangular/","created":"2025-05-20T13:30:13.844-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/metodos-diretos-sistema-triangular/","dg-note-properties":{}}
 ---
 
 

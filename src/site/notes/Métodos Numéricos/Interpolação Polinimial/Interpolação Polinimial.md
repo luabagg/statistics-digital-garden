@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/interpolacao-polinimial/","created":"2025-05-23T11:17:59.241-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/interpolacao-polinimial/","dg-note-properties":{}}
 ---
 
 

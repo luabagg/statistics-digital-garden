@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-normal/","created":"2025-05-29T10:54:33.676-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-normal/","dg-note-properties":{}}
 ---
 
 A **distribuição normal** (também conhecida como distribuição gaussiana) é uma das distribuições de probabilidade mais importantes e amplamente utilizadas na estatística. Ela descreve a distribuição de frequência de um grande número de fenômenos naturais e sociais que são influenciados por muitas variáveis independentes.

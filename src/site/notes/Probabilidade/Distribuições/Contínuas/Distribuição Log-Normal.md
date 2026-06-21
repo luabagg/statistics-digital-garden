@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-log-normal/","created":"2025-05-29T11:29:22.830-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-log-normal/","dg-note-properties":{}}
 ---
 
 Seja $X \sim N(\mu, \sigma^2)$. Considere uma nova variável aleatória $Y = e^X$, dizemos que $Y$ tem distribuição log-normal com parâmetros $m$ (o valor médio do logaritmo de $Y$) e $r$ (a desvio padrão do logaritmo de $Y$), onde $\sigma > 0$. A notação para essa distribuição é $Y \sim \text{Log-Normal}(m, r^2)$.

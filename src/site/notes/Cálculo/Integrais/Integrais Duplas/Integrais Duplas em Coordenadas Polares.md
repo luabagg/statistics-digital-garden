@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/integrais/integrais-duplas/integrais-duplas-em-coordenadas-polares/","created":"2025-06-02T09:11:19.490-03:00"}
+{"dg-publish":true,"permalink":"/calculo/integrais/integrais-duplas/integrais-duplas-em-coordenadas-polares/","dg-note-properties":{}}
 ---
 
 

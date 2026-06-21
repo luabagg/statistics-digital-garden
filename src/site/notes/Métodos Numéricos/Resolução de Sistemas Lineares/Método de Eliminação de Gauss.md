@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/metodo-de-eliminacao-de-gauss/","created":"2025-05-20T13:30:13.842-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/resolucao-de-sistemas-lineares/metodo-de-eliminacao-de-gauss/","dg-note-properties":{}}
 ---
 
 
@@ -204,4 +204,4 @@ if __name__ == "__main__":
 
 ## Extra
 
-![[Escalonamento.pdf]]
+<iframe src="/img/user/M%C3%A9todos%20Num%C3%A9ricos/Resolu%C3%A7%C3%A3o%20de%20Sistemas%20Lineares/_attachments/Escalonamento.pdf" width="100%" height="900px" title="Escalonamento.pdf" style="border:1px solid #ccc;"></iframe>

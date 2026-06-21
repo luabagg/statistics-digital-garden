@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/continuas/","created":"2025-05-29T10:53:35.157-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/continuas/","dg-note-properties":{}}
 ---
 
 

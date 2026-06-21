@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/teorema-de-existencia-e-unicidade-do-polinomio-de-interpolacao/","created":"2025-05-23T11:15:07.293-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/teorema-de-existencia-e-unicidade-do-polinomio-de-interpolacao/","dg-note-properties":{}}
 ---
 
 

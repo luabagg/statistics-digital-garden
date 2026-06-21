@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/coordenadas-cilindricas/","created":"2025-06-13T09:28:18.438-03:00"}
+{"dg-publish":true,"permalink":"/calculo/funcoes-de-mais-de-uma-variavel/coordenadas-cilindricas/","dg-note-properties":{}}
 ---
 
 

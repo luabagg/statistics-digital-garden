@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/discretas/distribuicao-binomial-negativa/","created":"2025-05-22T11:46:38.647-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/discretas/distribuicao-binomial-negativa/","dg-note-properties":{}}
 ---
 
 

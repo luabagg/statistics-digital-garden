@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/densidade-de-probabilidade/","created":"2025-05-29T11:29:08.754-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/densidade-de-probabilidade/","dg-note-properties":{}}
 ---
 
 

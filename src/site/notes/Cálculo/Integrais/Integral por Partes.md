@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/integrais/integral-por-partes/","created":"2025-06-17T05:36:29.362-03:00"}
+{"dg-publish":true,"permalink":"/calculo/integrais/integral-por-partes/","dg-note-properties":{}}
 ---
 
 A integral por partes é uma técnica utilizada para resolver integrais difíceis de calcular diretamente. Ela se baseia na regra do produto da derivada e é fundamental em muitas áreas da matemática.

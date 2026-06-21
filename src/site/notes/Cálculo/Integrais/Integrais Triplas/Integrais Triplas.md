@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/integrais/integrais-triplas/integrais-triplas/","created":"2025-06-11T09:09:00.772-03:00"}
+{"dg-publish":true,"permalink":"/calculo/integrais/integrais-triplas/integrais-triplas/","dg-note-properties":{}}
 ---
 
 

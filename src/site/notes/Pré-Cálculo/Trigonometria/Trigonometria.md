@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pre-calculo/trigonometria/trigonometria/","created":"2025-06-02T11:08:48.601-03:00"}
+{"dg-publish":true,"permalink":"/pre-calculo/trigonometria/trigonometria/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/ajuste-de-curvas/minimos-quadrados/","created":"2025-06-02T11:04:39.399-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/ajuste-de-curvas/minimos-quadrados/","dg-note-properties":{}}
 ---
 
 
@@ -238,4 +238,4 @@ Esse sistema pode ser resolvido por métodos diretos (eliminação de Gauss, dec
 
 ## Arquivo Extra
 
-![[Ajuste de Curvas - Quadrados Mínimos.pdf]]
+<iframe src="/img/user/M%C3%A9todos%20Num%C3%A9ricos/Ajuste%20de%20Curvas/_attachments/Ajuste%20de%20Curvas%20-%20Quadrados%20M%C3%ADnimos.pdf" width="100%" height="900px" title="Ajuste de Curvas - Quadrados Mínimos.pdf" style="border:1px solid #ccc;"></iframe>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/zeros-de-funcoes/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.848-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/zeros-de-funcoes/","dgShowLocalGraph":true,"dg-note-properties":{}}
 ---
 
 

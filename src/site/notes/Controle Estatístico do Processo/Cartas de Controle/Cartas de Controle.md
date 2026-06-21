@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/controle-estatistico-do-processo/cartas-de-controle/cartas-de-controle/","created":"2025-05-26T11:01:40.751-03:00"}
+{"dg-publish":true,"permalink":"/controle-estatistico-do-processo/cartas-de-controle/cartas-de-controle/","dg-note-properties":{}}
 ---
 
 

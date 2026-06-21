@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/discretas/discretas/","created":"2025-05-29T10:53:36.182-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/discretas/discretas/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/polinomio-de-lagrange/","created":"2025-06-17T04:49:48.849-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/interpolacao-polinimial/polinomio-de-lagrange/","dg-note-properties":{}}
 ---
 
 

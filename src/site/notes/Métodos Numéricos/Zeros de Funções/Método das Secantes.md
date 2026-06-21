@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/metodo-das-secantes/","created":"2025-05-20T13:30:13.847-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/metodo-das-secantes/","dg-note-properties":{}}
 ---
 
 
@@ -123,4 +123,4 @@ if __name__ == "__main__":
 
 ## Arquivo Adicional
 
-![[Método Secantes.pdf]]
+<iframe src="/img/user/M%C3%A9todos%20Num%C3%A9ricos/Zeros%20de%20Fun%C3%A7%C3%B5es/_attachments/M%C3%A9todo%20Secantes.pdf" width="100%" height="900px" title="Método Secantes.pdf" style="border:1px solid #ccc;"></iframe>

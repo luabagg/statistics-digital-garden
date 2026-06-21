@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-weibull/","created":"2025-05-22T11:30:50.256-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-weibull/","dg-note-properties":{}}
 ---
 
 

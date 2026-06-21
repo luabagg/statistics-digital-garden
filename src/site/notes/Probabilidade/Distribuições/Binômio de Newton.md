@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/binomio-de-newton/","created":"2025-04-22T08:53:47.223-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/binomio-de-newton/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/series-infinitas/serie-binomial/","created":"2025-05-20T13:30:13.833-03:00"}
+{"dg-publish":true,"permalink":"/calculo/series-infinitas/serie-binomial/","dg-note-properties":{}}
 ---
 
 

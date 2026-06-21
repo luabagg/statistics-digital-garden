@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/funcao-de-distribuicao-acumulada/","created":"2025-05-29T11:11:07.408-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/funcao-de-distribuicao-acumulada/","dg-note-properties":{}}
 ---
 
 A função de distribuição acumulada (CDF) para variáveis contínuas, como a normal, é uma ferramenta fundamental em estatística que permite determinar a probabilidade de uma variável aleatória contínua assumir valores menores ou iguais a um valor específico.

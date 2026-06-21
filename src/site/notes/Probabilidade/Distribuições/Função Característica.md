@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/funcao-caracteristica/","created":"2025-06-05T11:07:53.396-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/funcao-caracteristica/","dg-note-properties":{}}
 ---
 
 

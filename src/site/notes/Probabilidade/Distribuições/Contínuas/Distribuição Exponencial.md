@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-exponencial/","created":"2025-05-22T11:16:18.380-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-exponencial/","dg-note-properties":{}}
 ---
 
 

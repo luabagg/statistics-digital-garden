@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/variavel-aleatoria/variavel-aleatoria/","dgShowLocalGraph":true,"created":"2025-05-20T13:30:13.856-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/variavel-aleatoria/variavel-aleatoria/","dgShowLocalGraph":true,"dg-note-properties":{}}
 ---
 
 

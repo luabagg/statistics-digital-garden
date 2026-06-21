@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/integracao-numerica/regra-de-simpson-tres-oitavos/","created":"2025-06-22T02:35:13.695-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/integracao-numerica/regra-de-simpson-tres-oitavos/","dg-note-properties":{}}
 ---
 
 ## Regra de Simpson de Três Oitavos

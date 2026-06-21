@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/integracao-numerica/regra-dos-trapezios/","created":"2025-06-03T11:35:49.901-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/integracao-numerica/regra-dos-trapezios/","dg-note-properties":{}}
 ---
 
 
@@ -86,4 +86,4 @@ Essa implementação calcula a área aproximada sob a curva $y = x^2$ no interva
 
 ## Arquivo Adicional
 
-![[Regra dos Trapézios.pdf]]
+<iframe src="/img/user/M%C3%A9todos%20Num%C3%A9ricos/Integra%C3%A7%C3%A3o%20Num%C3%A9rica/_attachments/Regra%20dos%20Trap%C3%A9zios.pdf" width="100%" height="900px" title="Regra dos Trapézios.pdf" style="border:1px solid #ccc;"></iframe>

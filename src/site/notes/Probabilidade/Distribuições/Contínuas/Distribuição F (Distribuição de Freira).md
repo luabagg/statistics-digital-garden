@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-f-distribuicao-de-freira/","created":"2025-06-05T10:35:30.591-03:00"}
+{"dg-publish":true,"permalink":"/probabilidade/distribuicoes/continuas/distribuicao-f-distribuicao-de-freira/","dg-note-properties":{}}
 ---
 
 A distribuição F é uma distribuição de probabilidade contínua usada em estatística para testar hipóteses sobre as variâncias ou os parâmetros de distribuições normais. Ela é nomeada em homenagem ao matemático Ronald Fisher, que a introduziu.

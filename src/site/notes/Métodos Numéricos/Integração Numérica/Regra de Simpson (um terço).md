@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/integracao-numerica/regra-de-simpson-um-terco/","created":"2025-06-22T02:34:53.463-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/integracao-numerica/regra-de-simpson-um-terco/","dg-note-properties":{}}
 ---
 
 A regra de Simpson de um terço é uma técnica numérica utilizada para aproximar integrais. Ela é baseada na ideia de dividir o intervalo de integração em três partes iguais e usar uma combinação de pontos finais e médios para calcular a integral.

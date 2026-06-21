@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculo/integrais/soma-de-riemann/","created":"2025-05-21T07:58:46.060-03:00"}
+{"dg-publish":true,"permalink":"/calculo/integrais/soma-de-riemann/","dg-note-properties":{}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 A **soma de Riemann** é um método fundamental na teoria da integral, utilizado para aproximar a área sob uma curva. É especialmente útil em cálculo multivariável.
 
-![](/img/user/Cálculo/Integrais/_attachments/soma-de-riemann.webp)
+![](/img/user/C%C3%A1lculo/Integrais/_attachments/soma-de-riemann.webp)
 
 ### Definição e Intuição
 

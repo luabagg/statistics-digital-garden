@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/metodo-grafico/","created":"2025-05-20T13:30:13.846-03:00"}
+{"dg-publish":true,"permalink":"/metodos-numericos/zeros-de-funcoes/metodo-grafico/","dg-note-properties":{}}
 ---
 
 
@@ -131,7 +131,7 @@ if __name__ == "__main__":
 ```
 
 **Saída**:
-[[Resultado método gráfico.webp]]
+[Resultado método gráfico.webp](/img/user/M%C3%A9todos%20Num%C3%A9ricos/Zeros%20de%20Fun%C3%A7%C3%B5es/_attachments/Resultado%20m%C3%A9todo%20gr%C3%A1fico.webp)
 ![Resultado método gráfico.webp](/img/user/M%C3%A9todos%20Num%C3%A9ricos/Zeros%20de%20Fun%C3%A7%C3%B5es/_attachments/Resultado%20m%C3%A9todo%20gr%C3%A1fico.webp)
 
 ### Limitações
