@@ -1,57 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{}}
 ---
 
 
-## Intro
+# Statistics Learning Center
 
-📊 This Obsidian vault stores statistics studies (in portuguese - Brazil). It includes key concepts, formulas, practical examples, and insights. The notes are structured and interconnected to make learning and review easier.
+This Obsidian vault is being migrated into a concise English learning center for statistics, probability, calculus, linear algebra, numerical methods, and statistical process control.
 
-## Table Of Contents
+## Start Here
 
-- [[Cálculo/Cálculo\|Cálculo]]
-- [[Controle Estatístico do Processo/Controle Estatístico do Processo\|Controle Estatístico do Processo]]
-- [[Métodos Numéricos/Métodos Numéricos\|Métodos Numéricos]]
-- [[Probabilidade/Probabilidade\|Probabilidade]]
+- [[LEARNING_PATHS\|LEARNING_PATHS]] gives recommended reading orders.
+- [[CONTRIBUTING\|CONTRIBUTING]] defines the note contract, reference format, hub-note rules, and video rule.
+- [[Templates/Template Index\|Template Index]] maps topic areas to note templates.
 
-## Utils
+## Main Hubs
 
-To input mathematical expressions in Obsidian, you can use LaTeX notation enclosed in `$$`. For instance:
+- [[Calculus/Calculus\|Calculus]]
+- [[Statistical Process Control/Statistical Process Control\|Statistical Process Control]]
+- [[Numerical Methods/Numerical Methods\|Numerical Methods]]
+- [[Probability/Probability\|Probability]]
+- [[Linear Algebra/Linear Algebra\|Linear Algebra]]
+- [[Analytic Geometry/Analytic Geometry\|Analytic Geometry]]
 
-- To write a simple equation like $E = mc^2$, type: `$E = mc^2$`.
-- For more complex equations such as the Schrödinger equation:
-	$\frac{\partial}{\partial t}\Psi(\mathbf{r},t)=-\frac{\hbar}{2m}\nabla^{2}\Psi(\mathbf{r},t)+V(\mathbf{r},t)\Psi(\mathbf{r},t)$, type:
+## Validation
 
-```math
-$
-\frac{\partial}{\partial t}\Psi(\mathbf{r},t)=-\frac{\hbar}{2m}\nabla^{2}\Psi(\mathbf{r},t)+V(\mathbf{r},t)\Psi(\mathbf{r},t)
-$
+Run the vault validator before committing migration work:
+
+```bash
+python scripts/validate_vault.py
 ```
 
-For more info check [[Exemplos Latex (MathJax)\|Exemplos Latex (MathJax)]]
+The current migration keeps historical paths so existing wikilinks remain stable. Finished notes should use English prose, explicit prerequisites, meaningful connections, and Markdown footnote references.[^openstax-statistics]
 
-## Want To Contribute?
-
-### Fork The Repository
-
-1. Go to the [GitHub](https://github.com/luabagg/obsidian-statistics-vault) repository.  
-2. Click **"Fork"** in the top-right corner.  
-3. If prompted, verify your email.  
-4. GitHub creates a copy under your account with a new URL.  
-
-### Open a Pull Request
-
-1. Navigate to your forked repository.  
-2. Click **"Compare & pull request"** on the repository page.  
-3. Fill in the form:
-	- **Title:** Clear and concise.
-	- **Description:** Explain your changes.
-	- **Branch:** Choose the target branch (`main`).
-4. Review the comparison and click **"Create pull request."**
-
-### Best Practices
-
-- **Follow repository guidelines** for PRs.  
-- **Communicate** with maintainers if needed.  
-- **Address feedback** and resolve merge conflicts.
-- **Lint your changes** with the obsidian plugin.
+[^openstax-statistics]: OpenStax, *Introductory Statistics*, https://openstax.org/details/books/introductory-statistics
