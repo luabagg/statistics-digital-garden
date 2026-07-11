@@ -13,7 +13,7 @@ Bernoulli distribution models a success/failure trial coded with $1$ for success
 
 ## Prerequisites
 
-- [[Variável Aleatória Discreta\|Discrete Random Variable]]
+- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
 
 ## Definition
 
@@ -60,9 +60,9 @@ $$P(X=1)=0.7, \qquad E[X]=0.7, \qquad \operatorname{Var}(X)=0.21.$$
 
 ## Connections
 
-- [[Distribuição Binomial\|Binomial Distribution]]
-- [[Distribuição Geométrica\|Geometric Distribution]]
-- [[Esperança a Partir da Função Geradora de Momentos\|Expectation from an MGF]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
+- [[Probability/Distributions/Discrete/Geometric Distribution\|Geometric Distribution]]
+- [[Probability/Distributions/Expectation from the MGF\|Expectation from an MGF]]
 
 ## References
 

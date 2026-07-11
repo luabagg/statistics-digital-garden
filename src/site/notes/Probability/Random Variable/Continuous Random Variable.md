@@ -13,8 +13,8 @@ One continuous random variable is commonly represented by a probability density 
 
 ## Prerequisites
 
-- [[Variável Aleatória\|Random Variable]]
-- [[Densidade de Probabilidade\|Probability Density Function]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
+- [[Probability/Distributions/Continuous/Probability Density\|Probability Density Function]]
 
 ## Notation and Assumptions
 
@@ -39,9 +39,9 @@ If $X\sim\operatorname{Uniform}(0,1)$, then $P(0.2<X<0.5)=\int_{0.2}^{0.5}1\,dx=
 
 ## Connections
 
-- [[Densidade de Probabilidade\|Probability Density Function]]
-- [[Função de Distribuição Acumulada\|Cumulative Distribution Function]]
-- [[Distribuição Normal\|Normal Distribution]]
+- [[Probability/Distributions/Continuous/Probability Density\|Probability Density Function]]
+- [[Probability/Distributions/Continuous/Cumulative Distribution Function\|Cumulative Distribution Function]]
+- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
 
 ## References
 

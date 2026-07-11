@@ -11,10 +11,10 @@ A confidence interval gives a range of plausible values for a population paramet
 
 ## Prerequisites
 
-- [[Inferência Estatística/Estimação Pontual\|Point Estimation]]
-- [[Probabilidade/Teorema Central do Limite\|Central Limit Theorem]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Normal\|Normal Distribution]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição T-Student\|t-Distribution]]
+- [[Statistical Inference/Point Estimation\|Point Estimation]]
+- [[Probability/Central Limit Theorem\|Central Limit Theorem]]
+- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
+- [[Probability/Distributions/Continuous/Student t Distribution\|t-Distribution]]
 
 ## Definition / Notation
 
@@ -70,9 +70,9 @@ The interval is $(45.87,\,54.13)$.
 
 ## Connections
 
-- [[Inferência Estatística/Teste de Hipóteses\|Hypothesis Testing]]
-- [[Inferência Estatística/Máxima Verossimilhança\|Maximum Likelihood]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Normal\|Normal Distribution]]
+- [[Statistical Inference/Hypothesis Testing\|Hypothesis Testing]]
+- [[Statistical Inference/Maximum Likelihood\|Maximum Likelihood]]
+- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
 
 ## References
 

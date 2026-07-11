@@ -13,8 +13,8 @@ One random variable transfers probability from the original sample space to the 
 
 ## Prerequisites
 
-- [[Variável Aleatória\|Random Variable]]
-- [[Sigma-Álgebra De Borel\|Borel Sigma-Algebra]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
+- [[Probability/Borel Sigma-Algebra\|Borel Sigma-Algebra]]
 
 ## Notation and Assumptions
 
@@ -37,9 +37,9 @@ If $X$ counts heads in two fair flips, then $P_X(\{1\})=P(\{HT,TH\})=1/2$.
 
 ## Connections
 
-- [[Variável Aleatória\|Random Variable]]
-- [[Função de Distribuição Acumulada\|Cumulative Distribution Function]]
-- [[Distribuições\|Distributions]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
+- [[Probability/Distributions/Continuous/Cumulative Distribution Function\|Cumulative Distribution Function]]
+- [[Probability/Distributions/Distributions\|Distributions]]
 
 ## References
 

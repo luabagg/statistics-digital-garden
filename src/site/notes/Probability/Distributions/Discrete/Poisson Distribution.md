@@ -13,7 +13,7 @@ The Poisson distribution models counts of events in a fixed interval when events
 
 ## Prerequisites
 
-- [[Variável Aleatória Discreta\|Discrete Random Variable]]
+- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
 
 ## Definition
 
@@ -62,9 +62,9 @@ If defects average $4$ per hour, $P(X=3)=e^{-4}4^3/3!\approx0.1954$.
 
 ## Connections
 
-- [[Distribuição Exponencial\|Exponential Distribution]]
-- [[Distribuição Binomial\|Binomial Distribution]]
-- [[Distribuições\|Distributions]]
+- [[Probability/Distributions/Continuous/Exponential Distribution\|Exponential Distribution]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
+- [[Probability/Distributions/Distributions\|Distributions]]
 
 ## References
 

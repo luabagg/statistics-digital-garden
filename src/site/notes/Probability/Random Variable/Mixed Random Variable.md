@@ -13,9 +13,9 @@ Mixed random variable has both point masses and continuous component. Its distri
 
 ## Prerequisites
 
-- [[Variável Aleatória\|Random Variable]]
-- [[Variável Aleatória Discreta\|Discrete Random Variable]]
-- [[Variável Aleatória Contínua\|Continuous Random Variable]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
+- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
+- [[Probability/Random Variable/Continuous Random Variable\|Continuous Random Variable]]
 
 ## Notation and Assumptions
 
@@ -36,9 +36,9 @@ Let $P(X=0)=0.3$ and, conditional on not being zero, $X$ be uniform on $(0,1)$ w
 
 ## Connections
 
-- [[Função de Distribuição Acumulada\|Cumulative Distribution Function]]
-- [[Esperança de uma Variável Aleatória\|Expected Value]]
-- [[Densidade de Probabilidade\|Probability Density Function]]
+- [[Probability/Distributions/Continuous/Cumulative Distribution Function\|Cumulative Distribution Function]]
+- [[Probability/Random Variable/Expectation of a Random Variable\|Expected Value]]
+- [[Probability/Distributions/Continuous/Probability Density\|Probability Density Function]]
 
 ## References
 

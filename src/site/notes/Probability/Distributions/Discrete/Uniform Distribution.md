@@ -13,7 +13,7 @@ One discrete uniform distribution assigns equal probability to each value in a f
 
 ## Prerequisites
 
-- [[Variável Aleatória Discreta\|Discrete Random Variable]]
+- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
 
 ## Definition
 
@@ -58,9 +58,9 @@ One fair six-sided die has $P(X=k)=1/6$ for $k=1,\ldots,6$.
 
 ## Connections
 
-- [[Distribuição Binomial\|Binomial Distribution]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Uniforme\|Continuous Uniform Distribution]]
-- [[Discretas\|Discrete Distributions]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
+- [[Probability/Distributions/Continuous/Uniform Distribution\|Continuous Uniform Distribution]]
+- [[Probability/Distributions/Discrete/Discrete\|Discrete Distributions]]
 
 ## References
 

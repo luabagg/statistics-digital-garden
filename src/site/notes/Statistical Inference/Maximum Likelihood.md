@@ -11,10 +11,10 @@ Maximum likelihood estimation chooses the parameter value that makes the observe
 
 ## Prerequisites
 
-- [[Inferência Estatística/Estimação Pontual\|Point Estimation]]
-- [[Probabilidade/Probabilidade\|Probability]]
-- [[Probabilidade/Distribuições/Discretas/Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Normal\|Normal Distribution]]
+- [[Statistical Inference/Point Estimation\|Point Estimation]]
+- [[Probability/Probability\|Probability]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
 
 ## Definition / Notation
 
@@ -72,9 +72,9 @@ Setting $\ell'(p)=7/p-13/(1-p)=0$ yields $\hat{p}=7/20=0.35$. The second derivat
 
 ## Connections
 
-- [[Inferência Estatística/Estimação Pontual\|Point Estimation]]
-- [[Inferência Estatística/Intervalos de Confiança\|Confidence Intervals]]
-- [[Probabilidade/Teorema Central do Limite\|Central Limit Theorem]]
+- [[Statistical Inference/Point Estimation\|Point Estimation]]
+- [[Statistical Inference/Confidence Intervals\|Confidence Intervals]]
+- [[Probability/Central Limit Theorem\|Central Limit Theorem]]
 
 ## References
 

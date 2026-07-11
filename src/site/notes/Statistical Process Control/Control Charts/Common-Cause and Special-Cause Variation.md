@@ -40,10 +40,10 @@ That special-cause signal should trigger the out-of-control action plan.
 
 | Related note | Use |
 |---|---|
-| [[Cartas de Controle\|Control charts]] | Signal detection |
+| [[Statistical Process Control/Control Charts/Control Charts\|Control charts]] | Signal detection |
 | [[Statistical Process Control/Control Charts/Control Limits and Specification Limits\|Control Limits and Specification Limits]] | Limit distinction |
-| [[Ferramentas da Qualidade\|Quality tools]] | Cause investigation |
-| [[Capacidade do Processo\|Process capability]] | Stable-process capability |
+| [[Statistical Process Control/Quality Tools/Quality Tools\|Quality tools]] | Cause investigation |
+| [[Statistical Process Control/Control Charts/Process Capability\|Process capability]] | Stable-process capability |
 
 ## References
 

@@ -11,11 +11,11 @@ Point estimation uses a sample statistic to infer the value of an unknown popula
 
 ## Prerequisites
 
-- [[Probabilidade/Probabilidade\|Probability]]
-- [[Probabilidade/Variável Aleatória/Variável Aleatória\|Random Variable]]
-- [[Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória\|Expectation]]
-- [[Probabilidade/Variável Aleatória/Variância de uma Variável Aleatória\|Variance]]
-- [[Probabilidade/Lei dos Grandes Números\|Law of Large Numbers]]
+- [[Probability/Probability\|Probability]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
+- [[Probability/Random Variable/Expectation of a Random Variable\|Expectation]]
+- [[Probability/Random Variable/Variance of a Random Variable\|Variance]]
+- [[Probability/Law of Large Numbers\|Law of Large Numbers]]
 
 ## Definition / Notation
 
@@ -76,10 +76,10 @@ so $\hat{p}$ is also consistent.
 
 ## Connections
 
-- [[Inferência Estatística/Máxima Verossimilhança\|Maximum Likelihood]]
-- [[Inferência Estatística/Intervalos de Confiança\|Confidence Intervals]]
-- [[Probabilidade/Teorema Central do Limite\|Central Limit Theorem]]
-- [[Probabilidade/Lei dos Grandes Números\|Law of Large Numbers]]
+- [[Statistical Inference/Maximum Likelihood\|Maximum Likelihood]]
+- [[Statistical Inference/Confidence Intervals\|Confidence Intervals]]
+- [[Probability/Central Limit Theorem\|Central Limit Theorem]]
+- [[Probability/Law of Large Numbers\|Law of Large Numbers]]
 
 ## References
 

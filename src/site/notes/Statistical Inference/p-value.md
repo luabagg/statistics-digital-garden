@@ -11,9 +11,9 @@ The p-value is the probability, computed under the assumption that the null hypo
 
 ## Prerequisites
 
-- [[Inferência Estatística/Teste de Hipóteses\|Hypothesis Testing]]
-- [[Inferência Estatística/Estimação Pontual\|Point Estimation]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Normal\|Normal Distribution]]
+- [[Statistical Inference/Hypothesis Testing\|Hypothesis Testing]]
+- [[Statistical Inference/Point Estimation\|Point Estimation]]
+- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
 
 ## Definition / Notation
 
@@ -65,9 +65,9 @@ Since $0.0456<0.05$, we would reject $H_0$ at the 5% significance level.
 
 ## Connections
 
-- [[Inferência Estatística/Teste de Hipóteses\|Hypothesis Testing]]
-- [[Inferência Estatística/Erros Tipo I e II\|Type I and Type II Errors]]
-- [[Inferência Estatística/Intervalos de Confiança\|Confidence Intervals]]
+- [[Statistical Inference/Hypothesis Testing\|Hypothesis Testing]]
+- [[Statistical Inference/Type I and Type II Errors\|Type I and Type II Errors]]
+- [[Statistical Inference/Confidence Intervals\|Confidence Intervals]]
 
 ## References
 

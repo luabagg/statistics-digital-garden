@@ -11,9 +11,9 @@ Every hypothesis test can make two kinds of errors. A Type I error rejects a tru
 
 ## Prerequisites
 
-- [[Inferência Estatística/Teste de Hipóteses\|Hypothesis Testing]]
-- [[Inferência Estatística/p-valor\|p-values]]
-- [[Probabilidade/Probabilidade\|Probability]]
+- [[Statistical Inference/Hypothesis Testing\|Hypothesis Testing]]
+- [[Statistical Inference/p-value\|p-values]]
+- [[Probability/Probability\|Probability]]
 
 ## Definition / Notation
 
@@ -63,9 +63,9 @@ The power is $1-\beta\approx 0.805$.
 
 ## Connections
 
-- [[Inferência Estatística/Teste de Hipóteses\|Hypothesis Testing]]
-- [[Inferência Estatística/p-valor\|p-values]]
-- [[Inferência Estatística/Intervalos de Confiança\|Confidence Intervals]]
+- [[Statistical Inference/Hypothesis Testing\|Hypothesis Testing]]
+- [[Statistical Inference/p-value\|p-values]]
+- [[Statistical Inference/Confidence Intervals\|Confidence Intervals]]
 
 ## References
 

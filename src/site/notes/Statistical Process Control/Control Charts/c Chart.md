@@ -18,7 +18,7 @@ Use a c chart when the opportunity for defects is essentially constant from samp
 
 ## Definition
 
-The plotted value \(c_i\) is the count of nonconformities in inspection unit \(i\). A unit can have more than one nonconformity.
+The plotted value $c_i$ is the count of nonconformities in inspection unit $i$. A unit can have more than one nonconformity.
 
 ## Assumptions / Requirements
 
@@ -31,8 +31,8 @@ The plotted value \(c_i\) is the count of nonconformities in inspection unit \(i
 
 | Symbol | Meaning |
 |---|---|
-| \(c_i\) | Defects in inspection unit \(i\) |
-| \(\bar{c}\) | Average defect count per inspection unit |
+| $c_i$ | Defects in inspection unit $i$ |
+| $\bar{c}$ | Average defect count per inspection unit |
 
 ## Control Limits / Formula
 
@@ -56,7 +56,7 @@ $$
 
 ## Worked Example
 
-Five equal-area panels have defect counts \(3,5,2,4,6\). Then \(\bar{c}=4\).
+Five equal-area panels have defect counts $3,5,2,4,6$. Then $\bar{c}=4$.
 
 $$
 UCL=4+3\sqrt{4}=10
@@ -79,10 +79,10 @@ All five counts are inside the limits.
 
 | Related note | Use |
 |---|---|
-| [[Defeitos por Unidade\|u chart]] | Variable inspection unit size |
-| [[Proporção de Não-Conformes\|p chart]] | Nonconforming proportions |
-| [[Número de Não-Conformes\|np chart]] | Nonconforming counts |
-| [[Cartas de Controle\|Control charts]] | Attribute chart taxonomy |
+| [[Statistical Process Control/Control Charts/Defects per Unit\|u chart]] | Variable inspection unit size |
+| [[Statistical Process Control/Control Charts/p Chart\|p chart]] | Nonconforming proportions |
+| [[Statistical Process Control/Control Charts/np Chart\|np chart]] | Nonconforming counts |
+| [[Statistical Process Control/Control Charts/Control Charts\|Control charts]] | Attribute chart taxonomy |
 
 ## References
 

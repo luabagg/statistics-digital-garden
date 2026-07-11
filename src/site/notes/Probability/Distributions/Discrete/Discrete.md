@@ -13,7 +13,7 @@ Discrete distributions assign probability mass to finite or countably infinite s
 
 ## Prerequisites
 
-- [[Variável Aleatória Discreta\|Discrete Random Variable]]
+- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
 
 ## Notation and Assumptions
 
@@ -34,10 +34,10 @@ One fair die has a discrete uniform distribution over $\{1,2,3,4,5,6\}$.
 
 ## Connections
 
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Distribuição Binomial\|Binomial Distribution]]
-- [[Distribuição Poisson\|Poisson Distribution]]
-- [[Probabilidade/Distribuições/Discretas/Distribuição Uniforme\|Discrete Uniform Distribution]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
+- [[Probability/Distributions/Discrete/Poisson Distribution\|Poisson Distribution]]
+- [[Probability/Distributions/Discrete/Uniform Distribution\|Discrete Uniform Distribution]]
 
 ## References
 

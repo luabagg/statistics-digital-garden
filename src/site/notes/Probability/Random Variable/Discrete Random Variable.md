@@ -13,7 +13,7 @@ One discrete random variable has countable support and is described by a probabi
 
 ## Prerequisites
 
-- [[Variável Aleatória\|Random Variable]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
 
 ## Notation and Assumptions
 
@@ -36,9 +36,9 @@ If $X$ counts heads in two fair flips, $p_X(0)=1/4$, $p_X(1)=1/2$, and $p_X(2)=1
 
 ## Connections
 
-- [[Função de Distribuição Acumulada\|Cumulative Distribution Function]]
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Distribuição Binomial\|Binomial Distribution]]
+- [[Probability/Distributions/Continuous/Cumulative Distribution Function\|Cumulative Distribution Function]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
 
 ## References
 

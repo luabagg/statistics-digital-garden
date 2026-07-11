@@ -13,7 +13,7 @@ Variance measures mean squared deviation from the expected value. It is nonnegat
 
 ## Prerequisites
 
-- [[Esperança de uma Variável Aleatória\|Expected Value]]
+- [[Probability/Random Variable/Expectation of a Random Variable\|Expected Value]]
 
 ## Notation and Assumptions
 
@@ -44,9 +44,9 @@ If $X\sim\operatorname{Bernoulli}(p)$, then $E[X^2]=p$ and $\operatorname{Var}(X
 
 ## Connections
 
-- [[Covariância e Correlação\|Covariance and Correlation]]
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Distribuição Binomial\|Binomial Distribution]]
+- [[Probability/Covariance and Correlation\|Covariance and Correlation]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
 
 ## References
 

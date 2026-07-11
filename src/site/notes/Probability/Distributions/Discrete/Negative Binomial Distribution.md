@@ -13,7 +13,7 @@ The negative binomial distribution models the number of failures before a fixed 
 
 ## Prerequisites
 
-- [[Distribuição Geométrica\|Geometric Distribution]]
+- [[Probability/Distributions/Discrete/Geometric Distribution\|Geometric Distribution]]
 
 ## Definition
 
@@ -58,9 +58,9 @@ For $r=3$, $p=0.5$, $P(X=2)=\binom42(0.5)^3(0.5)^2=6/32=0.1875$.
 
 ## Connections
 
-- [[Distribuição Geométrica\|Geometric Distribution]]
-- [[Distribuição Binomial\|Binomial Distribution]]
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
+- [[Probability/Distributions/Discrete/Geometric Distribution\|Geometric Distribution]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
 
 ## References
 

@@ -11,11 +11,11 @@ One-way analysis of variance compares the means of several groups defined by a s
 
 ## Prerequisites
 
-- [[Inferência Estatística/Regressão Linear\|Simple Linear Regression]]
-- [[Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória\|Expectation]]
-- [[Probabilidade/Variável Aleatória/Variância de uma Variável Aleatória\|Variance]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição F (Distribuição de Freira)\|F-Distribution]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Qui-Quadrado\|Chi-Square Distribution]]
+- [[Statistical Inference/Linear Regression\|Simple Linear Regression]]
+- [[Probability/Random Variable/Expectation of a Random Variable\|Expectation]]
+- [[Probability/Random Variable/Variance of a Random Variable\|Variance]]
+- [[Probability/Distributions/Continuous/F Distribution\|F-Distribution]]
+- [[Probability/Distributions/Continuous/Chi-Square Distribution\|Chi-Square Distribution]]
 
 ## Definition / Notation
 
@@ -115,10 +115,10 @@ Since $F_{0.05,2,6}\approx 5.14$, we reject $H_0$ and conclude that at least one
 
 ## Connections
 
-- [[Inferência Estatística/Regressão Linear\|Simple Linear Regression]]
-- [[Inferência Estatística/Teste de Hipóteses\|Hypothesis Testing]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição F (Distribuição de Freira)\|F-Distribution]]
-- [[Inferência Estatística/Erros Tipo I e II\|Type I and Type II Errors]]
+- [[Statistical Inference/Linear Regression\|Simple Linear Regression]]
+- [[Statistical Inference/Hypothesis Testing\|Hypothesis Testing]]
+- [[Probability/Distributions/Continuous/F Distribution\|F-Distribution]]
+- [[Statistical Inference/Type I and Type II Errors\|Type I and Type II Errors]]
 
 ## References
 

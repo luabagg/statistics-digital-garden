@@ -13,7 +13,7 @@ Expected value is the probability-weighted average of a random variable when the
 
 ## Prerequisites
 
-- [[Variável Aleatória\|Random Variable]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
 
 ## Notation and Assumptions
 
@@ -42,9 +42,9 @@ If $X$ counts heads in two fair flips, $E[X]=0(1/4)+1(1/2)+2(1/4)=1$.
 
 ## Connections
 
-- [[Variância de uma Variável Aleatória\|Variance]]
-- [[Funções Geradoras de Momento\|Moment Generating Functions]]
-- [[Distribuições\|Distributions]]
+- [[Probability/Random Variable/Variance of a Random Variable\|Variance]]
+- [[Probability/Random Variable/Moment Generating Functions\|Moment Generating Functions]]
+- [[Probability/Distributions/Distributions\|Distributions]]
 
 ## References
 

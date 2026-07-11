@@ -13,8 +13,8 @@ Applying one measurable function to a random variable creates another random var
 
 ## Prerequisites
 
-- [[Variável Aleatória\|Random Variable]]
-- [[Espaço de Probabilidade Produzido por Variável Aleatória\|Distribution Induced by a Random Variable]]
+- [[Probability/Random Variable/Random Variable\|Random Variable]]
+- [[Probability/Random Variable/Probability Space Induced by Random Variable\|Distribution Induced by a Random Variable]]
 
 ## Notation and Assumptions
 
@@ -35,9 +35,9 @@ If $X\sim\operatorname{Uniform}(0,1)$ and $Y=X^2$, then $F_Y(y)=P(X\le\sqrt{y})=
 
 ## Connections
 
-- [[Função de Distribuição Acumulada\|Cumulative Distribution Function]]
-- [[Densidade de Probabilidade\|Probability Density Function]]
-- [[Distribuição Log-Normal\|Log-Normal Distribution]]
+- [[Probability/Distributions/Continuous/Cumulative Distribution Function\|Cumulative Distribution Function]]
+- [[Probability/Distributions/Continuous/Probability Density\|Probability Density Function]]
+- [[Probability/Distributions/Continuous/Log-Normal Distribution\|Log-Normal Distribution]]
 
 ## References
 

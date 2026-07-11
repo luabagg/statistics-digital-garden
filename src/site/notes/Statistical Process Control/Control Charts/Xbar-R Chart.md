@@ -17,7 +17,7 @@ Use Xbar-R when each plotted point summarizes a small subgroup, commonly 2 to 10
 
 ## Definition
 
-For subgroup \(i\) with size \(n\), the subgroup mean is \(\bar{x}_i\) and the subgroup range is \(R_i = x_{i,\max} - x_{i,\min}\). The chart pair is interpreted together: first check the R chart for stable short-term variation, then interpret the Xbar chart.
+For subgroup $i$ with size $n$, the subgroup mean is $\bar{x}_i$ and the subgroup range is $R_i = x_{i,\max} - x_{i,\min}$. The chart pair is interpreted together: first check the R chart for stable short-term variation, then interpret the Xbar chart.
 
 ## Assumptions / Requirements
 
@@ -31,12 +31,12 @@ For subgroup \(i\) with size \(n\), the subgroup mean is \(\bar{x}_i\) and the s
 
 | Symbol | Meaning |
 |---|---|
-| \(n\) | Subgroup size |
-| \(\bar{x}_i\) | Mean of subgroup \(i\) |
-| \(R_i\) | Range of subgroup \(i\) |
-| \(\bar{\bar{x}}\) | Average of subgroup means |
-| \(\bar{R}\) | Average of subgroup ranges |
-| \(A_2,D_3,D_4\) | Control chart constants based on \(n\) |
+| $n$ | Subgroup size |
+| $\bar{x}_i$ | Mean of subgroup $i$ |
+| $R_i$ | Range of subgroup $i$ |
+| $\bar{\bar{x}}$ | Average of subgroup means |
+| $\bar{R}$ | Average of subgroup ranges |
+| $A_2,D_3,D_4$ | Control chart constants based on $n$ |
 
 ## Control Limits / Formula
 
@@ -53,7 +53,7 @@ LCL_R &= D_3\bar{R}.
 \end{aligned}
 $$
 
-For \(n=5\), common constants are \(A_2=0.577\), \(D_3=0\), and \(D_4=2.115\).[^nist-xbar-r]
+For $n=5$, common constants are $A_2=0.577$, $D_3=0$, and $D_4=2.115$.[^nist-xbar-r]
 
 ## Interpretation Rules
 
@@ -64,7 +64,7 @@ For \(n=5\), common constants are \(A_2=0.577\), \(D_3=0\), and \(D_4=2.115\).[^
 
 ## Worked Example
 
-Four subgroups of size \(n=5\) have means \(10.02, 9.98, 10.05, 10.00\) and ranges \(0.12, 0.15, 0.10, 0.13\). Then \(\bar{\bar{x}}=10.0125\) and \(\bar{R}=0.125\).
+Four subgroups of size $n=5$ have means $10.02, 9.98, 10.05, 10.00$ and ranges $0.12, 0.15, 0.10, 0.13$. Then $\bar{\bar{x}}=10.0125$ and $\bar{R}=0.125$.
 
 $$
 UCL_{\bar{X}}=10.0125+0.577(0.125)=10.0846
@@ -91,11 +91,11 @@ All listed subgroup means and ranges are inside these limits, so this small exam
 
 | Related note | Use |
 |---|---|
-| [[Cartas de Controle\|Control charts]] | Chart selection |
-| [[Média e Desvio Padrão\|Xbar-S chart]] | Alternative using subgroup standard deviations |
-| [[Valores Individuais e Amplitude Móvel\|I-MR / X-MR chart]] | Individual observations |
+| [[Statistical Process Control/Control Charts/Control Charts\|Control charts]] | Chart selection |
+| [[Statistical Process Control/Control Charts/Xbar-S Chart\|Xbar-S chart]] | Alternative using subgroup standard deviations |
+| [[Statistical Process Control/Control Charts/I-MR Chart\|I-MR / X-MR chart]] | Individual observations |
 | [[Statistical Process Control/Control Charts/Control Limits and Specification Limits\|Control Limits and Specification Limits]] | Avoid limit confusion |
-| [[Capacidade do Processo\|Process capability]] | After stable control |
+| [[Statistical Process Control/Control Charts/Process Capability\|Process capability]] | After stable control |
 
 ## References
 

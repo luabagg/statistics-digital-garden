@@ -19,7 +19,7 @@ Use capability indices when a process is in control and the question is whether 
 
 ## Definition
 
-For a two-sided specification with lower specification limit \(LSL\), upper specification limit \(USL\), process mean \(\mu\), and process standard deviation \(\sigma\):
+For a two-sided specification with lower specification limit $LSL$, upper specification limit $USL$, process mean $\mu$, and process standard deviation $\sigma$:
 
 $$
 C_p=\frac{USL-LSL}{6\sigma}
@@ -29,7 +29,7 @@ $$
 C_{pk}=\min\left(\frac{USL-\mu}{3\sigma},\frac{\mu-LSL}{3\sigma}\right).
 $$
 
-\(C_p\) measures potential capability if centered. \(C_{pk}\) includes off-centering.
+$C_p$ measures potential capability if centered. $C_{pk}$ includes off-centering.
 
 ## Assumptions / Requirements
 
@@ -42,23 +42,23 @@ $$
 
 | Symbol | Meaning |
 |---|---|
-| \(USL\) | Upper specification limit |
-| \(LSL\) | Lower specification limit |
-| \(T\) | Target value |
-| \(\mu,\sigma\) | Process mean and standard deviation |
-| \(\bar{x},s\) | Sample estimates |
+| $USL$ | Upper specification limit |
+| $LSL$ | Lower specification limit |
+| $T$ | Target value |
+| $\mu,\sigma$ | Process mean and standard deviation |
+| $\bar{x},s$ | Sample estimates |
 
 ## Procedure
 
 1. Verify control-chart stability.
-2. Estimate \(\bar{x}\) and \(s\) from representative data.
+2. Estimate $\bar{x}$ and $s$ from representative data.
 3. Check distribution shape and measurement system adequacy.
 4. Calculate capability.
 5. Improve centering or variation if capability is insufficient.
 
 ## Worked Example
 
-A shaft has \(LSL=9.90\), \(USL=10.10\), \(\bar{x}=10.03\), and \(s=0.025\).
+A shaft has $LSL=9.90$, $USL=10.10$, $\bar{x}=10.03$, and $s=0.025$.
 
 $$
 \hat{C}_p=\frac{10.10-9.90}{6(0.025)}=1.33
@@ -73,7 +73,7 @@ The spread could be adequate if centered, but the process mean is too close to t
 ## Common Mistakes
 
 - Calculating capability from unstable data.
-- Reporting only \(C_p\) when the process is off-center.
+- Reporting only $C_p$ when the process is off-center.
 - Confusing LSL/USL with LCL/UCL.
 - Assuming normal capability formulas are valid for strongly nonnormal data.
 
@@ -82,8 +82,8 @@ The spread could be adequate if centered, but the process mean is too close to t
 | Related note | Use |
 |---|---|
 | [[Statistical Process Control/Control Charts/Control Limits and Specification Limits\|Control Limits and Specification Limits]] | Required distinction |
-| [[Cartas de Controle\|Control charts]] | Stability prerequisite |
-| [[Função Perda Quadrática\|Quadratic loss function]] | Target-centered quality |
+| [[Statistical Process Control/Control Charts/Control Charts\|Control charts]] | Stability prerequisite |
+| [[Statistical Process Control/Quadratic Loss Function/Quadratic Loss Function\|Quadratic loss function]] | Target-centered quality |
 | [[Statistical Process Control/Control Charts/Common-Cause and Special-Cause Variation\|Common-Cause and Special-Cause Variation]] | Stability interpretation |
 
 ## References

@@ -26,13 +26,13 @@ Control limits come from process behavior. Specification limits come from design
 
 | Data | Sampling condition | Chart |
 |---|---|---|
-| Variable measurement | Individual observations | [[Valores Individuais e Amplitude Móvel\|I-MR / X-MR]] |
-| Variable measurement | Rational subgroups, usually size 2-10 | [[Média e Amplitude\|Xbar-R]] |
-| Variable measurement | Rational subgroups, usually larger than 10 | [[Média e Desvio Padrão\|Xbar-S]] |
-| Attribute: fraction nonconforming | Variable or fixed inspected sample size | [[Proporção de Não-Conformes\|p chart]] |
-| Attribute: number nonconforming | Fixed inspected sample size | [[Número de Não-Conformes\|np chart]] |
-| Attribute: defect count | Constant inspection unit | [[Número de Defeitos\|c chart]] |
-| Attribute: defects per unit | Variable inspection unit size | [[Defeitos por Unidade\|u chart]] |
+| Variable measurement | Individual observations | [[Statistical Process Control/Control Charts/I-MR Chart\|I-MR / X-MR]] |
+| Variable measurement | Rational subgroups, usually size 2-10 | [[Statistical Process Control/Control Charts/Xbar-R Chart\|Xbar-R]] |
+| Variable measurement | Rational subgroups, usually larger than 10 | [[Statistical Process Control/Control Charts/Xbar-S Chart\|Xbar-S]] |
+| Attribute: fraction nonconforming | Variable or fixed inspected sample size | [[Statistical Process Control/Control Charts/p Chart\|p chart]] |
+| Attribute: number nonconforming | Fixed inspected sample size | [[Statistical Process Control/Control Charts/np Chart\|np chart]] |
+| Attribute: defect count | Constant inspection unit | [[Statistical Process Control/Control Charts/c Chart\|c chart]] |
+| Attribute: defects per unit | Variable inspection unit size | [[Statistical Process Control/Control Charts/Defects per Unit\|u chart]] |
 
 ## Assumptions / Requirements
 
@@ -62,11 +62,11 @@ When call volume changes by day, use a u chart or model the rate because complai
 |---|---|
 | [[Statistical Process Control/Control Charts/Common-Cause and Special-Cause Variation\|Common-Cause and Special-Cause Variation]] | Signal interpretation |
 | [[Statistical Process Control/Control Charts/Control Limits and Specification Limits\|Control Limits and Specification Limits]] | Limits distinction |
-| [[Valores Individuais e Amplitude Móvel\|I-MR / X-MR chart]] | Individuals data |
-| [[Média e Amplitude\|Xbar-R chart]] | Mean and range |
-| [[Média e Desvio Padrão\|Xbar-S chart]] | Mean and standard deviation |
-| [[Para Dados Autocorrelacionados\|Autocorrelated data]] | When independence fails |
-| [[Capacidade do Processo\|Process capability]] | After stability |
+| [[Statistical Process Control/Control Charts/I-MR Chart\|I-MR / X-MR chart]] | Individuals data |
+| [[Statistical Process Control/Control Charts/Xbar-R Chart\|Xbar-R chart]] | Mean and range |
+| [[Statistical Process Control/Control Charts/Xbar-S Chart\|Xbar-S chart]] | Mean and standard deviation |
+| [[Statistical Process Control/Control Charts/Autocorrelated Data\|Autocorrelated data]] | When independence fails |
+| [[Statistical Process Control/Control Charts/Process Capability\|Process capability]] | After stability |
 
 ## References
 

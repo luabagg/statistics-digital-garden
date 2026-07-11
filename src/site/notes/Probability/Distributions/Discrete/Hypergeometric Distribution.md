@@ -13,7 +13,7 @@ The hypergeometric distribution counts successes in fixed-size samples drawn wit
 
 ## Prerequisites
 
-- [[Variável Aleatória Discreta\|Discrete Random Variable]]
+- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
 
 ## Definition
 
@@ -58,9 +58,9 @@ From 50 items with 20 successes, sample 10. Then $P(X=4)=\binom{20}{4}\binom{30}
 
 ## Connections
 
-- [[Distribuição Binomial\|Binomial Distribution]]
-- [[Probabilidade/Distribuições/Discretas/Distribuição Uniforme\|Discrete Uniform Distribution]]
-- [[Distribuições\|Distributions]]
+- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
+- [[Probability/Distributions/Discrete/Uniform Distribution\|Discrete Uniform Distribution]]
+- [[Probability/Distributions/Distributions\|Distributions]]
 
 ## References
 

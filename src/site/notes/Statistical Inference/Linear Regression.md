@@ -12,10 +12,10 @@ Simple linear regression models the mean response of a continuous outcome $Y$ as
 ## Prerequisites
 
 - [[Álgebra Linear/Least Squares and QR\|Least Squares]]
-- [[Probabilidade/Covariância e Correlação\|Covariance and Correlation]]
-- [[Probabilidade/Variável Aleatória/Esperança de uma Variável Aleatória\|Expectation]]
-- [[Probabilidade/Variável Aleatória/Variância de uma Variável Aleatória\|Variance]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Normal\|Normal Distribution]]
+- [[Probability/Covariance and Correlation\|Covariance and Correlation]]
+- [[Probability/Random Variable/Expectation of a Random Variable\|Expectation]]
+- [[Probability/Random Variable/Variance of a Random Variable\|Variance]]
+- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
 
 ## Definition / Notation
 
@@ -96,8 +96,8 @@ The fitted line is $\hat{y}=1.0+1.4x$.[^mit-regression]
 
 - [[Álgebra Linear/Least Squares and QR\|Least Squares]]
 - [[Inferência Estatística/ANOVA\|ANOVA]]
-- [[Probabilidade/Covariância e Correlação\|Covariance and Correlation]]
-- [[Inferência Estatística/Intervalos de Confiança\|Confidence Intervals]]
+- [[Probability/Covariance and Correlation\|Covariance and Correlation]]
+- [[Statistical Inference/Confidence Intervals\|Confidence Intervals]]
 
 ## References
 

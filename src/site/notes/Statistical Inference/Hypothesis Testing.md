@@ -11,10 +11,10 @@ Hypothesis testing uses sample evidence to decide between a null hypothesis and 
 
 ## Prerequisites
 
-- [[Inferência Estatística/Estimação Pontual\|Point Estimation]]
-- [[Inferência Estatística/Intervalos de Confiança\|Confidence Intervals]]
-- [[Probabilidade/Teorema Central do Limite\|Central Limit Theorem]]
-- [[Probabilidade/Distribuições/Contínuas/Distribuição Normal\|Normal Distribution]]
+- [[Statistical Inference/Point Estimation\|Point Estimation]]
+- [[Statistical Inference/Confidence Intervals\|Confidence Intervals]]
+- [[Probability/Central Limit Theorem\|Central Limit Theorem]]
+- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
 
 ## Definition / Notation
 
@@ -68,10 +68,10 @@ Since $|2|>1.96$, reject $H_0$ at the 5% level.
 
 ## Connections
 
-- [[Inferência Estatística/p-valor\|p-values]]
-- [[Inferência Estatística/Erros Tipo I e II\|Type I and Type II Errors]]
-- [[Inferência Estatística/Intervalos de Confiança\|Confidence Intervals]]
-- [[Inferência Estatística/Máxima Verossimilhança\|Maximum Likelihood]]
+- [[Statistical Inference/p-value\|p-values]]
+- [[Statistical Inference/Type I and Type II Errors\|Type I and Type II Errors]]
+- [[Statistical Inference/Confidence Intervals\|Confidence Intervals]]
+- [[Statistical Inference/Maximum Likelihood\|Maximum Likelihood]]
 
 ## References
 

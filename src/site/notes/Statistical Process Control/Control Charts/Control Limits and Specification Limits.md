@@ -24,7 +24,7 @@ Control limits are statistical boundaries computed from the process data or from
 
 ## Worked Example
 
-A stable process has \(\bar{x}=10.00\), \(\hat{\sigma}=0.10\), so approximate individuals control limits are \(9.70\) and \(10.30\). The drawing specification is \(9.90\) to \(10.10\). The process can be statistically stable while producing too many parts outside specification; stability does not imply capability.
+A stable process has $\bar{x}=10.00$, $\hat{\sigma}=0.10$, so approximate individuals control limits are $9.70$ and $10.30$. The drawing specification is $9.90$ to $10.10$. The process can be statistically stable while producing too many parts outside specification; stability does not imply capability.
 
 ## Common Mistakes
 
@@ -37,10 +37,10 @@ A stable process has \(\bar{x}=10.00\), \(\hat{\sigma}=0.10\), so approximate in
 
 | Related note | Use |
 |---|---|
-| [[Cartas de Controle\|Control charts]] | Where control limits are used |
-| [[Capacidade do Processo\|Process capability]] | Where specification limits are used |
+| [[Statistical Process Control/Control Charts/Control Charts\|Control charts]] | Where control limits are used |
+| [[Statistical Process Control/Control Charts/Process Capability\|Process capability]] | Where specification limits are used |
 | [[Statistical Process Control/Control Charts/Common-Cause and Special-Cause Variation\|Common-Cause and Special-Cause Variation]] | Signal interpretation |
-| [[Controle Estatístico do Processo\|Statistical Process Control]] | Main hub |
+| [[Statistical Process Control/Statistical Process Control\|Statistical Process Control]] | Main hub |
 
 ## References
 

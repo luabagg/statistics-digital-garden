@@ -15,7 +15,7 @@ $$M_X(t)=E[\exp(tX)], \qquad K_X(t)=\log M_X(t).$$
 
 ## Prerequisites
 
-- [[Esperança de uma Variável Aleatória\|Expected Value]]
+- [[Probability/Random Variable/Expectation of a Random Variable\|Expected Value]]
 
 ## Notation and Assumptions
 
@@ -36,9 +36,9 @@ For $X\sim\operatorname{Bernoulli}(p)$, $M_X(t)=(1-p)+pe^t$ and $M_X'(0)=p$.
 
 ## Connections
 
-- [[Esperança a Partir da Função Geradora de Momentos\|Expectation from an MGF]]
-- [[Função Característica\|Characteristic Function]]
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
+- [[Probability/Distributions/Expectation from the MGF\|Expectation from an MGF]]
+- [[Probability/Distributions/Characteristic Function\|Characteristic Function]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
 
 ## References
 

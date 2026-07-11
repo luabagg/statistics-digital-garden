@@ -13,8 +13,8 @@ The binomial distribution counts successes in a fixed number of independent Bern
 
 ## Prerequisites
 
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Binômio de Newton\|Binomial Theorem]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Distributions/Newton Binomial\|Binomial Theorem]]
 
 ## Definition
 
@@ -59,9 +59,9 @@ For five fair coin flips, $P(X=3)=\binom53(0.5)^3(0.5)^2=0.3125$.
 
 ## Connections
 
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Distribuição Hipergeométrica\|Hypergeometric Distribution]]
-- [[Distribuição Binomial Negativa\|Negative Binomial Distribution]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Distributions/Discrete/Hypergeometric Distribution\|Hypergeometric Distribution]]
+- [[Probability/Distributions/Discrete/Negative Binomial Distribution\|Negative Binomial Distribution]]
 
 ## References
 

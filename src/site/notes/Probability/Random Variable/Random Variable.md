@@ -13,8 +13,8 @@ One random variable is a measurable function from outcomes to numerical values. 
 
 ## Prerequisites
 
-- [[Espaço de Probabilidade\|Probability Space]]
-- [[Sigma-Álgebra De Borel\|Borel Sigma-Algebra]]
+- [[Probability/Probability Space\|Probability Space]]
+- [[Probability/Borel Sigma-Algebra\|Borel Sigma-Algebra]]
 
 ## Notation and Assumptions
 
@@ -35,10 +35,10 @@ For two coin flips, $X=$ number of heads maps $HH\mapsto2$, $HT\mapsto1$, $TH\ma
 
 ## Connections
 
-- [[Variável Aleatória Discreta\|Discrete Random Variable]]
-- [[Variável Aleatória Contínua\|Continuous Random Variable]]
-- [[Variável Aleatória Mista\|Mixed Random Variable]]
-- [[Espaço de Probabilidade Produzido por Variável Aleatória\|Distribution Induced by a Random Variable]]
+- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
+- [[Probability/Random Variable/Continuous Random Variable\|Continuous Random Variable]]
+- [[Probability/Random Variable/Mixed Random Variable\|Mixed Random Variable]]
+- [[Probability/Random Variable/Probability Space Induced by Random Variable\|Distribution Induced by a Random Variable]]
 
 ## References
 

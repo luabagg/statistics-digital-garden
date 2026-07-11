@@ -13,8 +13,8 @@ The geometric distribution models the trial number of the first success in indep
 
 ## Prerequisites
 
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Independência\|Independence]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Independence\|Independence]]
 
 ## Definition
 
@@ -63,9 +63,9 @@ With $p=0.25$, $P(X=3)=(0.75)^2(0.25)=0.140625$.
 
 ## Connections
 
-- [[Distribuição de Bernoulli\|Bernoulli Distribution]]
-- [[Distribuição Binomial Negativa\|Negative Binomial Distribution]]
-- [[Distribuição Exponencial\|Exponential Distribution]]
+- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+- [[Probability/Distributions/Discrete/Negative Binomial Distribution\|Negative Binomial Distribution]]
+- [[Probability/Distributions/Continuous/Exponential Distribution\|Exponential Distribution]]
 
 ## References
 

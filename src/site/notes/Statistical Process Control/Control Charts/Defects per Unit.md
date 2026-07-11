@@ -17,7 +17,7 @@ Use a u chart when defect counts are collected over samples with different sizes
 
 ## Definition
 
-For sample \(i\), let \(c_i\) be the number of defects and \(n_i\) the number of inspection units. Plot:
+For sample $i$, let $c_i$ be the number of defects and $n_i$ the number of inspection units. Plot:
 
 $$
 u_i=\frac{c_i}{n_i}.
@@ -26,18 +26,18 @@ $$
 ## Assumptions / Requirements
 
 - Defects are countable events.
-- Inspection unit size \(n_i\) is known for each sample.
+- Inspection unit size $n_i$ is known for each sample.
 - Defects follow an approximately Poisson count model under stable conditions.
-- Differences in opportunity are represented by \(n_i\).
+- Differences in opportunity are represented by $n_i$.
 
 ## Notation
 
 | Symbol | Meaning |
 |---|---|
-| \(c_i\) | Defects in sample \(i\) |
-| \(n_i\) | Inspection units in sample \(i\) |
-| \(u_i\) | Defects per unit in sample \(i\) |
-| \(\bar{u}\) | Pooled defects per unit |
+| $c_i$ | Defects in sample $i$ |
+| $n_i$ | Inspection units in sample $i$ |
+| $u_i$ | Defects per unit in sample $i$ |
+| $\bar{u}$ | Pooled defects per unit |
 
 ## Control Limits / Formula
 
@@ -45,7 +45,7 @@ $$
 \bar{u}=\frac{\sum_i c_i}{\sum_i n_i}
 $$
 
-For sample \(i\):
+For sample $i$:
 
 $$
 UCL_i=\bar{u}+3\sqrt{\frac{\bar{u}}{n_i}}
@@ -61,13 +61,13 @@ $$
 
 ## Interpretation Rules
 
-- Larger \(n_i\) gives narrower limits because the rate is estimated more precisely.
+- Larger $n_i$ gives narrower limits because the rate is estimated more precisely.
 - High points signal unusual defect rates, not high raw counts.
-- If \(n_i\) is constant, a c chart may communicate more simply.
+- If $n_i$ is constant, a c chart may communicate more simply.
 
 ## Worked Example
 
-Three lots inspect \(5,4,6\) units and find \(4,5,3\) defects. Then \(\bar{u}=12/15=0.8\). For the first lot:
+Three lots inspect $5,4,6$ units and find $4,5,3$ defects. Then $\bar{u}=12/15=0.8$. For the first lot:
 
 $$
 UCL_1=0.8+3\sqrt{\frac{0.8}{5}}=2.0
@@ -77,7 +77,7 @@ $$
 LCL_1=\max(0,0.8-1.2)=0.
 $$
 
-The first plotted value is \(u_1=4/5=0.8\), exactly on the center line.
+The first plotted value is $u_1=4/5=0.8$, exactly on the center line.
 
 ## Common Mistakes
 
@@ -90,10 +90,10 @@ The first plotted value is \(u_1=4/5=0.8\), exactly on the center line.
 
 | Related note | Use |
 |---|---|
-| [[Número de Defeitos\|c chart]] | Constant inspection unit |
-| [[Proporção de Não-Conformes\|p chart]] | Nonconforming proportions |
-| [[Número de Não-Conformes\|np chart]] | Nonconforming counts |
-| [[Cartas de Controle\|Control charts]] | Attribute chart taxonomy |
+| [[Statistical Process Control/Control Charts/c Chart\|c chart]] | Constant inspection unit |
+| [[Statistical Process Control/Control Charts/p Chart\|p chart]] | Nonconforming proportions |
+| [[Statistical Process Control/Control Charts/np Chart\|np chart]] | Nonconforming counts |
+| [[Statistical Process Control/Control Charts/Control Charts\|Control charts]] | Attribute chart taxonomy |
 
 ## References
 
