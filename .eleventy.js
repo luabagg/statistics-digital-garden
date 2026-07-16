@@ -26,6 +26,7 @@ const { parse } = require("node-html-parser");
 const { minifyProductionHtml } = require("./src/site/minify-html.js");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
+const { tagRegex, taggify } = require("./src/helpers/tagUtils");
 const {
   userMarkdownSetup,
   userEleventySetup,
@@ -112,7 +113,6 @@ function getAnchorAttributes(filePath, linkTitle) {
   }
 }
 
-const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
 
 function notePathToPermalink(notePath) {
   const segments = notePath.split("/").filter(Boolean);
@@ -384,12 +384,7 @@ module.exports = async function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("taggify", function(str) {
-    return (
-      str &&
-      str.replace(tagRegex, function(match, precede, tag) {
-        return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
-      })
-    );
+    return str && taggify(str);
   });
 
   eleventyConfig.addFilter("stripForSearch", function(content) {
