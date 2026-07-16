@@ -63,7 +63,7 @@ function getAnchorAttributes(filePath, linkTitle) {
 
   let noteIcon = process.env.NOTE_ICON_DEFAULT;
   const title = linkTitle ? linkTitle : fileName;
-  let permalink = `/notes/${slugify(fileName)}`;
+  let permalink = notePathToPermalink(fileName);
   let deadLink = false;
   try {
     const startPath = "./src/site/notes/";
@@ -113,6 +113,12 @@ function getAnchorAttributes(filePath, linkTitle) {
 }
 
 const tagRegex = /(^|\s|\>)(#[^\s!@#$%^&*()=+\.,\[{\]};:'"?><]+)(?!([^<]*>))/g;
+
+function notePathToPermalink(notePath) {
+  const segments = notePath.split("/").filter(Boolean);
+  const slugged = segments.map((segment) => slugify(segment));
+  return `/notes/${slugged.join("/")}/`;
+}
 
 const markdownFileTypeRegex = /\.(md|markdown)$/i;
 const isMarkdownPage = (inputPath) => inputPath && inputPath.match(markdownFileTypeRegex);
