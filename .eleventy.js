@@ -26,7 +26,7 @@ const { parse } = require("node-html-parser");
 const { minifyProductionHtml } = require("./src/site/minify-html.js");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
-const { tagRegex, taggify, extractSearchableTags } = require("./src/helpers/tagUtils");
+const { tagRegex, taggify, extractSearchableTags, withoutProtectedBlocks } = require("./src/helpers/tagUtils");
 const {
   userMarkdownSetup,
   userEleventySetup,
@@ -388,7 +388,7 @@ module.exports = async function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("stripForSearch", function(content) {
-    return content
+    return withoutProtectedBlocks(content || "")
       .replace(/<[^>]*>/g, '')
       .replace(/\s+/g, ' ')
       .trim();
