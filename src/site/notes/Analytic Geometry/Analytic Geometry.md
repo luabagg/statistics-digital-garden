@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analytic-geometry/analytic-geometry/","tags":["geometry","analytic-geometry","hub"],"noteIcon":"","dg-note-properties":{"tags":["geometry","analytic-geometry","hub"],"aliases":["Analytic Geometry","Analytical Geometry"]}}
+{"dg-publish":true,"permalink":"/analytic-geometry/analytic-geometry/","tags":["geometry","analytic-geometry","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["geometry","analytic-geometry","hub"],"aliases":["Analytic Geometry","Analytical Geometry"]}}
 ---
 
 
@@ -10,7 +10,6 @@
 	- [[Analytic Geometry/Distance and Midpoint\|Distance and Midpoint]]
 	- [[Analytic Geometry/Lines and Planes\|Lines and Planes]]
 	- [[Analytic Geometry/Vectors and Dot Product\|Vectors and Dot Product]]
-
 
 
 # Analytic Geometry

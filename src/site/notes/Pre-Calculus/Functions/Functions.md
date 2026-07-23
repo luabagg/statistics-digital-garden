@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/pre-calculus/functions/functions/","tags":["precalculus","functions"],"noteIcon":"","dg-note-properties":{"tags":["precalculus","functions"],"aliases":["Function","Domain and Range"]}}
+{"dg-publish":true,"permalink":"/pre-calculus/functions/functions/","tags":["precalculus","functions"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["precalculus","functions"],"aliases":["Function","Domain and Range"]}}
 ---
+
+
+
+- **[[Pre-Calculus/Functions/Functions\|Functions]]**
 
 
 # Functions

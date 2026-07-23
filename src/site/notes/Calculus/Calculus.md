@@ -6,12 +6,11 @@
 
 - **[[Calculus/Calculus\|Calculus]]**
 	- **[[Calculus/Derivatives/Derivatives\|Derivatives]]**
-	- [[Calculus/Fundamental Theorem of Calculus\|Fundamental Theorem of Calculus]]
 	- **[[Calculus/Infinite Series/Infinite Series\|Infinite Series]]**
 	- **[[Calculus/Integrals/Integrals\|Integrals]]**
 	- **[[Calculus/Limits/Limits\|Limits]]**
 	- **[[Calculus/Multivariable Functions/Multivariable Functions\|Multivariable Functions]]**
-
+	- [[Calculus/Fundamental Theorem of Calculus\|Fundamental Theorem of Calculus]]
 
 
 # Calculus

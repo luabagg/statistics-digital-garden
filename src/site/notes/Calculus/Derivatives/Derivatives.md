@@ -5,15 +5,14 @@
 
 
 - **[[Calculus/Derivatives/Derivatives\|Derivatives]]**
+	- **[[Calculus/Derivatives/Directional Derivative/Directional Derivative\|Directional Derivative]]**
 	- [[Calculus/Derivatives/Chain Rules\|Chain Rules]]
 	- [[Calculus/Derivatives/Differentiability of a Function\|Differentiability of a Function]]
 	- [[Calculus/Derivatives/Differential of a Function\|Differential of a Function]]
-	- **[[Calculus/Derivatives/Directional Derivative/Directional Derivative\|Directional Derivative]]**
 	- [[Calculus/Derivatives/Higher-Order Derivatives\|Higher-Order Derivatives]]
 	- [[Calculus/Derivatives/Implicit Differentiation\|Implicit Differentiation]]
 	- [[Calculus/Derivatives/Partial Derivatives\|Partial Derivatives]]
 	- [[Calculus/Derivatives/Tangent Plane\|Tangent Plane]]
-
 
 
 # Derivatives

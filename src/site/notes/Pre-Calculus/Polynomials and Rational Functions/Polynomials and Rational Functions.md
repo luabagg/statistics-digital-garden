@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/pre-calculus/polynomials-and-rational-functions/polynomials-and-rational-functions/","tags":["precalculus","polynomials","rational-functions"],"noteIcon":"","dg-note-properties":{"tags":["precalculus","polynomials","rational-functions"],"aliases":["Polynomials","Rational Functions"]}}
+{"dg-publish":true,"permalink":"/pre-calculus/polynomials-and-rational-functions/polynomials-and-rational-functions/","tags":["precalculus","polynomials","rational-functions"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["precalculus","polynomials","rational-functions"],"aliases":["Polynomials","Rational Functions"]}}
 ---
+
+
+
+- **[[Pre-Calculus/Polynomials and Rational Functions/Polynomials and Rational Functions\|Polynomials and Rational Functions]]**
 
 
 # Polynomials and Rational Functions

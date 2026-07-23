@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/statistical-process-control/quadratic-loss-function/quadratic-loss-function/","noteIcon":"","dg-note-properties":{"aliases":["Quadratic Loss Function","Taguchi Loss Function"]}}
+{"dg-publish":true,"permalink":"/statistical-process-control/quadratic-loss-function/quadratic-loss-function/","tags":["spc","quadratic-loss"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["spc","quadratic-loss"],"aliases":["Quadratic Loss Function","Taguchi Loss Function"]}}
 ---
+
+
+
+- **[[Statistical Process Control/Quadratic Loss Function/Quadratic Loss Function\|Quadratic Loss Function]]**
 
 
 # Quadratic Loss Function

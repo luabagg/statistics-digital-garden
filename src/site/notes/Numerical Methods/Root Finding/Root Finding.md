@@ -3,6 +3,16 @@
 ---
 
 
+
+- **[[Numerical Methods/Root Finding/Root Finding\|Root Finding]]**
+	- [[Numerical Methods/Root Finding/Bisection Method\|Bisection Method]]
+	- [[Numerical Methods/Root Finding/Bolzano's Theorem\|Bolzano's Theorem]]
+	- [[Numerical Methods/Root Finding/False Position Method\|False Position Method]]
+	- [[Numerical Methods/Root Finding/Graphical Method\|Graphical Method]]
+	- [[Numerical Methods/Root Finding/Newton-Raphson Method\|Newton-Raphson Method]]
+	- [[Numerical Methods/Root Finding/Secant Method\|Secant Method]]
+
+
 # Roots of Functions
 
 ## Summary

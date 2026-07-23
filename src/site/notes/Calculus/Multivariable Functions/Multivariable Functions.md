@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculus/multivariable-functions/multivariable-functions/","tags":["calculus","multivariable"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","multivariable"]}}
+{"dg-publish":true,"permalink":"/calculus/multivariable-functions/multivariable-functions/","tags":["calculus","multivariable-functions"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","multivariable-functions"]}}
 ---
 
 
@@ -11,7 +11,6 @@
 	- [[Calculus/Multivariable Functions/Maxima and Minima\|Maxima and Minima]]
 	- [[Calculus/Multivariable Functions/Polar Coordinates\|Polar Coordinates]]
 	- [[Calculus/Multivariable Functions/Spherical Coordinates\|Spherical Coordinates]]
-
 
 
 # Functions of Several Variables

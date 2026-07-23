@@ -6,11 +6,10 @@
 
 - **[[Calculus/Integrals/Integrals\|Integrals]]**
 	- **[[Calculus/Integrals/Double Integrals/Double Integrals\|Double Integrals]]**
+	- **[[Calculus/Integrals/Triple Integrals/Triple Integrals\|Triple Integrals]]**
 	- [[Calculus/Integrals/Fubini's Theorem\|Fubini's Theorem]]
 	- [[Calculus/Integrals/Integration by Parts\|Integration by Parts]]
 	- [[Calculus/Integrals/Riemann Sum\|Riemann Sum]]
-	- **[[Calculus/Integrals/Triple Integrals/Triple Integrals\|Triple Integrals]]**
-
 
 
 # Integrals

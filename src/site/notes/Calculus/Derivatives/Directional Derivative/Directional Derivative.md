@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/calculus/derivatives/directional-derivative/directional-derivative/","tags":["calculus","derivatives","multivariable"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","derivatives","multivariable"]}}
+{"dg-publish":true,"permalink":"/calculus/derivatives/directional-derivative/directional-derivative/","tags":["calculus","derivatives","directional-derivative"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","derivatives","directional-derivative"]}}
 ---
 
 
 
 - **[[Calculus/Derivatives/Directional Derivative/Directional Derivative\|Directional Derivative]]**
 	- [[Calculus/Derivatives/Directional Derivative/Maximum Rate of Directional Derivative\|Maximum Rate of Directional Derivative]]
-
 
 
 # Directional Derivative

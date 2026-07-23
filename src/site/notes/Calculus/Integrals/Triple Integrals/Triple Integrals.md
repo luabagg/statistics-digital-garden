@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/calculus/integrals/triple-integrals/triple-integrals/","tags":["calculus","integrals","multivariable"],"noteIcon":"","dg-note-properties":{"tags":["calculus","integrals","multivariable"]}}
+{"dg-publish":true,"permalink":"/calculus/integrals/triple-integrals/triple-integrals/","tags":["calculus","integrals","triple-integrals"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","integrals","triple-integrals"]}}
 ---
 
 
 
 - **[[Calculus/Integrals/Triple Integrals/Triple Integrals\|Triple Integrals]]**
-
-
 
 
 # Triple Integrals

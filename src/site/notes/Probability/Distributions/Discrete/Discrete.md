@@ -1,6 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/probability/distributions/discrete/discrete/","noteIcon":"","dg-note-properties":{"aliases":["Discrete Distributions","Discretas"]}}
+{"dg-publish":true,"permalink":"/probability/distributions/discrete/discrete/","tags":["probability","distributions","discrete"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["probability","distributions","discrete"],"aliases":["Discrete Distributions","Discretas"]}}
 ---
+
+
+
+- **[[Probability/Distributions/Discrete/Discrete\|Discrete]]**
+	- [[Probability/Distributions/Discrete/Bernoulli Distribution\|Bernoulli Distribution]]
+	- [[Probability/Distributions/Discrete/Binomial Distribution\|Binomial Distribution]]
+	- [[Probability/Distributions/Discrete/Geometric Distribution\|Geometric Distribution]]
+	- [[Probability/Distributions/Discrete/Hypergeometric Distribution\|Hypergeometric Distribution]]
+	- [[Probability/Distributions/Discrete/Negative Binomial Distribution\|Negative Binomial Distribution]]
+	- [[Probability/Distributions/Discrete/Poisson Distribution\|Poisson Distribution]]
+	- [[Probability/Distributions/Discrete/Uniform Distribution\|Uniform Distribution]]
 
 
 # Discrete Distributions

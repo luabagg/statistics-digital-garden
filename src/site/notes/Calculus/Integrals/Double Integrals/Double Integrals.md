@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculus/integrals/double-integrals/double-integrals/","tags":["calculus","integrals","multivariable"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","integrals","multivariable"]}}
+{"dg-publish":true,"permalink":"/calculus/integrals/double-integrals/double-integrals/","tags":["calculus","integrals","double-integrals"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","integrals","double-integrals"]}}
 ---
 
 
@@ -7,7 +7,6 @@
 - **[[Calculus/Integrals/Double Integrals/Double Integrals\|Double Integrals]]**
 	- [[Calculus/Integrals/Double Integrals/Double Integrals in Polar Coordinates\|Double Integrals in Polar Coordinates]]
 	- [[Calculus/Integrals/Double Integrals/Double Integrals over General Regions\|Double Integrals over General Regions]]
-
 
 
 # Double Integrals

@@ -3,6 +3,15 @@
 ---
 
 
+
+- **[[Numerical Methods/Numerical Methods\|Numerical Methods]]**
+	- **[[Numerical Methods/Curve Fitting/Curve Fitting\|Curve Fitting]]**
+	- **[[Numerical Methods/Linear Systems/Linear Systems\|Linear Systems]]**
+	- **[[Numerical Methods/Numerical Integration/Numerical Integration\|Numerical Integration]]**
+	- **[[Numerical Methods/Polynomial Interpolation/Polynomial Interpolation\|Polynomial Interpolation]]**
+	- **[[Numerical Methods/Root Finding/Root Finding\|Root Finding]]**
+
+
 # Numerical Methods
 
 ## Summary

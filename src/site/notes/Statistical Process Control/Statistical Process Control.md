@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/statistical-process-control/statistical-process-control/","dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"aliases":["Statistical Process Control","SPC","CEP"]}}
+{"dg-publish":true,"permalink":"/statistical-process-control/statistical-process-control/","tags":["spc","statistics","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["spc","statistics","hub"],"aliases":["Statistical Process Control","SPC","CEP"]}}
 ---
+
+
+
+- **[[Statistical Process Control/Statistical Process Control\|Statistical Process Control]]**
+	- **[[Statistical Process Control/Control Charts/Control Charts\|Control Charts]]**
+	- **[[Statistical Process Control/Quadratic Loss Function/Quadratic Loss Function\|Quadratic Loss Function]]**
+	- **[[Statistical Process Control/Quality Tools/Quality Tools\|Quality Tools]]**
+	- [[Statistical Process Control/What is SPC\|What is SPC]]
 
 
 # Statistical Process Control

@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/numerical-methods/polynomial-interpolation/polynomial-interpolation/","tags":["numerical-methods","interpolation","hub"],"noteIcon":"","dg-note-properties":{"tags":["numerical-methods","interpolation","hub"],"aliases":["Polynomial Interpolation"]}}
+{"dg-publish":true,"permalink":"/numerical-methods/polynomial-interpolation/polynomial-interpolation/","tags":["numerical-methods","interpolation","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["numerical-methods","interpolation","hub"],"aliases":["Polynomial Interpolation"]}}
 ---
+
+
+
+- **[[Numerical Methods/Polynomial Interpolation/Polynomial Interpolation\|Polynomial Interpolation]]**
+	- [[Numerical Methods/Polynomial Interpolation/Existence and Uniqueness of Interpolating Polynomial\|Existence and Uniqueness of Interpolating Polynomial]]
+	- [[Numerical Methods/Polynomial Interpolation/Lagrange Polynomial\|Lagrange Polynomial]]
+	- [[Numerical Methods/Polynomial Interpolation/Newton Polynomial\|Newton Polynomial]]
+	- [[Numerical Methods/Polynomial Interpolation/Polynomial Interpolation by Definition\|Polynomial Interpolation by Definition]]
 
 
 # Polynomial Interpolation

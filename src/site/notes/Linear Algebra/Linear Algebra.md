@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linear-algebra/linear-algebra/","tags":["linear-algebra","hub"],"noteIcon":"","dg-note-properties":{"tags":["linear-algebra","hub"],"aliases":["Linear Algebra","LA"]}}
+{"dg-publish":true,"permalink":"/linear-algebra/linear-algebra/","tags":["linear-algebra","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["linear-algebra","hub"],"aliases":["Linear Algebra","LA"]}}
 ---
 
 
@@ -12,7 +12,6 @@
 	- [[Linear Algebra/Orthogonality and Projections\|Orthogonality and Projections]]
 	- [[Linear Algebra/Systems of Linear Equations\|Systems of Linear Equations]]
 	- [[Linear Algebra/Vector Spaces and Bases\|Vector Spaces and Bases]]
-
 
 
 # Linear Algebra

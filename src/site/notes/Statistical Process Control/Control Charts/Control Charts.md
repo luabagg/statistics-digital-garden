@@ -1,6 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/statistical-process-control/control-charts/control-charts/","noteIcon":"","dg-note-properties":{"aliases":["Control Charts","Shewhart Charts"]}}
+{"dg-publish":true,"permalink":"/statistical-process-control/control-charts/control-charts/","tags":["spc","control-charts","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["spc","control-charts","hub"],"aliases":["Control Charts","Shewhart Charts"]}}
 ---
+
+
+
+- **[[Statistical Process Control/Control Charts/Control Charts\|Control Charts]]**
+	- [[Statistical Process Control/Control Charts/Autocorrelated Data\|Autocorrelated Data]]
+	- [[Statistical Process Control/Control Charts/c Chart\|c Chart]]
+	- [[Statistical Process Control/Control Charts/Common-Cause and Special-Cause Variation\|Common-Cause and Special-Cause Variation]]
+	- [[Statistical Process Control/Control Charts/Control Limits and Specification Limits\|Control Limits and Specification Limits]]
+	- [[Statistical Process Control/Control Charts/Defects per Unit\|Defects per Unit]]
+	- [[Statistical Process Control/Control Charts/I-MR Chart\|I-MR Chart]]
+	- [[Statistical Process Control/Control Charts/np Chart\|np Chart]]
+	- [[Statistical Process Control/Control Charts/p Chart\|p Chart]]
+	- [[Statistical Process Control/Control Charts/Process Capability\|Process Capability]]
+	- [[Statistical Process Control/Control Charts/Xbar-R Chart\|Xbar-R Chart]]
+	- [[Statistical Process Control/Control Charts/Xbar-S Chart\|Xbar-S Chart]]
 
 
 # Control Charts

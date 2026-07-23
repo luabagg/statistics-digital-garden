@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/numerical-methods/curve-fitting/curve-fitting/","tags":["numerical-methods","curve-fitting","hub"],"noteIcon":"","dg-note-properties":{"tags":["numerical-methods","curve-fitting","hub"],"aliases":["Curve Fitting"]}}
+{"dg-publish":true,"permalink":"/numerical-methods/curve-fitting/curve-fitting/","tags":["numerical-methods","curve-fitting","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["numerical-methods","curve-fitting","hub"],"aliases":["Curve Fitting"]}}
 ---
+
+
+
+- **[[Numerical Methods/Curve Fitting/Curve Fitting\|Curve Fitting]]**
+	- [[Numerical Methods/Curve Fitting/Least Squares\|Least Squares]]
 
 
 # Curve Fitting

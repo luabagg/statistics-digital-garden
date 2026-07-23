@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/statistical-process-control/quality-tools/case-discos-gheno/case-discos-gheno/","dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"aliases":["Discos Gheno Case","GHENOrtrs Case"]}}
+{"dg-publish":true,"permalink":"/statistical-process-control/quality-tools/case-discos-gheno/case-discos-gheno/","tags":["spc","quality-tools","case-study"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["spc","quality-tools","case-study"],"aliases":["Discos Gheno Case","GHENOrtrs Case"]}}
 ---
+
+
+
+- **[[Statistical Process Control/Quality Tools/Case - Discos Gheno/Case - Discos Gheno\|Case - Discos Gheno]]**
+	- **[[Statistical Process Control/Quality Tools/Case - Discos Gheno/Process Flowchart/Process Flowchart\|Process Flowchart]]**
 
 
 # Discos Gheno Case

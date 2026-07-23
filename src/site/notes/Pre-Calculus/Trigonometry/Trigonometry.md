@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/pre-calculus/trigonometry/trigonometry/","tags":["precalculus","trigonometry"],"noteIcon":"","dg-note-properties":{"tags":["precalculus","trigonometry"],"aliases":["Trigonometry","Unit Circle"]}}
+{"dg-publish":true,"permalink":"/pre-calculus/trigonometry/trigonometry/","tags":["precalculus","trigonometry"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["precalculus","trigonometry"],"aliases":["Trigonometry","Unit Circle"]}}
 ---
 
 
 
 - **[[Pre-Calculus/Trigonometry/Trigonometry\|Trigonometry]]**
-
 
 
 # Trigonometry

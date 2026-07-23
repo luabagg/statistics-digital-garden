@@ -5,7 +5,7 @@
 
 # Statistics Learning Center
 
-This Obsidian vault is being migrated into a concise English learning center for statistics, probability, calculus, linear algebra, numerical methods, and statistical process control.
+This Obsidian vault is a concise learning center for statistics, probability, calculus, linear algebra, numerical methods, and statistical process control.
 
 ## Start Here
 

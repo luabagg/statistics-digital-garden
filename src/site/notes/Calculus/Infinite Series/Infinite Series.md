@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calculus/infinite-series/infinite-series/","tags":["calculus","series","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","series","hub"],"aliases":["Infinite Series"]}}
+{"dg-publish":true,"permalink":"/calculus/infinite-series/infinite-series/","tags":["calculus","series","hub","infinite-series"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["calculus","series","hub","infinite-series"],"aliases":["Infinite Series"]}}
 ---
 
 
@@ -22,7 +22,6 @@
 	- [[Calculus/Infinite Series/Series Sums by Partial Sums\|Series Sums by Partial Sums]]
 	- [[Calculus/Infinite Series/Taylor Series\|Taylor Series]]
 	- [[Calculus/Infinite Series/Telescoping Series\|Telescoping Series]]
-
 
 
 # Infinite Series

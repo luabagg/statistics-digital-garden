@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/statistical-process-control/quality-tools/quality-tools/","dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"aliases":["Quality Tools","Seven Basic Quality Tools"]}}
+{"dg-publish":true,"permalink":"/statistical-process-control/quality-tools/quality-tools/","tags":["spc","quality-tools","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["spc","quality-tools","hub"],"aliases":["Quality Tools","Seven Basic Quality Tools"]}}
 ---
+
+
+
+- **[[Statistical Process Control/Quality Tools/Quality Tools\|Quality Tools]]**
+	- **[[Statistical Process Control/Quality Tools/Case - Discos Gheno/Case - Discos Gheno\|Case - Discos Gheno]]**
 
 
 # Quality Tools

@@ -1,6 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/probability/random-variable/random-variable/","noteIcon":"","dg-note-properties":{"aliases":["Random Variable","Variavel Aleatoria","Variável Aleatória"]}}
+{"dg-publish":true,"permalink":"/probability/random-variable/random-variable/","tags":["probability","random-variable","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["probability","random-variable","hub"],"aliases":["Random Variable","Variavel Aleatoria","Variável Aleatória"]}}
 ---
+
+
+
+- **[[Probability/Random Variable/Random Variable\|Random Variable]]**
+	- [[Probability/Random Variable/Continuous Random Variable\|Continuous Random Variable]]
+	- [[Probability/Random Variable/Discrete Random Variable\|Discrete Random Variable]]
+	- [[Probability/Random Variable/Expectation of a Random Variable\|Expectation of a Random Variable]]
+	- [[Probability/Random Variable/Functions of Random Variables\|Functions of Random Variables]]
+	- [[Probability/Random Variable/Mixed Random Variable\|Mixed Random Variable]]
+	- [[Probability/Random Variable/Moment Generating Functions\|Moment Generating Functions]]
+	- [[Probability/Random Variable/Probability Space Induced by Random Variable\|Probability Space Induced by Random Variable]]
+	- [[Probability/Random Variable/Variance of a Random Variable\|Variance of a Random Variable]]
 
 
 # Random Variable

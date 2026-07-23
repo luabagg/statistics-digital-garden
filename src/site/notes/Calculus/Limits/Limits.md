@@ -10,7 +10,6 @@
 	- [[Calculus/Limits/Squeeze Theorem\|Squeeze Theorem]]
 
 
-
 # Limits
 
 ## Summary

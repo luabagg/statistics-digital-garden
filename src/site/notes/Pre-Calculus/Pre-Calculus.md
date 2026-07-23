@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pre-calculus/pre-calculus/","tags":["precalculus","hub"],"noteIcon":"","dg-note-properties":{"tags":["precalculus","hub"],"aliases":["Precalculus","Pre-Calculus"]}}
+{"dg-publish":true,"permalink":"/pre-calculus/pre-calculus/","tags":["precalculus","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["precalculus","hub"],"aliases":["Precalculus","Pre-Calculus"]}}
 ---
 
 
@@ -9,7 +9,6 @@
 	- **[[Pre-Calculus/Functions/Functions\|Functions]]**
 	- **[[Pre-Calculus/Polynomials and Rational Functions/Polynomials and Rational Functions\|Polynomials and Rational Functions]]**
 	- **[[Pre-Calculus/Trigonometry/Trigonometry\|Trigonometry]]**
-
 
 
 # Pre-Calculus

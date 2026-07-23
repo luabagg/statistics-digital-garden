@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/pre-calculus/exponentials-and-logarithms/exponentials-and-logarithms/","tags":["precalculus","exponentials","logarithms"],"noteIcon":"","dg-note-properties":{"tags":["precalculus","exponentials","logarithms"],"aliases":["Exponential Functions","Logarithmic Functions","Logarithms"]}}
+{"dg-publish":true,"permalink":"/pre-calculus/exponentials-and-logarithms/exponentials-and-logarithms/","tags":["precalculus","exponentials","logarithms"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["precalculus","exponentials","logarithms"],"aliases":["Exponential Functions","Logarithmic Functions","Logarithms"]}}
 ---
+
+
+
+- **[[Pre-Calculus/Exponentials and Logarithms/Exponentials and Logarithms\|Exponentials and Logarithms]]**
 
 
 # Exponentials and Logarithms

@@ -1,6 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/probability/distributions/continuous/continuous/","noteIcon":"","dg-note-properties":{"aliases":["Continuous Distributions","Contínuas"]}}
+{"dg-publish":true,"permalink":"/probability/distributions/continuous/continuous/","tags":["probability","distributions","continuous"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["probability","distributions","continuous"],"aliases":["Continuous Distributions","Contínuas"]}}
 ---
+
+
+
+- **[[Probability/Distributions/Continuous/Continuous\|Continuous]]**
+	- [[Probability/Distributions/Continuous/Chi-Square Distribution\|Chi-Square Distribution]]
+	- [[Probability/Distributions/Continuous/Cumulative Distribution Function\|Cumulative Distribution Function]]
+	- [[Probability/Distributions/Continuous/Exponential Distribution\|Exponential Distribution]]
+	- [[Probability/Distributions/Continuous/F Distribution\|F Distribution]]
+	- [[Probability/Distributions/Continuous/Gamma Distribution\|Gamma Distribution]]
+	- [[Probability/Distributions/Continuous/Gamma Function\|Gamma Function]]
+	- [[Probability/Distributions/Continuous/Log-Normal Distribution\|Log-Normal Distribution]]
+	- [[Probability/Distributions/Continuous/Normal Distribution\|Normal Distribution]]
+	- [[Probability/Distributions/Continuous/Probability Density\|Probability Density]]
+	- [[Probability/Distributions/Continuous/Student t Distribution\|Student t Distribution]]
+	- [[Probability/Distributions/Continuous/Uniform Distribution\|Uniform Distribution]]
+	- [[Probability/Distributions/Continuous/Weibull Distribution\|Weibull Distribution]]
 
 
 # Continuous Distributions

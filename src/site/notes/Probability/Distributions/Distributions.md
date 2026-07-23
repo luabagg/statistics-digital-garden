@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/probability/distributions/distributions/","noteIcon":"","dg-note-properties":{"aliases":["Distributions","Distribuições"]}}
+{"dg-publish":true,"permalink":"/probability/distributions/distributions/","tags":["probability","distributions","hub"],"dgShowLocalGraph":true,"noteIcon":"","dg-note-properties":{"tags":["probability","distributions","hub"],"aliases":["Distributions","Distribuições"]}}
 ---
+
+
+
+- **[[Probability/Distributions/Distributions\|Distributions]]**
+	- **[[Probability/Distributions/Continuous/Continuous\|Continuous]]**
+	- **[[Probability/Distributions/Discrete/Discrete\|Discrete]]**
+	- [[Probability/Distributions/Characteristic Function\|Characteristic Function]]
+	- [[Probability/Distributions/Expectation from the MGF\|Expectation from the MGF]]
+	- [[Probability/Distributions/Newton Binomial\|Newton Binomial]]
 
 
 # Distributions
