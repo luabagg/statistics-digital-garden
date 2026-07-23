@@ -26,7 +26,7 @@ const { parse } = require("node-html-parser");
 const { minifyProductionHtml } = require("./src/site/minify-html.js");
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
-const { tagRegex, taggify } = require("./src/helpers/tagUtils");
+const { tagRegex, taggify, extractSearchableTags } = require("./src/helpers/tagUtils");
 const {
   userMarkdownSetup,
   userEleventySetup,
@@ -395,20 +395,9 @@ module.exports = async function(eleventyConfig) {
   });
 
   eleventyConfig.addFilter("searchableTags", function(str) {
-    let tags;
-    let match = str && str.match(tagRegex);
-    if (match) {
-      tags = match
-        .map((m) => {
-          return `"${m.split("#")[1]}"`;
-        })
-        .join(", ");
-    }
-    if (tags) {
-      return `${tags},`;
-    } else {
-      return "";
-    }
+    const tags = extractSearchableTags(str);
+    if (!tags.length) return "";
+    return tags.map((tag) => `"${tag}"`).join(", ") + ",";
   });
 
   eleventyConfig.addFilter("hideDataview", function(str) {
